@@ -20,7 +20,7 @@ author: Heidi Baumgartner
 ###############################################
 
 navbar-links:
-  About: "aboutme"
+  About: "about"
   Projects: 
     - MB1: "MB1"
     - MB2: "MB2"
