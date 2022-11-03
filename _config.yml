@@ -21,6 +21,9 @@ author: Heidi Baumgartner
 
 navbar-links:
   About: "about"
+  Projects: 
+    - MB1
+    - MB2
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
