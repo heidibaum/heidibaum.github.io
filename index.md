@@ -4,186 +4,71 @@ title: ManyBabies
 subtitle: A subtitle saying what MB is
 ---
 
-**ManyBabies (MB)** is a collaborative project for replication and best practices in developmental psychology research. Our goal is to bring researchers together to address difficult outstanding theoretical and methodological questions about the nature of early development and how it is studied. For example:
+The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. <br>
 
-<!--- Do infants prefer agents who are seen to help over those who are seen to hinder?-->
-- Do infants prefer helpers over hinderers?
-<!--- What factors shape infants’ preferences for familiar and novel stimuli? -->
-- When do infants like familiarity and when do they like novelty?
-<!--How does Infant Direct Speech preference vary across age?-->
-- Do babies find infant-directed speech (babytalk) more interesting than adult-directed speech?
+**MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. <br>
 
-Learn more [about]({{site.baseurl}}/about/) **MB's** origin, goals, people, and [stay up to date]({{site.baseurl}}/news/). Also, for a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
+We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (2020)](https://psyarxiv.com/dmhk2/).
 
-***
+<!-- Too detailed?
+Infant research usually requires significant human and financial resources and is slow to conduct. These aspects, combined with the pressure to publish at a rapid pace to secure promotions and funding, can render the conduction of large-scale projects unpractical under individual labs contexts.
 
-<!--
-html to create a grid and add Projects info
-images with link MUST use the class = "image" (.css from ManyPrimates)
+Too historical?
+On the other hand, large-scale *collaborative* and *Open Science* projects have the potential to test complex hypothesis and avoid the consequences of low statistical power [(Button et al., 2013)](https://doi.org/10.1038/nrn3475) and the dramatic inflation of false positives caused by “questionable research practices” [(Simmons, Nelson, & Simonsohn, 2011)](https://doi.org/10.1177/0956797611417632). Inspired by [Klein et al. (2014)](http://dx.doi.org/10.1027/1864-9335/a000178) ManyLabs' first study, in which a group of independent labs all ran the same set of replication protocols and pooled their data, an e-mail thread began, which eventually led to a [blog post](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html), and to the formation of the consortium of infancy labs.
 -->
-<section>
-	<header class="major">
-		<h2>Projects</h2>
-	</header>
-      <p>
-        The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check out our main projects, together with their affiliated spin-off projects and secondary analyses:
-      </p>
-	<header class="major">
-			<h3>Empirical Projects</h3>
-	</header>
-<br>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB1.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h4>
-        Do infants prefer infant-directed speech? Do age, method, and native language background matter?
-        <br>
-        <i>Spin-offs: <a href="{{site.baseurl}}{% link MB1A.md %}">MB1A</a>, <a href="{{site.baseurl}}{% link MB1B.md %}">MB1B</a>, <a href="{{site.baseurl}}{% link MB1G.md %}">MB1G</a>, <a href="{{site.baseurl}}{% link MB1L.md %}">MB1L</a>, <a href="{{site.baseurl}}{% link MB1N.md %}">MB1N</a>, <a href="{{site.baseurl}}{% link MB1T.md %}">MB1T</a></i>
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB2.md %}" class="image"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB2.md %}">MB2: Theory of Mind in Infancy</a></h4>
-        Do infants show anticipatory looking that reflects the false belief of another agent?
-        <br>
-        <i>Spin-off: <a href="{{site.baseurl}}{% link MB2P.md %}">MB2P</a></i>
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB3.md %}" class="image"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a></h4>
-        Do infants learn and generalize identity-based rules from speech stimuli?
-        <br>
-        <i>Spin-off: <a href="{{site.baseurl}}{% link MB3N.md %}">MB3-NIRS</a></i>
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB4.md %}" class="image"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB4.md %}">MB4: Social Evaluation</a></h4>
-        Do infants prefer agents who are seen to help over those who are seen to hinder?
-        <br>
-        <i>Spin-offs: MB4E (link to come), MB4I (link to come)</i>
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB5.md %}" class="image"><img src="/assets/img/MB5_logo.png" alt="MB5 logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB5.md %}">MB5: The Hunter & Ames Model of Infant Looking Preferences</a></h4>
-        What factors shape infants’ preferences for familiar and novel stimuli?
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB6.md %}" class="image"><img src="/assets/img/MB6_logo.png" alt="MB6 logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Neonatal Imitation</a></h4>
-        What is the nature of neonatal infants' imitation of facial gestures?
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-	</div>
-<br>
-	<header class="major">
-			<h3>Methodological Projects</h3>
-	</header>
-<br>
-	<div class="container">
-		<div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image"><img src="/assets/img/MBAH_logo.png" alt="MBAthome logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB-AtHome.md %}">MB-AtHome: Online Infant Data Collection</a></h4>
-        Solutions for testing infants in their home, with a focus on measuring looks
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image"><img src="/assets/img/MBDemo_logo.png" alt="MB-Demographics logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB-demographics.md %}">MB-Demographics: Unified Demographics for ManyBabies Projects</a></h4>
-        Creating unified demographic forms for ManyBabies projects, with standardized and custom questions
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>
-        Automatic gaze detection via webcam
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-	</div>
-<br>
-	<header class="major">
-			<h3>Spin-Off Projects</h3>
-	</header>
-	  <p>
-	    <a href="{{site.baseurl}}{% link so_sa.md %}" class="image">
-        List of Spin-Off Projects and Secondary Analyses  
-      </a>
-	  </p>
-<br>
-</section>
+
+***
+
+## Code of Conduct
+See **MB's** [Code of Conduct]({{site.baseurl}}/code_conduct/) for a full description of our pledge, standards, responsibilities, and scope.
+
+***
+
+## Definitions and Roles
+
+### **ManyBabies** activities are guided by the principles of:
+* <b><i>Transparency</i></b>: All decisions in a **MB** project, from design to publication, are as transparent as possible
+* <b><i>Collective governance</i></b>: When possible and feasible, decisions are made jointly and transparently
+* <b><i>Inclusivity and diversity</i></b>: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops
+* <b><i>Ethical research</i></b>: **MB** projects are committed to best practices and high ethical standards
+* <b><i>Respect</i></b>: Everyone agrees to a general code of conduct which ensures respectful interactions
+
+
+### **ManyBabies** [projects]({{site.baseurl}}/projects/) aim to test hypotheses about:
+* <b><i>Validity</i></b>: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies
+* <b><i>Theory</i></b>: Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)
+* <b><i>Methods</i></b>: Quantify sources of variability across labs and establish best practices
+* <b><i>Diversity</i></b>: Increase diversity of participants, researchers, & research questions
+
+> Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
+
+
+### **ManyBabies** collaborators come from [40+ nations on 6 continents](https://manybabies.shinyapps.io/shiny_mb_map/). They can serve as:
+* <b><i>Governing Board Members</i></b>: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [here]({{site.baseurl}}/people/))
+* <b><i>Project Leads</i></b>: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the **MB** [Code of Conduct]({{site.baseurl}}/code_conduct/) (see current Project Leads [here]({{site.baseurl}}/get_involved/))
+* <b><i>Data Contributors</i></b>: Collect data following an experimental protocol 
+* <b><i>Project Contributors</i></b>: Create stimuli, protocols, analysis code, and any other relevant tasks
+
+> See more detailed descriptions of [roles and responsibilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), policies on [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/) in **ManyBabies** projects.
+
+> Learn how to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your information.
 
 
 ***
 
-## Publications
-Check out **ManyBabies** [reports and conference presentations]({{site.baseurl}}/publications/).
+## Funding
+**ManyBabies** gratefully acknowledges funding from:
+* The [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/), through a [Partnership Development Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx). You can find our application materials [here](https://osf.io/xavnd/).
+* The [Association for Psychological Science](https://www.psychologicalscience.org), through a grant from the [Laura and John Arnold Foundation](http://www.laaf.org/ljaf).
+* A grant from the [Jacobs Foundation](https://jacobsfoundation.org).
+
+## Awards
+* The [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org) has recognized the contribution of **ManyBabies 1** towards improving research practices and honored the project with a Mission Award at their 2019 annual conference in Rotterdam, The Netherlands.
+* The [Einstein Foundatation](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded [MB5]({{site.baseurl}}/MB5/) Project Leads Jessica Kosie and Martin Zettersten with the [2021 Early Career Award](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
 
 ***
 
 ## Get involved
-We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite.
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite for contributing to an **MB** project.
 
-***
-
-## Updates
-If you are a **ManyBabies** collaborator, don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). 
-
-* View a list of **MB** activities and initiatives in this [spreadsheet](https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing)
-* Add new activities and initiatives by filling out [this form](https://forms.gle/qaynWvpYLP1J4eYd6)
+All collaborators are encouraged to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your information.
