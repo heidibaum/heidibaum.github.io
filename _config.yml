@@ -56,6 +56,7 @@ social-network-links:
   twitter: many_babies
   mastodon: nerdculture.de/@manybabies
   youtube: channel/UCxhS9WkVPEb1oF5BTOlbkeg
+  google-scholar: https://scholar.google.com/citations?user=JOfosbYAAAAJ&hl=en
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
 #  facebook: deanattali
@@ -74,7 +75,6 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
