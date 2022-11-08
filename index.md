@@ -14,3 +14,4 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 Learn more [about]({{site.baseurl}}/about/) **MB's** origin, goals, people, and [stay up to date]({{site.baseurl}}/news/). Also, for a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
 ***
+
