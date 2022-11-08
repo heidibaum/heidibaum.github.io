@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-cover-img: /assets/img/blocks-503109.jpg
 ---
 <!---
 To-do:
