@@ -24,20 +24,6 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
 <section>
   <div class="container">
     <div class="row">
-      row test
-    </div>
-  </div>
-</section>
-
-
-<section>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <p>    </p>
-      </div>
-    </div>
-    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="https://manybabies.github.io/MB1/"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
       </div>
@@ -53,13 +39,13 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <a href="https://csl.ist.ucf.edu/People" target="_blank"><img src="/assets/img/FioreHeadshot.png" alt="Stephen M. Fiore, Ph.D." width="200" height="200"></a>
+      <div class="col-sm-3 col-xs-6" align="center">
+        <<a href="https://manybabies.github.io/MB2/"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="100" height="100"></a>
       </div>
-      <div class="col-sm-8">
-        <h3><a href="https://csl.ist.ucf.edu/People" target="_blank">Stephen M. Fiore, Ph.D.</a></h3>
-        <i>Professor, Cognitive Sciences and Department of Philosophy, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
-        <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
+      <div class="col-sm-9">
+        <h3><a href="https://manybabies.github.io/MB2/">MB2: Theory of Mind in Infancy</a></h3>
+        <i>Do infants show anticipatory looking that reflects the false belief of another agent?</i>
+        <h4>Spinoffs:</h4> <a href="{{site.baseurl}}{% link MB2P.md %}">MB2P</a>
       </div>
     </div>
   </div>
