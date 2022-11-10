@@ -24,14 +24,42 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB1.md %}"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
+      row test
+    </div>
+  </div>
+</section>
+
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
       </div>
-      <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h4>
-        Do infants prefer infant-directed speech? Do age, method, and native language background matter?
-        <br>
-        <i>Spin-offs: <a href="{{site.baseurl}}{% link MB1A.md %}">MB1A</a>, <a href="{{site.baseurl}}{% link MB1B.md %}">MB1B</a>, <a href="{{site.baseurl}}{% link MB1G.md %}">MB1G</a>, <a href="{{site.baseurl}}{% link MB1L.md %}">MB1L</a>, <a href="{{site.baseurl}}{% link MB1N.md %}">MB1N</a>, <a href="{{site.baseurl}}{% link MB1T.md %}">MB1T</a></i>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 col-xs-6" align="center">
+        <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="200" height="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank">Fiona Fidler, Ph.D.</a></h3>
+        <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
+        <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-4 col-xs-6" align="center">
+        <a href="https://csl.ist.ucf.edu/People" target="_blank"><img src="/assets/img/FioreHeadshot.png" alt="Stephen M. Fiore, Ph.D." width="200" height="200"></a>
+      </div>
+      <div class="col-sm-8">
+        <h3><a href="https://csl.ist.ucf.edu/People" target="_blank">Stephen M. Fiore, Ph.D.</a></h3>
+        <i>Professor, Cognitive Sciences and Department of Philosophy, University of Central Florida, USA; President, International Network for the Science of Team Science</i>
+        <h4>Do we need a "Science of Big Team Science"?  Understanding and Managing Cognition and Coordination During Scientific Collaborations</h4>
       </div>
     </div>
   </div>
