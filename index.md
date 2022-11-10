@@ -24,7 +24,9 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
 <section>
   <div class="container">
     <div class="row">
-      row test
+      <div class="col-sm-3 col-xs-6" align="center">
+        col test
+      </div>
     </div>
   </div>
 </section>
