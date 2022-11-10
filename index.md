@@ -25,6 +25,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
   <div class="container">
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <br>
         <a href="https://manybabies.github.io/MB1/"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
@@ -35,7 +36,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
     </div>
     <div class="row">
       <div class="col-sm-12">
-        <p>    </p>
+        test
       </div>
     </div>
     <div class="row">
@@ -45,7 +46,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       <div class="col-sm-9">
         <h3><a href="https://manybabies.github.io/MB2/">MB2: Theory of Mind in Infancy</a></h3>
         <i>Do infants show anticipatory looking that reflects the false belief of another agent?</i>
-        <h4>Spinoffs:</h4> <a href="{{site.baseurl}}{% link MB2P.md %}">MB2P</a>
+        <h4>Spinoffs:</h4> 
       </div>
     </div>
   </div>
