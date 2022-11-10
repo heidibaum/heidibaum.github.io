@@ -35,11 +35,6 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-12">
-        test
-      </div>
-    </div>
-    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="https://manybabies.github.io/MB2/"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="100" height="100"></a>
       </div>
