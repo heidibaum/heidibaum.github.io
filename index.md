@@ -20,7 +20,3 @@ Learn more [about]({{site.baseurl}}/about/) **MB's** origin, goals, people, and 
 The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check out our main projects, together with their affiliated spin-off projects and secondary analyses:
 
 ### Empirical Projects
-
-<section>
-test
-</section>
