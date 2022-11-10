@@ -15,3 +15,24 @@ Learn more [about]({{site.baseurl}}/about/) **MB's** origin, goals, people, and 
 
 ***
 
+## Projects
+
+The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check out our main projects, together with their affiliated spin-off projects and secondary analyses:
+
+### Empirical Projects
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="{{site.baseurl}}{% link MB1.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h4>
+        Do infants prefer infant-directed speech? Do age, method, and native language background matter?
+        <br>
+        <i>Spin-offs: <a href="{{site.baseurl}}{% link MB1A.md %}">MB1A</a>, <a href="{{site.baseurl}}{% link MB1B.md %}">MB1B</a>, <a href="{{site.baseurl}}{% link MB1G.md %}">MB1G</a>, <a href="{{site.baseurl}}{% link MB1L.md %}">MB1L</a>, <a href="{{site.baseurl}}{% link MB1N.md %}">MB1N</a>, <a href="{{site.baseurl}}{% link MB1T.md %}">MB1T</a></i>
+      </div>
+    </div>
+  </div>
+</section>
