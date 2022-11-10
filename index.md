@@ -21,6 +21,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
 
 ### Empirical Projects
 
+<!--
 <section>
   <div class="container">
     <div class="row">
@@ -36,3 +37,5 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
     </div>
   </div>
 </section>
+
+-->
