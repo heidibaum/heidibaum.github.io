@@ -38,13 +38,13 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-4 col-xs-6" align="center">
-        <a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank"><img src="/assets/img/FidlerHeadshot.png" alt="Fiona Fidler, Ph.D." width="200" height="200"></a>
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="https://manybabies.github.io/MB1/"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
       </div>
-      <div class="col-sm-8">
-        <h3><a href="https://findanexpert.unimelb.edu.au/profile/3224-fiona-fidler#" target="_blank">Fiona Fidler, Ph.D.</a></h3>
-        <i>Professor, History and Philosophy Science, University of Melbourne, Australia; Australian Research Council Future Fellow</i>
-        <h4>Collaborative Assessments for Trustworthy Science: The repliCATS project</h4>
+      <div class="col-sm-9">
+        <h3><a href="https://manybabies.github.io/MB1/">MB1: Infant-Directed Speech Preference</a></h3>
+        <i>Do infants prefer infant-directed speech? Do age, method, and native language background matter?</i>
+        <h4>Spinoffs:</h4>
       </div>
     </div>
     <div class="row">
