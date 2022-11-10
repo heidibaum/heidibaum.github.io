@@ -31,7 +31,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       <div class="col-sm-9">
         <h3><a href="https://manybabies.github.io/MB1/">MB1: Infant-Directed Speech Preference</a></h3>
         <i>Do infants prefer infant-directed speech? Do age, method, and native language background matter?</i>
-        <h4>Spinoffs:</h4>
+        <i><b>Spinoffs:</b> MB1A, MB1B, MB1G, MB1L, MB1N, MB1T</i>
       </div>
     </div>
     <hr>
@@ -43,8 +43,9 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       <div class="col-sm-9">
         <h3><a href="https://manybabies.github.io/MB2/">MB2: Theory of Mind in Infancy</a></h3>
         <i>Do infants show anticipatory looking that reflects the false belief of another agent?</i>
-        <h4>Spinoffs:</h4>
+        <i><b>Spinoffs:</b> MB2P</i>
       </div>
     </div>
+    <hr>
   </div>
 </section>
