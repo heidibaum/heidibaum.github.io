@@ -25,7 +25,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
   <div class="container">
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        col test
+        <a href="{{site.baseurl}}{% link MB1.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
       </div>
     </div>
   </div>
