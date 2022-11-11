@@ -11,7 +11,7 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 * **[About ManyBabies]({{site.baseurl}}/about/)**
 * **[News and Events]({{site.baseurl}}/news/)**
 * **[People]({{site.baseurl}}/people/)**
-* [<h2>Contributor Dashboard</h2>](https://manybabies.shinyapps.io/shiny_mb_map/)
+* **[Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)**
 
 
 ***
