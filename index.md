@@ -10,7 +10,7 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 
 > Learn more [about]({{site.baseurl}}/about/) **MB's** origin & goals <br>
 
-> [stay up to date]({{site.baseurl}}/news/) about **MB** news and events <br>
+> Stay up to date about **MB** [news and events]({{site.baseurl}}/news/) <br>
 
 > Meet the [people]({{site.baseurl}}/people/) involved in **MB** and view the interactive [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
