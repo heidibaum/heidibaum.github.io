@@ -12,7 +12,7 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 * **[News and Events]({{site.baseurl}}/news/)**
 * **[People]({{site.baseurl}}/people/)**
 * **[Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)**
-
+<br>
 
 ***
 
