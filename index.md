@@ -34,7 +34,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
         <h3><a href="https://manybabies.github.io/MB1/">MB1: Infant-Directed Speech Preference</a></h3>
         <i>Do infants prefer infant-directed speech? Do age, method, and native language background matter?</i><br>
         <br>
-        <b>Spinoffs:</b> MB1A, MB1B, MB1G, MB1L, MB1N, MB1T
+        <b>Spinoffs:</b> <a href="{{site.baseurl}}/MB1A/">MB1A</a>, MB1B, MB1G, MB1L, MB1N, MB1T
       </div>
     </div>
     <hr>
