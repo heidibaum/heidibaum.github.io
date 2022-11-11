@@ -32,7 +32,7 @@ navbar-links:
     - Calendar: "calendar"
     - Contributor Dashboard: "https://manybabies.shinyapps.io/shiny_mb_map/"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
-    - Teaching w/ MB: "teaching"
+    - Teaching with MB: "teaching"
     - Open Science: "openscience"
 
 ################
