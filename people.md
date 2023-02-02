@@ -11,18 +11,16 @@ To do:
 ### Contributors   
 **ManyBabies** is all about our amazing team of contributors from around the world. For a detailed index of contributors (& institutions, countries, studies), visit the [**MB** contributor dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
 
-To be added to the **MB** dashboard, please fill out the form on [this page]({{site.baseurl}}/map/).
+> If you are a ManyBabies contributor, please fill out the form on the bottom of this page to be added to the dashboard.
 
-If you are already on the dashboard and wish to update any information (e.g., change of affiliation or name, add a new study), you can either [fill out the form]({{site.baseurl}}/map/) again or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
+> If you are already on the dashboard and wish to update any information (e.g., change of affiliation or name, add a new study), you can either fill out the form below or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
 
-<br>
 
 ***
 ### Project Leads
 
 Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
-<br>
 
 ***
 <section>
@@ -238,37 +236,7 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
 <br>
 </section>
 
-
-<!--
-### Executive Director   
-
-* [**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi) [[email]](mailto:manybabiesconsortium@gmail.com), *Stanford University (Palo Alto, United States)* [2021 - ] 
-
 ***
-### Governing Board
+## To be added to the dashboard (or to update your information), please fill out this form
 
-> [Contact the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
-
-* [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina) [[email]](mailto:chbergma@gmail.com), *University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics, (Nijmegen, Netherlands)* [2016 - ]
-* [**Krista Byers-Heinlein**](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) [[email]](mailto:k.byers@concordia.ca), *Concordia University (Montréal, Canada)* [2016 - ]
-* [**Michael C. Frank**](https://web.stanford.edu/~mcfrank/) [[email]](mailto:mcfrank@stanford.edu), *Stanford University (Palo Alto, United States)* [2016 - ]
-* [**Kiley Hamlin**](https://psych.ubc.ca/profile/kiley-hamlin/) [[email]](mailto:kiley.hamlin@psych.ubc.ca), *University of British Columbia (Vancouver, Canada)* [2016 - ]
-* [**Melissa Kline Struhl**](http://www.melissaklinestruhl.com) [[email]](mailto:mekline@mit.edu), *Lookit (Cambridge, United States)* [2016 - ]
-* [**Eon-Suk Ko**](https://sites.google.com/site/eonsuk/) [[email]](mailto:eonsuk@gmail.com), *Chosun University (Gwangju, South Korea)* [2022 - ]
-* [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams) [[email]](mailto:caseylw@princeton.edu), *Princeton University (Princeton, United States)* [2016 - ]
-* [**Brianna McMillan**](https://www.smith.edu/academics/faculty/brianna-mcmillan) [[email]](mailto:bmcmillan@smith.edu), *Smith College (Northampton, United States)* [2022 - ]
-* [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/) [[email]](mailto:m_soderstrom@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2016 - ]
-
-***
-### Student Advisors
-
-* **Mary Beth Neff** [[email]](mailto:marybethneff@gmail.com), *University of Oslo (Oslo, Norway)*  [July 2022 - June 2023]
-* **Francis Yuen** [[email]](mailto:francis.yuen@psych.ubc.ca), *University of British Columbia (Vacouver, Canada)* [July 2022 - June 2023]
-
-***
-### Office Assistant   
-* **Grace Zhou** [[email]](mailto:grace.zhou@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2021 - ] 
--->
-
-
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
