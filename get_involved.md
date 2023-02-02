@@ -8,21 +8,24 @@ title: Get Involved!
 In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. <br>
 **All are welcome!**
 
-* <a href="#projects">List of Projects</a>: Project Leads contact info, listserv subscription links, etc.
-* <a href="#proposal">New Project Proposal Info</a>: Got an MB project idea? Let us know!
-* <a href="#MBActivity">MB Activity Tracking</a>: report MB-related presentations, publications, etc. here!
-* <a href="#signupform">MB Sign-up Form</a>
-* Monthly "Drop-In Hours": all are welcome! Held on the first Thursday of the month, see [calendar]({{site.baseurl}}/calendar/) for info)
+* <a href="#projects">**List of Projects**</a>: Project Leads contact info, listserv subscription links, etc.
+* <a href="#proposal">**New Project Proposal Info**</a>: Got an MB project idea? Let us know!
+* <a href="#MBActivity">**MB Activity Tracking**</a>: Report MB-related presentations, publications, etc. here
+* <a href="#signupform">**MB Sign-up Form**</a>
+* [**Monthly "Drop-In Hours"**]({{site.baseurl}}/calendar/): All are welcome! Held on the first Thursday of the month, see [calendar]({{site.baseurl}}/calendar/) for info
 
 If you know which project you are interested in joining, **you can email one or more of the Project Leads directly**. You are also encouraged to **subscribe to project listservs** to receive project updates and communications (see links below). 
 
 If you're unsure of how you'd like to contribute or you'd like to talk with us about contribution opportunities, please **fill out the <a href="#signupform">Sign-Up Form</a>** and we'll be in touch with you as soon as possible. 
 
-You are also welcome to join us at our monthly "Drop-in Hours" (currently on the first Thursday of each month). Times and links to join can be found in our [calendar]({{site.baseurl}}/news/).
+You are also welcome to join us at our **monthly "Drop-in Hours"** (currently held on the first Thursday of each month). Times and links to join via Zoom can be found in our [calendar]({{site.baseurl}}/news/).
 
 
 ***
 <h2 id="proposal">Contact Info by Project</h2>
+
+* Filler 1
+* Filler 2
 
 ***
 
