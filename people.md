@@ -19,7 +19,7 @@ To do:
 ***
 ### Project Leads
 
-Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
+Project Leads are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
 
 ***
