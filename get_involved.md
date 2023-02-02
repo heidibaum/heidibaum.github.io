@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Get Involved!
-subtitle: Join MB!
 ---
 
 
