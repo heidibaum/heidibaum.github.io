@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About
-subtitle: What is ManyBabies?
+title: About ManyBabies
 ---
+
+## What is ManyBabies?
 
 The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. <br>
 
-**MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. <br>
+**MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach. <br>
 
 We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (2020)](https://psyarxiv.com/dmhk2/).
 
@@ -20,7 +21,7 @@ On the other hand, large-scale *collaborative* and *Open Science* projects have 
 ***
 
 ## Code of Conduct
-See **MB's** [Code of Conduct]({{site.baseurl}}/code_conduct/) for a full description of our pledge, standards, responsibilities, and scope.
+All **MB** contributors are expected to abide by our [Code of Conduct]({{site.baseurl}}/code_conduct/). Please read the Code of Conduct for a full description of our pledge, standards, responsibilities, and scope.
 
 ***
 
