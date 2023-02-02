@@ -8,18 +8,27 @@ To do:
 - update funding information? MB2 Grant?
 --->
 
-### Contributors   
-**ManyBabies** is all about our amazing team of contributors from around the world. For a detailed index of contributors (& institutions, countries, studies), visit the [**MB** contributor dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
+### ManyBabies Contributors   
+**ManyBabies** is all about our amazing team of researchers from around the world. 
 
-> **If you are a ManyBabies contributor**, please fill out the form on the bottom of this page to be added to the dashboard.
+## [Visit the **MB Contributor Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/). 
 
-> **To update your information** (e.g., change of affiliation or name, add a new study), you can either fill out the form below or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
+The [Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of **MB** contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
+
+#### For Contributors:
+* **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform">form</a> below.
+* **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform">form</a> below or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
+
+> Please note that all responses to the form are moderated before being added to the dashboard. Thank your for your patience! 
+
+#### For Project Leads:
+* **To add multiple contributors at once**: [email us](mailto:manybabiesconsortium@gmail.com)
 
 
 ***
 ### Project Leads
 
-Project Leads are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
+Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The Project Leads are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
 
 ***
@@ -237,6 +246,6 @@ Project Leads are listed on each [Project Page]({{site.baseurl}}/projects/), as 
 </section>
 
 ***
-### To be added to the dashboard (or to update your information), please fill out this form:
+<h3 id="dashboardform">To be added to the dashboard (or to update your information), please fill out this form:</h3>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
