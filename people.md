@@ -13,7 +13,7 @@ To do:
 
 > If you are a ManyBabies contributor, please fill out the form on the bottom of this page to be added to the dashboard.
 
-> If you are already on the dashboard and wish to update any information (e.g., change of affiliation or name, add a new study), you can either fill out the form below or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
+> To update your information (e.g., change of affiliation or name, add a new study), you can either fill out the form below or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
 
 
 ***
