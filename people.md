@@ -1,7 +1,6 @@
 ---
 layout: page
 title: People
-cover-img: /assets/img/feet-2796905.jpg
 ---
 
 <!---
