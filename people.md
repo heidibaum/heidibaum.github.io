@@ -21,7 +21,7 @@ To do:
 
 Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
-TEST
+TEST2
 
 ***
 <section>
@@ -31,7 +31,7 @@ TEST
 <br>
   <div class="container">
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center" margin="auto">
+      <div class="col-sm-3 col-xs-6" align="center" justify-content="center">
         <img src="/assets/img/HeidiBaumgartner.png" alt="Heidi Baumgartner" width="100" height="100">
       </div>
       <div class="col-sm-9">
