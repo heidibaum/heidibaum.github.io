@@ -11,9 +11,9 @@ To do:
 ### Contributors   
 **ManyBabies** is all about our amazing team of contributors from around the world. For a detailed index of contributors (& institutions, countries, studies), visit the [**MB** contributor dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
 
-> If you are a ManyBabies contributor, please fill out the form on the bottom of this page to be added to the dashboard.
+> **If you are a ManyBabies contributor**, please fill out the form on the bottom of this page to be added to the dashboard.
 
-> To update your information (e.g., change of affiliation or name, add a new study), you can either fill out the form below or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
+> **To update your information** (e.g., change of affiliation or name, add a new study), you can either fill out the form below or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
 
 
 ***
@@ -21,7 +21,7 @@ To do:
 
 Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
-TEST4
+TEST5
 
 ***
 <section>
@@ -32,8 +32,7 @@ TEST4
   <div class="container">
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <br>
-        <img src="/assets/img/HeidiBaumgartner.png" alt="Heidi Baumgartner" width="100" height="100">
+        <img src="/assets/img/HeidiBaumgartner.png" alt="Heidi Baumgartner" width="100" height="100" style="vertical-align:middle">
       </div>
       <div class="col-sm-9">
         <h4><a href="https://www-csli.stanford.edu/people/baumgartner-heidi">Heidi Baumgartner</a> [2021 - ]</h4> 
@@ -239,6 +238,6 @@ TEST4
 </section>
 
 ***
-### To be added to the dashboard (or to update your information), please fill out this form
+### To be added to the dashboard (or to update your information), please fill out this form:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
