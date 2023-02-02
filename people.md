@@ -11,7 +11,7 @@ To do:
 ### ManyBabies Contributors   
 **ManyBabies** is all about our amazing team of researchers from around the world. 
 
-<h2 align="center">[Visit the **MB Contributor Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/)</h2> 
+<a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank"><h2>Visit the **MB Contributor Dashboard**</h2></a> 
 
 The [Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of **MB** contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
 
