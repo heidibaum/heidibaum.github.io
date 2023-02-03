@@ -60,13 +60,13 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/code.png" alt="code of conduct" width="30" height="30"> 
+        <img src="/assets/img/code.png" alt="code of conduct"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/codeofconduct/"><b> Code of Conduct</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/ethics.png" alt="ethics" width="30" height="30"> 
+        <img src="/assets/img/ethics.png" alt="ethics"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b> Ethics Guidance</b></a>
@@ -75,13 +75,13 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/collaboration.png" alt="collaboration agreement" width="30" height="30"> 
+        <img src="/assets/img/collaboration.png" alt="collaboration agreement"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link" target="_blank"><b> Collaboration Agreement</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/credit-icon.png" alt="CRediT categories" width="30" height="30"> 
+        <img src="/assets/img/credit-icon.png" alt="CRediT categories"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link" target="_blank"><b> CRediT Categories</b></a>
@@ -90,13 +90,13 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/twitter.png" alt="twitter logo" width="30" height="30"> 
+        <img src="/assets/img/twitter.png" alt="twitter logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://twitter.com/Many_Babies" target="_blank"><b> @Many_Babies</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/mastodon.png" alt="mastodon logo" width="30" height="30"> 
+        <img src="/assets/img/mastodon.png" alt="mastodon logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://nerdculture.de/@manybabies" target="_blank"><b> @manybabies</b></a>
@@ -105,7 +105,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo" width="30" height="30"> 
+        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/assets/img/avatar-icon-2022.png" target="_blank"><b> Logo</b></a>
