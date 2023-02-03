@@ -47,6 +47,7 @@ title: People
 	<header class="major">
 			<h3>Executive Director</h3>
 	</header>
+<br>
   <div class="container">
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
