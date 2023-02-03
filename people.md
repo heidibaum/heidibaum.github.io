@@ -1,6 +1,7 @@
 ---
 layout: page
 title: People
+cover-img: /assets/img/MB_map.png
 ---
 
 
