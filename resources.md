@@ -3,15 +3,7 @@ layout: page
 title: Resources
 cover-img: /assets/img/sandpit-762541.jpg
 ---
-<!--
-To-do:
-- ask if anyone from MB wants to add their website
-- add more resources
 
-Notes.
-Governing Board members' labs
-Alphabetical order
--->
 
 ### ManyBabies Resources
 * [Public Calendar]({{site.baseurl}}/calendar/)
@@ -29,11 +21,13 @@ Alphabetical order
   * [@manybabies](https://nerdculture.de/@manybabies) on Mastodon
 
 
+<img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> [**Contributor Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/) <br>
+
 <img src="/assets/img/calendar.png" alt="desk calendar" width="50" height="50"> [**Public Calendar**]({{site.baseurl}}/calendar/) <br>
 
 <img src="/assets/img/OSF.png" alt="OSF logo" width="50" height="50"> [**OSF Repository**](https://osf.io/rpw6d/) <br>
 
-<img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> [**Contributor Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/) 
+
 
 ***
 
