@@ -51,5 +51,4 @@ Further details of specific enforcement policies may be posted separately.
 This Code of Conduct is adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html) and from the [Psych-DS Code of Conduct](https://github.com/psych-ds/psych-DS/blob/master/CODE_OF_CONDUCT.md) (retrieved on 2018-11-23).
 
 ## Contribute
-Note that this is a living document. Comments and questions are explicitly encouraged. [Here is a version of the Code that allows comments](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing).
->(To make anonymous comments, make sure you are not logged in to Google in your browser)
+Note that this is a living document. Comments and questions are explicitly encouraged. [Here is a version of the Code that allows comments](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing). *(To make anonymous comments, make sure you are not logged in to Google in your browser.)*
