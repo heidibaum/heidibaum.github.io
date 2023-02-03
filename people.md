@@ -23,7 +23,7 @@ title: People
 
 ### Project Leads
 
-<img src="/assets/img/networking.png"width-"100" height="100"> Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The **Project Leads** are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
+<img src="/assets/img/networking.png" width="100" height="100"> Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The **Project Leads** are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
 
 ***
