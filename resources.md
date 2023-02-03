@@ -40,7 +40,7 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/validate.png" alt="checkmark" width="40" height="40"> 
+        <img src="/assets/img/validate.png" alt="checkmark"> 
       </div>
       <div class="col-sm-4 col-xs-6" align="left">
         <a href="https://manybabies.shinyapps.io/validator/"><b> Data Validator</b></a>
