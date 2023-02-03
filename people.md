@@ -6,7 +6,7 @@ title: People
 
 <h2><a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">Visit the <b>MB Contributor Dashboard</b></a></h2>
 
-**ManyBabies** is all about our amazing team of researchers from around the world. The [**Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of **MB** contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
+**ManyBabies** is all about our amazing network of researchers from around the world. The [**Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of **MB** contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
 
 #### For Contributors:
 * **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form</b></a> below.
@@ -37,7 +37,7 @@ title: People
         <img src="/assets/img/networking.png" alt="project leaders" width="100" height="100">
       </div>
       <div class="col-sm-9">
-         <p>Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The **Project Leads** are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).</p>
+         <p>Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The <b>Project Leads</b> are listed on each <a href="{{site.baseurl}}/projects/">Project Page</a>, as well as <a href="{{site.baseurl}}/get_involved/">here</a>).</p>
       </div>
     </div>
     <div class="col-sm-12">
