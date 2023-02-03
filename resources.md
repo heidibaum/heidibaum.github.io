@@ -21,7 +21,7 @@ title: Resources
         <a href="{{site.baseurl}}/calendar/"><b> Public Calendar</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/youtube.png" alt="YouTube logo" width="30" height="30"> 
+        <img src="/assets/img/youtube.png" alt="YouTube logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://www.youtube.com/@manybabies" target="_blank"><b> YouTube/@ManyBabies</b></a>
@@ -30,13 +30,13 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/pin.png" alt="globe with pins" width="30" height="30"> 
+        <img src="/assets/img/pin.png" alt="globe with pins"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank"><b> Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/validate.png" alt="checkmark" width="30" height="30"> 
+        <img src="/assets/img/validate.png" alt="checkmark"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://manybabies.shinyapps.io/validator/" target="_blank"><b> Data Validator</b></a>
@@ -45,13 +45,13 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/OSF.png" alt="OSF logo" width="30" height="30"> 
+        <img src="/assets/img/OSF.png" alt="OSF logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://osf.io/rpw6d/" target="_blank"><b> OSF Repository</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/github.png" alt="Github logo" width="30" height="30"> 
+        <img src="/assets/img/github.png" alt="Github logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://github.com/manybabies" target="_blank"><b> Github Repository</b></a>
