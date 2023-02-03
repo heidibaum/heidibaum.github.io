@@ -43,6 +43,10 @@ title: Resources
         <img src="/assets/img/github.png" alt="Github logo" width="50" height="50"> 
         <a href="{{site.baseurl}}{% link code_conduct.md %}"><b>Code of Conduct</b></a>
       </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/github.png" alt="Github logo" width="50" height="50"> 
+        <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link"><b>Ethics Guidance</b></a>
+      </div>
     </div>
   </div>
 </section>
