@@ -63,7 +63,7 @@ title: Resources
         <img src="/assets/img/code.png" alt="code of conduct" width="30" height="30"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/code_conduct/"><b> Code of Conduct</b></a>
+        <a href="{{site.baseurl}}/codeofconduct/"><b> Code of Conduct</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/ethics.png" alt="ethics" width="30" height="30"> 
