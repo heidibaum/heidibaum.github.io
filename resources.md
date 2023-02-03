@@ -10,7 +10,7 @@ title: Resources
   <div class="container">
     <div class="row" align="center">
       <div class="col-sm-5 col-xs-6" align="left">
-        <p style="color:white;>space</p>
+        <p style="color:white;">space</p>
       </div>
     </div>
     <div class="row" align="center">
