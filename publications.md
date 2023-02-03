@@ -14,6 +14,13 @@ title: Publications & Manuscripts
       <div class="col-sm-2" align="center">
         test
       </div>
+      <div class="col-sm-10" align="left">
+        <p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2022, December 22). 
+        <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. 
+        PsyArXiv. 
+        <a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">doi:10.31234/osf.io/uwche</a> 
+        <a href="{{site.baseurl}}{% link MB1T.md %}">[MB1T]</a></p>
+      </div>
     </div>
   </div>
 </section>
