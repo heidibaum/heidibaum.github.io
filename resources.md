@@ -8,7 +8,7 @@ title: Resources
 
 <section>
   <div class="container">
-    <div class="row" align="center"> <!--Calendar & YouTube -->
+    <div class="row" align="center"> /*Calendar & YouTube*/
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50"> 
         <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
@@ -18,7 +18,7 @@ title: Resources
         <a href="https://www.youtube.com/@manybabies"><b>YouTube</b></a>
       </div>
     </div>
-    <div class="row" align="center"> <!--Dashboard & Validator -->
+    <div class="row" align="center"> /*Dashboard & Validator*/
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> 
         <a href="https://manybabies.shinyapps.io/shiny_mb_map/"><b>Contributor Dashboard</b></a>
@@ -28,7 +28,7 @@ title: Resources
         <a href="https://manybabies.shinyapps.io/validator/"><b>Data Validator</b></a>
       </div>
     </div>
-    <div class="row" align="center"> <!--OSF & Github -->
+    <div class="row" align="center"> /*OSF & Github*/
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/OSF.png" alt="OSF logo" width="50" height="50"> 
         <a href="https://osf.io/rpw6d/"><b>OSF Repository</b></a>
@@ -38,7 +38,7 @@ title: Resources
         <a href="https://github.com/manybabies"><b>Github Repository</b></a>
       </div>
     </div>
-    <div class="row" align="center"> <!--Code & Ethics -->
+    <div class="row" align="center"> /*Code & Ethics*/
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/github.png" alt="Github logo" width="50" height="50"> 
         <a href="{{site.baseurl}}{% link code_conduct.md %}"><b>Code of Conduct</b></a>
