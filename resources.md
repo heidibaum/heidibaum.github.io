@@ -15,7 +15,7 @@ title: Resources
     </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/calendar.png" alt="calendar" width="30" height="30"> 
+        <img src="/assets/img/calendar.png" alt="calendar"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/calendar/"><b> Public Calendar</b></a>
