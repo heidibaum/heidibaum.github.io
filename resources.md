@@ -23,7 +23,7 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/youtube.png" alt="YouTube logo" width="30" height="30"> 
+        <img src="/assets/img/youtube.png" alt="YouTube logo"> 
       </div>
       <div class="col-sm-4 col-xs-6" align="left">
         <a href="https://www.youtube.com/@manybabies" target="_blank"><b> YouTube/@ManyBabies</b></a>
