@@ -28,6 +28,11 @@ Alphabetical order
   * [@Many_Babies](https://twitter.com/Many_Babies) on Twitter
   * [@manybabies](https://nerdculture.de/@manybabies) on Mastodon
 
+
+<img src="/assets/img/calendar.png" alt="desk calendar" width="50" height="50"> [Public Calendar]({{site.baseurl}}/calendar/) <br>
+
+<img src="/assets/img/osf.png" alt="OSF logo" width="50" height="50"> [OSF Repository](https://osf.io/rpw6d/) <br>
+
 <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> [Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) 
 
 ***
