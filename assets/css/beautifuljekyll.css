@@ -36,19 +36,19 @@ h1 {
 }
 h2 {
   font-size: 1.875rem;
-  color: #A34A7D;
+  color: #036C9A;
 }
 h3 {
   font-size: 1.5rem;
-  color: #036C9A;
+  color: #A34A7D;
 }
 h4 {
   font-size: 1.125rem;
-  color: #A34A7D;
+  color: #036C9A;
 }
 h5 {
   font-size: 1rem;
-  color: #036C9A;
+  color: #A34A7D;
 }
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
