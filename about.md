@@ -11,12 +11,6 @@ The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.co
 
 We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (2020)](https://psyarxiv.com/dmhk2/).
 
-<!-- Too detailed?
-Infant research usually requires significant human and financial resources and is slow to conduct. These aspects, combined with the pressure to publish at a rapid pace to secure promotions and funding, can render the conduction of large-scale projects unpractical under individual labs contexts.
-
-Too historical?
-On the other hand, large-scale *collaborative* and *Open Science* projects have the potential to test complex hypothesis and avoid the consequences of low statistical power [(Button et al., 2013)](https://doi.org/10.1038/nrn3475) and the dramatic inflation of false positives caused by “questionable research practices” [(Simmons, Nelson, & Simonsohn, 2011)](https://doi.org/10.1177/0956797611417632). Inspired by [Klein et al. (2014)](http://dx.doi.org/10.1027/1864-9335/a000178) ManyLabs' first study, in which a group of independent labs all ran the same set of replication protocols and pooled their data, an e-mail thread began, which eventually led to a [blog post](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html), and to the formation of the consortium of infancy labs.
--->
 
 ***
 
@@ -44,9 +38,9 @@ All **MB** contributors are expected to abide by our [Code of Conduct]({{site.ba
 > Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
 
 
-### **ManyBabies** collaborators come from [40+ nations on 6 continents](https://manybabies.shinyapps.io/shiny_mb_map/). They can serve as:
-* <b><i>Governing Board Members</i></b>: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [here]({{site.baseurl}}/people/))
-* <b><i>Project Leads</i></b>: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the **MB** [Code of Conduct]({{site.baseurl}}/code_conduct/) (see current Project Leads [here]({{site.baseurl}}/get_involved/))
+### **ManyBabies** contributors come from [40+ nations on 6 continents](https://manybabies.shinyapps.io/shiny_mb_map/). They can serve as:
+* <b><i>Governing Board Members</i></b>: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [**here**]({{site.baseurl}}/people/))
+* <b><i>Project Leads</i></b>: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/code_conduct/) (see current Project Leads [**here**]({{site.baseurl}}/get_involved/))
 * <b><i>Data Contributors</i></b>: Collect data following an experimental protocol 
 * <b><i>Project Contributors</i></b>: Create stimuli, protocols, analysis code, and any other relevant tasks
 
