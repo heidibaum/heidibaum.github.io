@@ -9,14 +9,14 @@ title: Resources
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-1 col-xs-6" align="right">
+      <div class="col-sm-2 col-xs-6" align="right">
         <br>
         <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50">
       </div>
       <div class="col-sm-3">
         <h4><a href="https://manybabies.shinyapps.io/shiny_mb_map/">Contributor Dashboard</a></h4>
       </div>
-      <div class="col-sm-1 col-xs-6" align="right">
+      <div class="col-sm-2 col-xs-6" align="right">
         <br>
         <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50">
       </div>
