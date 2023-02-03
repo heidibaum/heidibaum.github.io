@@ -18,38 +18,10 @@ title: Resources
         <a href="https://www.youtube.com/@manybabies"><b>YouTube</b></a>
       </div>
     </div>
-    <div class="row" align="center">
-      <div class="col-sm-5 col-xs-6" align="left">
-        <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> 
-        <a href="https://manybabies.shinyapps.io/shiny_mb_map/"><b>Contributor Dashboard</b></a>
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <img src="/assets/img/validate.png" alt="checkmark" width="50" height="50"> 
-        <a href="https://manybabies.shinyapps.io/validator/"><b>Data Validator</b></a>
-      </div>
-    </div>
-    <div class="row" align="center">
-      <div class="col-sm-5 col-xs-6" align="left">
-        <img src="/assets/img/OSF.png" alt="OSF logo" width="50" height="50"> 
-        <a href="https://osf.io/rpw6d/"><b>OSF Repository</b></a>
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <img src="/assets/img/github.png" alt="Github logo" width="50" height="50"> 
-        <a href="https://github.com/manybabies"><b>Github Repository</b></a>
-      </div>
-    </div>
-    <div class="row" align="center">
-      <div class="col-sm-5 col-xs-6" align="left">
-        <img src="/assets/img/github.png" alt="Github logo" width="50" height="50"> 
-        <a href="{{site.baseurl}}{% link code_conduct.md %}"><b>Code of Conduct</b></a>
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <img src="/assets/img/github.png" alt="Github logo" width="50" height="50"> 
-        <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link"><b>Ethics Guidance</b></a>
-      </div>
-    </div>
   </div>
 </section>
+
+
 
 
 * [Public Calendar]({{site.baseurl}}/calendar/)
