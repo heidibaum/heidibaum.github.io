@@ -6,7 +6,7 @@ title: Publications & Manuscripts
 > View our Google Scholar profile [here](https://scholar.google.com/citations?user=JOfosbYAAAAJ&hl=en)
 
 ***
-### Submitted & Under Review
+## Submitted & Under Review
 
 <section>
   <div class="container">
