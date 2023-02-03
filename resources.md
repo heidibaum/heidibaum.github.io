@@ -111,6 +111,10 @@ title: Resources
         <a href="{{site.baseurl}}/assets/img/avatar-icon-2022.png" target="_blank"><b> Logo</b></a>
       </div>
     </div>
+    <div class="row" align="center">
+      <div class="col-sm-12 col-xs-6" align="center">
+      </div>
+    </div>
   </div>
 </section>
 
