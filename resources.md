@@ -77,7 +77,7 @@ title: Resources
     <div class="row" align="center">
       <div class="col-sm-6 col-xs-6" align="left">
         <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo" width="50" height="50" style="float: left;"> 
-        <a href="{{site.baseurl}}/assets/img/avatar-icon-2022.png"><b> Logo</b></a>
+        <a href="{{site.baseurl}}/assets/img/avatar-icon-2022.png/"><b> Logo</b></a>
       </div>
     </div>
   </div>
