@@ -3,21 +3,14 @@ layout: page
 title: People
 ---
 
-<!---
-To do:
-- update funding information? MB2 Grant?
---->
 
-### ManyBabies Contributors   
-**ManyBabies** is all about our amazing team of researchers from around the world. 
+<h2><a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">Visit the <b>MB Contributor Dashboard</b></a></h2>
 
-<h2><a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">Visit the MB Contributor Dashboard</a></h2>
-
-The [Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of **MB** contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
+**ManyBabies** is all about our amazing team of researchers from around the world. The [**Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of **MB** contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
 
 #### For Contributors:
-* **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform">form</a> below.
-* **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform">form</a> below or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
+* **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form</b></a> below.
+* **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform"><b>form</b></a> below or [**email us**](mailto:manybabiesconsortium@gmail.com) with your updated information.
 
 #### For Project Leads:
 * **To add multiple contributors at once**: [email us](mailto:manybabiesconsortium@gmail.com)
@@ -26,9 +19,11 @@ The [Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geog
 
 
 ***
+## ManyBabies Leadership
+
 ### Project Leads
 
-Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The Project Leads are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
+<img src="/assets/img/networking.png"width-"100" height="100"> Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The **Project Leads** are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
 
 ***
