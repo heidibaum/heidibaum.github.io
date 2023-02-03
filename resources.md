@@ -22,8 +22,8 @@ title: Resources
       </div>
       <div class="col-sm-1 col-xs-6" align="left">
       </div>
-      <div class="col-sm-2 col-xs-6" align="center">
-        <img src="/assets/img/youtube.png" alt="YouTube logo" width="50" height="50"> 
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/youtube.png" alt="YouTube logo" width="40" height="40"> 
       </div>
       <div class="col-sm-4 col-xs-6" align="left">
         <a href="https://www.youtube.com/@manybabies" target="_blank"><b> YouTube/@ManyBabies</b></a>
@@ -31,14 +31,16 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> 
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/pin.png" alt="globe with pins" width="40" height="40"> 
       </div>
       <div class="col-sm-4 col-xs-6" align="left">
         <a href="https://manybabies.shinyapps.io/shiny_mb_map/"><b> Contributor Dashboard</b></a>
       </div>
-      <div class="col-sm-2 col-xs-6" align="center">
-        <img src="/assets/img/validate.png" alt="checkmark" width="50" height="50"> 
+      <div class="col-sm-1 col-xs-6" align="left">
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/validate.png" alt="checkmark" width="40" height="40"> 
       </div>
       <div class="col-sm-4 col-xs-6" align="left">
         <a href="https://manybabies.shinyapps.io/validator/"><b> Data Validator</b></a>
