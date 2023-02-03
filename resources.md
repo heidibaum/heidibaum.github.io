@@ -5,14 +5,9 @@ title: Resources
 
 
 ## ManyBabies Resources
-
+.
 <section>
   <div class="container">
-    <div class="row" align="center">
-      <div class="col-sm-6 col-xs-6" align="left">
-        .
-      </div>
-    </div>
     <div class="row" align="center">
       <div class="col-sm-6 col-xs-6" align="left">
         <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50" style="float: left;"> 
