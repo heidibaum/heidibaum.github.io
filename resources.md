@@ -5,22 +5,30 @@ title: Resources
 
 
 ## ManyBabies Resources
-<br>
 
 <section>
   <div class="container">
-    <div class="row" align="center">
+    <div class="row" align="center"> <!--Calendar & YouTube -->
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50"> 
+        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/youtube.png" alt="YouTube logo" width="50" height="50"> 
+        <a href="https://www.youtube.com/@manybabies"><b>YouTube/@ManyBabies</b></a>
+      </div>
+    </div>
+    <div class="row" align="center"> <!--Dashboard & Validator -->
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> 
         <a href="https://manybabies.shinyapps.io/shiny_mb_map/"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50"> 
-        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
+        <img src="/assets/img/validate.png" alt="checkmark" width="50" height="50"> 
+        <a href="https://manybabies.shinyapps.io/validator/"><b>Data Validator</b></a>
       </div>
     </div>
-    <br>
-    <div class="row" align="center">
+    <div class="row" align="center"> <!--OSF & Github -->
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/OSF.png" alt="OSF logo" width="50" height="50"> 
         <a href="https://osf.io/rpw6d/"><b>OSF Repository</b></a>
@@ -30,32 +38,36 @@ title: Resources
         <a href="https://github.com/manybabies"><b>Github Repository</b></a>
       </div>
     </div>
+    <div class="row" align="center"> <!--Code & Ethics -->
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/github.png" alt="Github logo" width="50" height="50"> 
+        <a href="{{site.baseurl}}{% link code_conduct.md %}"><b>Code of Conduct</b></a>
+      </div>
+    </div>
   </div>
 </section>
 
 
-
-
 * [Public Calendar]({{site.baseurl}}/calendar/)
-* [OSF](https://osf.io/rpw6d/)
-* [Github](https://github.com/manybabies)
-* [Logo]({{site.baseurl}}/assets/img/avatar-icon-2022.png)
 * [YouTube page](https://www.youtube.com/@manybabies)
+
 * [Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) 
 * [Data Validator](https://manybabies.shinyapps.io/validator/)
+
+* [OSF](https://osf.io/rpw6d/)
+* [Github](https://github.com/manybabies)
+
+* Code of Conduct
+* [Ethics Guidance](https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link)
+
 * [Collaboration Agreement (template)](https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link)
 * [CRediT Category descriptions (template)](https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link)
-* [Ethics Guidance](https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link)
+
 * Social Media
   * [@Many_Babies](https://twitter.com/Many_Babies) on Twitter
   * [@manybabies](https://nerdculture.de/@manybabies) on Mastodon
+* [Logo]({{site.baseurl}}/assets/img/avatar-icon-2022.png)
 
-
-<img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> [**Contributor Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/) <br>
-
-<img src="/assets/img/calendar.png" alt="desk calendar" width="50" height="50"> [**Public Calendar**]({{site.baseurl}}/calendar/) <br>
-
-<img src="/assets/img/OSF.png" alt="OSF logo" width="50" height="50"> [**OSF Repository**](https://osf.io/rpw6d/) <br>
 
 
 
