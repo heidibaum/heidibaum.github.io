@@ -17,15 +17,13 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/calendar.png" alt="calendar" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/calendar/"><b> Public Calendar</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/youtube.png" alt="YouTube logo" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://www.youtube.com/@manybabies" target="_blank"><b> YouTube/@ManyBabies</b></a>
       </div>
     </div>
@@ -34,15 +32,13 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/pin.png" alt="globe with pins" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://manybabies.shinyapps.io/shiny_mb_map/"><b> Contributor Dashboard</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/validate.png" alt="checkmark" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://manybabies.shinyapps.io/validator/"><b> Data Validator</b></a>
       </div>
     </div>
@@ -51,15 +47,13 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/OSF.png" alt="OSF logo" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://osf.io/rpw6d/"><b> OSF Repository</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/github.png" alt="Github logo" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://github.com/manybabies"><b> Github Repository</b></a>
       </div>
     </div>
@@ -68,15 +62,13 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/code.png" alt="code of conduct" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/code_conduct/"><b> Code of Conduct</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/ethics.png" alt="ethics" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link"><b> Ethics Guidance</b></a>
       </div>
     </div>
@@ -91,7 +83,7 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/credit-icon.png" alt="CRediT categories" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link"><b> CRediT Categories</b></a>
       </div>
     </div>
@@ -100,15 +92,13 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/twitter.png" alt="twitter logo" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://twitter.com/Many_Babies"><b> @Many_Babies</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/mastodon.png" alt="mastodon logo" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://nerdculture.de/@manybabies"><b> @manybabies</b></a>
       </div>
     </div>
@@ -117,10 +107,8 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/assets/img/avatar-icon-2022.png/"><b> Logo</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
       </div>
     </div>
   </div>
