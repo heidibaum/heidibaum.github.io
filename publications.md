@@ -66,7 +66,79 @@ title: Publications & Manuscripts
 </section>
 
 
+***
+## Stage 1 Registered Reports: In Principle Acceptance
 
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
+        <h5>MB1A</h5>
+      </div>
+      <div class="col-sm-10">
+        <p style="padding-left: 25px; text-indent: -25px">Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., & Frank, M. C. (Stage 1 RR In Principle Acceptance). 
+        <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. 
+        <i>Developmental Science</i>. 
+        <a href="https://osf.io/fqp4b" target="_blank">[OSF Preprint]</a> 
+        <a href="{{site.baseurl}}/MB1A/">[MB1A]</a></p>  
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB1L/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
+        <h5>MB1L</h5>
+      </div>
+      <div class="col-sm-10">
+        <p style="padding-left: 25px; text-indent: -25px">Soderstrom, M., Werker, J. F., Tsui, A. S. M., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., & Anderson, L. (Stage 1 RR In Principle Acceptance). 
+        <b>Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study</b>. <i>Journal of Child Language</i>. 
+        <a href="https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing" target="_blank">[Preprint]</a> 
+        <a href="{{site.baseurl}}/MB1L/">[MB1L]</a></p>  
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB2/" class="image"><img src="/assets/img/MB2_logo.png" alt="ManyBabies2 logo"></a>
+      </div>
+      <div class="col-sm-10">
+        <p style="padding-left: 25px; text-indent: -25px">Schuwerk, T.*, Kampis, D.*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., Kovács, A. M., Krämer, A., Kulke, L., Lee, C., Lew-Williams, C., Liszkowski, U., Mahowald, K., Mascaro, O., Meyer, M., Moreau, D., PernerJ., Poulin-Dubois, D., Powell, L., Prein, J. C., Priewasser, B., Proft, M., Raz, G., Reschke, P. J., Ross, J., Rothmaler, K., Saxe, R., Schneider, D., Southgate, V., Surian, L., Tebbe, A., Träuble, B., Tsui, A. S. M., Wertz, A., Woodward, A., Yuen, F., Yuile, A. R., Zellner, L., Zimmer, L., Frank, M. C., & Rakoczy, H. (Stage 1 RR In Principle Acceptance). 
+        <b>Action anticipation based on an agent's epistemic state in toddlers and adults</b>. 
+        <i>Child Development</i>. <i>(*co-first authors)</i> PsyArXiv. 
+        <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">doi:10.31234/osf.io/x4jbm</a> 
+        <a href="{{site.baseurl}}/MB2/">[MB2]</a></p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/MB3_logo.png" alt="ManyBabies3 logo"></a><br>
+      </div>
+      <div class="col-sm-10">
+        <p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). 
+        <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. 
+        <i>Developmental Science</i>. PsyArXiv. 
+        <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">doi:10.31234/osf.io/aex7v</a> 
+        <a href="{{site.baseurl}}/MB3/">[MB3]</a></p>  
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB4/" class="image"><img src="/assets/img/MB4_logo.png" alt="ManyBabies4 logo"></a><br>
+      </div>
+      <div class="col-sm-10">
+        <p style="padding-left: 25px; text-indent: -25px">Lucca, K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). 
+        <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. 
+        <i>Developmental Science</i>. PsyArXiv. 
+        <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">doi:10.31234/osf.io/qhxkm</a> 
+        <a href="{{site.baseurl}}/MB4/">[MB4]</a></p>  
+      </div>
+    </div>
+  </div>
+</section>
 
 
 ***
