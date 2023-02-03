@@ -34,6 +34,7 @@ title: Resources
         <a href="https://manybabies.shinyapps.io/validator/"><b>Data Validator</b></a>
       </div>
     </div>
+    <br>
     <div class="row" align="center">
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/OSF.png" alt="OSF logo" width="50" height="50"> 
@@ -44,6 +45,7 @@ title: Resources
         <a href="https://github.com/manybabies"><b>Github Repository</b></a>
       </div>
     </div>
+    <br>
   </div>
 </section>
 
