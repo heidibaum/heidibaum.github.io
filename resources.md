@@ -85,10 +85,8 @@ title: Resources
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/collaboration.png" alt="collaboration agreement" width="30" height="30"> 
       </div>
-      <div class="col-sm-4 col-xs-6" align="left">
+      <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link"><b> Collaboration Agreement</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/credit-icon.png" alt="CRediT categories" width="30" height="30"> 
