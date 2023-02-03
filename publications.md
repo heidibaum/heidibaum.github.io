@@ -55,7 +55,7 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/MBMW_logo.png" alt="ManyBabies-ManyWebcams logo"></a>
       </div>
       <div class="col-sm-10">
-        <p style="padding-left: 25px; text-indent: -25px">Steffan, A.\*, Zimmer, L.\*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, January 23). 
+        <p style="padding-left: 25px; text-indent: -25px">Steffan, A.*, Zimmer, L.*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, January 23). 
         <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
         PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">doi:10.31234/osf.io/7924h</a> 
