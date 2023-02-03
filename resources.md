@@ -1,11 +1,35 @@
 ---
 layout: page
 title: Resources
-cover-img: /assets/img/sandpit-762541.jpg
 ---
 
 
-### ManyBabies Resources
+## ManyBabies Resources
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-1 col-xs-6" align="right">
+        <br>
+        <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50">
+      </div>
+      <div class="col-sm-3">
+        <h4><a href="https://manybabies.shinyapps.io/shiny_mb_map/">Contributor Dashboard</a></h4>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="right">
+        <br>
+        <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50">
+      </div>
+      <div class="col-sm-3">
+        <h4><a href="{{site.baseurl}}/calendar/">Public Calendar</a></h4>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
 * [Public Calendar]({{site.baseurl}}/calendar/)
 * [OSF](https://osf.io/rpw6d/)
 * [Github](https://github.com/manybabies)
@@ -31,7 +55,7 @@ cover-img: /assets/img/sandpit-762541.jpg
 
 ***
 
-### Developmental Science Tools
+## Developmental Science Tools
 * [CHILDES](https://childes.talkbank.org/): A system for sharing and studying conversational interactions of children
 * [childes-db](https://langcog.github.io/childes-db-website/): A flexible and reproducible interface to CHILDES
 * [Children Helping Science](https://childrenhelpingscience.com/): Connects parents and researchers to support developmental research
@@ -46,7 +70,7 @@ cover-img: /assets/img/sandpit-762541.jpg
 
 ***
 
-### Open Source Software
+## Open Source Software
 * [Julia](http://julialang.org/): A flexible dynamic language, appropriate for scientific and numerical computing, with performance comparable to traditional statically-typed languages.
 * [Open Sesame](https://osdoc.cogsci.nl/): Create experiments for psychology, neuroscience, and experimental economics.
 * [Psychopy](https://www.psychopy.org/) & [PyHab](https://github.com/jfkominsky/PyHab/): Create experiments in behavioral sciences (neuroscience, psychology, psychophysics, linguistics...). PyHab is especially developed to measure looking time and manage stimulus presentation for infant research.
@@ -54,7 +78,7 @@ cover-img: /assets/img/sandpit-762541.jpg
 
 ***
 
-### Open Science Resources
+## Open Science Resources
 * [Open Science Framework (OSF)](https://osf.io/): A free, open platform to support your research and enable collaboration.
   * [OSF - Metascience Collection](https://osf.io/collections/metascience/discover)
   * [OSF - Open Psychological Datasets](https://osf.io/th8ew/)
@@ -63,7 +87,7 @@ cover-img: /assets/img/sandpit-762541.jpg
 
 ***
 
-### Partner Networks & Organizations
+## Partner Networks & Organizations
 * [Children Helping Science powered by Lookit](https://lookit.mit.edu/): A platform to connect developmental researchers with parents, and to host and run online experiments
 * [Psychological Science Accelerator](https://psysciacc.org/): A globally distributed network of psychological science laboratories that coordinates data collection for democratically selected studies
 * [ManyPrimates](https://manyprimates.github.io/): A project that aims to facilitate collaboration across study sites in primate cognition research
