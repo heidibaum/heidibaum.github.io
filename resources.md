@@ -60,14 +60,24 @@ title: Resources
     <div class="row" align="center">
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/collaboration.png" alt="collaboration agreement" width="50" height="50"> 
-        <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link"><b>Collaboration Agreement (template)</b></a>
+        <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link"><b>Collaboration Agreement</b></a>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/credit-icon.png" alt="CRediT categories" width="50" height="50"> 
-        <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link"><b>CRediT Category Descriptions</b></a>
+        <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link"><b>CRediT Categories</b></a>
       </div>
     </div>
     <br>
+    <div class="row" align="center">
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/twitter.png" alt="twitter logo" width="50" height="50"> 
+        <a href="https://twitter.com/Many_Babies"><b>@Many_Babies</b></a>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/mastodon.png" alt="mastodon logo" width="50" height="50"> 
+        <a href="https://nerdculture.de/@manybabies"><b>@manybabies</b></a>
+      </div>
+    </div>
   </div>
 </section>
 
