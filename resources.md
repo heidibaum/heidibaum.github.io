@@ -15,7 +15,7 @@ title: Resources
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <img src="/assets/img/youtube.png" alt="YouTube logo" width="50" height="50"> 
-        <a href="https://www.youtube.com/@manybabies"><b>YouTube/@ManyBabies</b></a>
+        <a href="https://www.youtube.com/@manybabies"><b>YouTube</b></a>
       </div>
     </div>
     <div class="row" align="center"> <!--Dashboard & Validator -->
