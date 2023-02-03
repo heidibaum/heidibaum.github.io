@@ -5,17 +5,17 @@ title: About MB
 
 ## What is ManyBabies?
 
-The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. <br>
+The **ManyBabies** project was born in 2015 committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. You can read a blog post about the origins of MB [here](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html).<br>
 
 **MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach. <br>
 
-We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (2020)](https://psyarxiv.com/dmhk2/).
+We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [*Frank et al. (2017)*](https://psyarxiv.com/27b43/) and [*Byers-Heinlein et al. (2020)*](https://psyarxiv.com/dmhk2/).
 
 
 ***
 
 ## Code of Conduct
-All **MB** contributors are expected to abide by our [Code of Conduct]({{site.baseurl}}/code_conduct/). Please read the Code of Conduct for a full description of our pledge, standards, responsibilities, and scope.
+All **MB** contributors are expected to abide by our [**Code of Conduct**]({{site.baseurl}}/code_conduct/). Please read the Code of Conduct for a full description of our pledge, standards, responsibilities, and scope.
 
 ***
 
@@ -29,7 +29,7 @@ All **MB** contributors are expected to abide by our [Code of Conduct]({{site.ba
 * <b><i>Respect</i></b>: Everyone agrees to a general code of conduct which ensures respectful interactions
 
 
-### **ManyBabies** [projects]({{site.baseurl}}/projects/) aim to test hypotheses about:
+### **ManyBabies** projects aim to test hypotheses about:
 * <b><i>Validity</i></b>: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies
 * <b><i>Theory</i></b>: Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)
 * <b><i>Methods</i></b>: Quantify sources of variability across labs and establish best practices
@@ -38,7 +38,7 @@ All **MB** contributors are expected to abide by our [Code of Conduct]({{site.ba
 > Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
 
 
-### **ManyBabies** contributors come from [40+ nations on 6 continents](https://manybabies.shinyapps.io/shiny_mb_map/). They can serve as:
+### **ManyBabies** contributors come from 40+ nations on 6 continents ([view the Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)). They can serve as:
 * <b><i>Governing Board Members</i></b>: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [**here**]({{site.baseurl}}/people/))
 * <b><i>Project Leads</i></b>: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/code_conduct/) (see current Project Leads [**here**]({{site.baseurl}}/get_involved/))
 * <b><i>Data Contributors</i></b>: Collect data following an experimental protocol 
@@ -46,7 +46,7 @@ All **MB** contributors are expected to abide by our [Code of Conduct]({{site.ba
 
 > See more detailed descriptions of [roles and responsibilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), policies on [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/) in **ManyBabies** projects.
 
-> Learn how to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your information.
+> Learn how to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or update your information.
 
 
 ***
@@ -61,9 +61,10 @@ All **MB** contributors are expected to abide by our [Code of Conduct]({{site.ba
 * The [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org) has recognized the contribution of **ManyBabies 1** towards improving research practices and honored the project with a Mission Award at their 2019 annual conference in Rotterdam, The Netherlands.
 * The [Einstein Foundatation](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded [MB5]({{site.baseurl}}/MB5/) Project Leads Jessica Kosie and Martin Zettersten with the [2021 Early Career Award](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
 
+
 ***
 
 ## Get involved
 We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite for contributing to an **MB** project.
 
-All collaborators are encouraged to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your information.
+All collaborators are encouraged to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or update your information.
