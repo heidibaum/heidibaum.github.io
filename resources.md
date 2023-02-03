@@ -15,7 +15,7 @@ title: Resources
     </div>
     <div class="row" align="center">
       <div class="col-sm-6 col-xs-6" align="left">
-        <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50" style="float: left;"> 
+        <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50"> 
         <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
       </div>
       <div class="col-sm-6 col-xs-6" align="left">
@@ -26,7 +26,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-6 col-xs-6" align="left">
-        <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> 
+        <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50" style="float: left;"> 
         <a href="https://manybabies.shinyapps.io/shiny_mb_map/"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-6 col-xs-6" align="left">
