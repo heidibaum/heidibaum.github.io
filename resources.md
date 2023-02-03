@@ -18,6 +18,16 @@ title: Resources
         <a href="https://www.youtube.com/@manybabies"><b>YouTube/@ManyBabies</b></a>
       </div>
     </div>
+    <div class="row" align="center">
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> 
+        <a href="https://manybabies.shinyapps.io/shiny_mb_map/"><b>Contributor Dashboard</b></a>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/validate.png" alt="checkmark" width="50" height="50"> 
+        <a href="https://manybabies.shinyapps.io/validator/"><b>Data Validator</b></a>
+      </div>
+    </div>
   </div>
 </section>
 
