@@ -57,16 +57,20 @@ title: Resources
       </div>
     </div>
     <br>
+    <div class="row" align="center">
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/collaboration.png" alt="collaboration agreement" width="50" height="50"> 
+        <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link"><b>Collaboration Agreement (template)</b></a>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/credit-icon.png" alt="CRediT categories" width="50" height="50"> 
+        <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link"><b>CRediT Category Descriptions</b></a>
+      </div>
+    </div>
+    <br>
   </div>
 </section>
 
-
-
-* Code of Conduct
-* [Ethics Guidance](https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link)
-
-* [Collaboration Agreement (template)](https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link)
-* [CRediT Category descriptions (template)](https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link)
 
 * Social Media
   * [@Many_Babies](https://twitter.com/Many_Babies) on Twitter
