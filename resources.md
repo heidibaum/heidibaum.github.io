@@ -78,15 +78,17 @@ title: Resources
         <a href="https://nerdculture.de/@manybabies"><b> @manybabies</b></a>
       </div>
     </div>
+    <br>
+    <div class="row" align="center">
+      <div class="col-sm-6 col-xs-6" align="left">
+        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo" width="50" height="50" style="float: left;"> 
+        <a href="{{site.baseurl}}/assets/img/avatar-icon-2022.png"><b> Logo</b></a>
+      </div>
+    </div>
   </div>
 </section>
 
-
-
-* [Logo]({{site.baseurl}}/assets/img/avatar-icon-2022.png)
-
-
-
+<br>
 
 ***
 
