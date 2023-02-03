@@ -8,12 +8,14 @@ title: Resources
 
 <section>
   <div class="container">
-    <div class="row"  align="center">
+    <div class="row" align="center">
       <div class="col-sm-5 col-xs-6" align="left">
-        <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> <a href="https://manybabies.shinyapps.io/shiny_mb_map/"><b>Contributor Dashboard</b></a>
+        <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50"> 
+        <a href="https://manybabies.shinyapps.io/shiny_mb_map/"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50"> <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
+        <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50"> 
+        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
       </div>
     </div>
   </div>
