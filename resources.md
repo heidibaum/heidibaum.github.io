@@ -46,20 +46,21 @@ title: Resources
       </div>
     </div>
     <br>
+    <div class="row" align="center">
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/code.png" alt="code of conduct" width="50" height="50"> 
+        <a href="{{site.baseurl}}/code_conduct/"><b>Code of Conduct</b></a>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <img src="/assets/img/ethics.png" alt="ethics" width="50" height="50"> 
+        <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link"><b>Ethics Guidance</b></a>
+      </div>
+    </div>
+    <br>
   </div>
 </section>
 
 
-
-
-* [Public Calendar]({{site.baseurl}}/calendar/)
-* [YouTube page](https://www.youtube.com/@manybabies)
-
-* [Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) 
-* [Data Validator](https://manybabies.shinyapps.io/validator/)
-
-* [OSF](https://osf.io/rpw6d/)
-* [Github](https://github.com/manybabies)
 
 * Code of Conduct
 * [Ethics Guidance](https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link)
