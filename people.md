@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-cover-img: /assets/img/curiosity-1910023_cut2.jpg
+cover-img: /assets/img/MB_map.jpg
 ---
 
 
