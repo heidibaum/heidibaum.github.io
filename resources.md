@@ -5,7 +5,7 @@ title: Resources
 
 
 ## ManyBabies Resources
-.
+
 <section>
   <div class="container">
     <div class="row" align="center">
