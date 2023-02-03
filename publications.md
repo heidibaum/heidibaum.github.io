@@ -12,6 +12,7 @@ title: Publications & Manuscripts
   <div class="container">
     <div class="row" align="center">
       <div class="col-sm-2" align="center">
+        <br>
         <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
         <h5>MB1T</h5>
       </div>
