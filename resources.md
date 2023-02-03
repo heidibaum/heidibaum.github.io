@@ -82,9 +82,7 @@ title: Resources
 </section>
 
 
-* Social Media
-  * [@Many_Babies](https://twitter.com/Many_Babies) on Twitter
-  * [@manybabies](https://nerdculture.de/@manybabies) on Mastodon
+
 * [Logo]({{site.baseurl}}/assets/img/avatar-icon-2022.png)
 
 
