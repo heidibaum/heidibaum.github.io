@@ -14,11 +14,13 @@ title: Resources
       </div>
     </div>
     <div class="row" align="center">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <img src="/assets/img/calendar.png" alt="calendar" width="50" height="50"> 
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/calendar.png" alt="calendar" width="40" height="40"> 
       </div>
       <div class="col-sm-4 col-xs-6" align="left">
         <a href="{{site.baseurl}}/calendar/"><b> Public Calendar</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-2 col-xs-6" align="center">
         <img src="/assets/img/youtube.png" alt="YouTube logo" width="50" height="50"> 
