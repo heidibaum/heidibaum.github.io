@@ -8,7 +8,7 @@ title: Resources
 
 <section>
   <div class="container">
-    <div class="row">
+    <div class="row"  align="center">
       <div class="col-sm-2 col-xs-6" align="right">
         <br>
         <img src="/assets/img/pin.png" alt="globe with pins" width="50" height="50">
