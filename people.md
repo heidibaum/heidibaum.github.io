@@ -21,17 +21,29 @@ title: People
 ***
 ## ManyBabies Leadership
 
-### Project Leads
+<!--### Project Leads
 
 <img src="/assets/img/networking.png" style="float: left;" width="100" height="100"> Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The **Project Leads** are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
+-->
 
-
-***
 <section>
 	<header class="major">
-			<h3>Executive Director</h3>
+			<h3>Project Leads</h3>
 	</header>
 <br>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/networking.png" alt="project leaders" width="100" height="100">
+      </div>
+      <div class="col-sm-9">
+         <p>Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The **Project Leads** are listed on each [Project Page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).</p>
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+	</div>
   <div class="container">
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
