@@ -28,14 +28,17 @@ navbar-links:
     - Overview: "projects"
     - MB1: "MB1"
     - MB2: "MB2"
-  Resources:
+    - MB3: "MB3"
+    - MB4: "MB4"
+    - MB5: "MB5"
+    - Resources:
     - General Resources: "resources"
     - Calendar: "calendar"
     - Publications: "publications"
     - Contributor Dashboard: "https://manybabies.shinyapps.io/shiny_mb_map/"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
-    # - Teaching with MB: "teaching"
-    # - Open Science: "openscience"
+#     - Teaching with MB: "teaching"
+#     - Open Science: "openscience"
   Get Involved: "get_involved"
 
 ################
