@@ -31,7 +31,11 @@ navbar-links:
     - MB3: "MB3"
     - MB4: "MB4"
     - MB5: "MB5"
-    - Resources:
+    - MB6: "MB6"
+    - MB-AtHome: "MB-AtHome"
+    - MB-Demo: "MB-Demographics"
+    - MB-Many Webcams: "MB-ManyWebcams"
+  - Resources:
     - General Resources: "resources"
     - Calendar: "calendar"
     - Publications: "publications"
