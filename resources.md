@@ -120,6 +120,7 @@ title: Resources
       <div class="col-sm-12 col-xs-6" align="center">
       </div>
     </div>
+    <br>
   </div>
 </section>
 
