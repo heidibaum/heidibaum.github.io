@@ -29,7 +29,7 @@ In the first **ManyBabies** project, we replicated a robust finding from develop
 
 <img style="float: right;" src="/assets/img/ILL.photoshot.baby.in.booth.jpeg">
 
-Sixty-nine labs from 16 countries participated and collected data from 2,329 infants (range: 3-15 months old). We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).
+Sixty-nine labs from 16 countries participated and collected data from 2,329 infants (range: 3-15 months old). We focused on **three primary methods** for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).
 
 
 
