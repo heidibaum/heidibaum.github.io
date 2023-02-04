@@ -5,15 +5,7 @@ subtitle: Online Infant Data Collection
 cover-img: /assets/img/MBAH_logo.png
 ---
 
-<!--
-To-do:
-- add collaborators map.
--->
-
-In this first ManyBabies methodological project we are developing a remote (online) testing framework that can be used across a range of home environments in a wide array of countries. This include best practices in procedure, documentation, standardization, and analysis. <img style="float: right;" src="/assets/img/logo_mb_athome_250px.png"> Our initial focus is on measuring looks (for instance, in a visual preference paradigm), as it is the main dependent variable of many infant studies.
-
-Recruiting infants in their homes can alleviate problems of high recruitment costs, since the burden for caregivers is smaller compared to a lab visit. Researchers can therefore potentially access larger, more diverse sample sizes, repeat experimental sessions, and assess test-retest reliability. Furthermore, children can be tested in a familiar environment, and in asynchronous setups at times that they are ready to participate.
-
+BLURB
 
 ***
 ### Project Leads
@@ -27,7 +19,7 @@ Recruiting infants in their homes can alleviate problems of high recruitment cos
 ***
 ### Status
 * Surveys of the community’s needs and existing solutions
-* Planning the first studiues on visual preference for different shapes and looking-while-listening
+* Piloting the first studies on Visual Preference and Looking-While-Listening
 * Translating study materials
 
 

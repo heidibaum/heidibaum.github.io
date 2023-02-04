@@ -35,14 +35,12 @@ navbar-links:
     - MB-AtHome: "MB-AtHome"
     - MB-Demo: "MB-Demographics"
     - MB-Many Webcams: "MB-ManyWebcams"
-  - Resources:
+  Resources:
     - General Resources: "resources"
     - Calendar: "calendar"
     - Publications: "publications"
     - Contributor Dashboard: "https://manybabies.shinyapps.io/shiny_mb_map/"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
-#     - Teaching with MB: "teaching"
-#     - Open Science: "openscience"
   Get Involved: "get_involved"
 
 ################
