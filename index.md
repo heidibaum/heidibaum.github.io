@@ -94,6 +94,25 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
         <i>What is the nature of neonatal infants' imitation of facial gestures?</i><br>
       </div>
     </div>
-    <hr>
   </div>
 </section>
+<br>
+
+### Methodological Projects
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB-AtHome/"><img src="/assets/img/MBAH_logo.png" alt="MB AtHome logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="{{site.baseurl}}/MB-AtHome/">MB-AtHome: Online Infant Data Collection</a></h4>
+        <i>Solutions for testing infants in their home, with a focus on measuring looks</i><br>
+        <b>Studies:</b> Looking-While-Listening, Visual Preference
+      </div>
+    </div>
+    <hr>
+  </div>
+</div>
