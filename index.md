@@ -61,5 +61,17 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       </div>
     </div>
     <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB4/"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="{{site.baseurl}}/MB4/">MB4: Rule Learning</a></h4>
+        <i>Do infants learn and generalize identity-based rules from speech stimuli?</i><br>
+        <b>Spin-offs:</b> MB4E (link to come), MB4I (link to come)
+      </div>
+    </div>
+    <hr>
   </div>
 </section>
