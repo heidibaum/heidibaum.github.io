@@ -33,7 +33,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}/MB1L/">MB1: Infant-Directed Speech Preference</a></h4>
         <i>Do infants prefer infant-directed speech? Do age, method, and native language background matter?</i><br>
-        <b>Spin-offs:</b> <a href="{{site.baseurl}}/MB1A/">MB1A</a>, <a href="{{site.baseurl}}/MB1B/">MB1B</a>, <a href="{{site.baseurl}}/MB1G/">MB1G</a>, <a href="{{site.baseurl}}/MB1L/">MB1L</a>, <a href="{{site.baseurl}}/MB1N/">MB1N</a>, <a href="{{site.baseurl}}/MB1T/">MB1T</a>
+        <b>Spin-offs:</b> <a href="{{site.baseurl}}/MB1A/">MB1A</a>, <a href="{{site.baseurl}}/MB1B/">MB1B</a>, <a href="{{site.baseurl}}/MB1G/">MB1G</a>, <a href="{{site.baseurl}}/MB1L/">MB1L</a>, <a href="{{site.baseurl}}/MB1N/">MB1N</a>, <a href="{{site.baseurl}}/MB1T/">MB1T</a>, <a href="{{site.baseurl}}/MB1SA/">MB1SA</a>
       </div>
     </div>
     <hr>
