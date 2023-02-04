@@ -17,7 +17,7 @@ NIRS is a relatively new imaging technique. Variation across instruments, analys
 
 ***
 ### Project Lead
-* [Judit Gervain](https://sites.google.com/site/juditgervain/)
+* [Judit Gervain](https://sites.google.com/site/juditgervain/) *Université de Paris, CNRS, France & University of Padua, Italy* [[email]](mailto:judit.gervain@parisdescartes.fr) 
 
 ***
 ### Collaborators
