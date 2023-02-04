@@ -43,6 +43,7 @@ navbar-links:
     - Publications: "publications"
     - Contributor Dashboard: "https://manybabies.shinyapps.io/shiny_mb_map/"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
+    - Workshops: "workshops"
   Get Involved: "get_involved"
 
 ################
