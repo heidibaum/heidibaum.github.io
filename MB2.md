@@ -34,7 +34,7 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 ***
 ### Links
-* **Materials, Protocols, and Documentation**: [MB2-OSF](https://osf.io/jmuvd/)
+* **Materials, Protocols, and Documentation**: [MB2-OSF](https://osf.io/jmuvd/), [MB2 Lab Manual](https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing)
 * **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis)
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies2)
 * **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb2-general channel*)
@@ -52,4 +52,6 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 ***
 ### Publications
-Schuwerk, T., Kampis, D., (...) Frank, M., Rakoczy, R. (Stage 1 Registered Report). Action anticipation based on an agent's epistemic state in toddlers and adults. [PsyArXiv Preprint](https://psyarxiv.com/x4jbm/)
+Schuwerk, T.\*, Kampis, D.\*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., Kovács, A. M., Krämer, A., Kulke, L., Lee, C., Lew-Williams, C., Liszkowski, U., Mahowald, K., Mascaro, O., Meyer, M., Moreau, D., PernerJ., Poulin-Dubois, D., Powell, L., Prein, J. C., Priewasser, B., Proft, M., Raz, G., Reschke, P. J., Ross, J., Rothmaler, K., Saxe, R., Schneider, D., Southgate, V., Surian, L., Tebbe, A., Träuble, B., Tsui, A. S. M., Wertz, A., Woodward, A., Yuen, F., Yuile, A. R., Zellner, L., Zimmer, L., Frank, M. C., & Rakoczy, H. (Stage 1 Registered Report, In Principle Acceptance). **Action anticipation based on an agent's epistemic state in toddlers and adults**. *Child Development*. (<i>\*co-first authors</i>) PsyArXiv. [doi:10.31234/osf.io/x4jbm](https://doi.org/10.31234/osf.io/x4jbm) 
+
+> to cite, use (Schuwerk & Kampis et al., accepted pending data collection)
