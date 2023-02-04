@@ -73,5 +73,16 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       </div>
     </div>
     <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/MB5_logo.png" alt="MB5 logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preferences</a></h4>
+        <i>What factors shape infants’ preferences for familiar and novel stimuli?</i><br>
+      </div>
+    </div>
+    <hr>
   </div>
 </section>
