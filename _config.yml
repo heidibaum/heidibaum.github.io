@@ -34,8 +34,8 @@ navbar-links:
     - Publications: "publications"
     - Contributor Dashboard: "https://manybabies.shinyapps.io/shiny_mb_map/"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
-    - Teaching with MB: "teaching"
-    - Open Science: "openscience"
+    # - Teaching with MB: "teaching"
+    # - Open Science: "openscience"
   Get Involved: "get_involved"
 
 ################
