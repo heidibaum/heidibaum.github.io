@@ -144,19 +144,9 @@ title: Publications & Manuscripts
 ***
 ## Conference Presentations
 
-### 2022
-* **CDS**: [Pre-conference workshop]({{site.baseurl}}/2022-04-21-CDSpreconference/)
-* **ICIS**: [Posters](https://osf.io/c4m3e/) presented as part of the ManyBabies Poster Symposium at the 2022 International Congress for Infant Studies
-
-### 2020
-
-* **vICIS**: [Slides & presentations](https://osf.io/t2wgc/) for talks at The Virtual International Congress for Infant Studies
-
-### 2019
-
-* **SRCD**: [Slides & notes](https://osf.io/4p9dt/) for talks at Biennal Meeting of the Society for Research in Child Development
-
-### 2018
-
-* **ICIS**: [Slides & notes](https://osf.io/5kb3w/) for talks at The International Congress of Infant Studies
+* **2022 CDS**: [Pre-conference workshop]({{site.baseurl}}/2022-04-21-CDSpreconference/)
+* **2022 ICIS**: [Posters](https://osf.io/c4m3e/) presented as part of the ManyBabies Poster Symposium at the 2022 International Congress for Infant Studies
+* **2020 vICIS**: [Slides & presentations](https://osf.io/t2wgc/) for talks at The Virtual International Congress for Infant Studies
+* **2019 SRCD**: [Slides & notes](https://osf.io/4p9dt/) for talks at Biennal Meeting of the Society for Research in Child Development
+* **2018 ICIS**: [Slides & notes](https://osf.io/5kb3w/) for talks at The International Congress of Infant Studies
 
