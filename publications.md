@@ -67,7 +67,7 @@ title: Publications & Manuscripts
 
 
 ***
-## Stage 1 Registered Reports: In Principle Acceptance
+## Accepted Pending Data Collection (Registered Reports)
 
 <section>
   <div class="container">
