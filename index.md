@@ -43,9 +43,21 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
         <a href="https://manybabies.github.io/MB2/"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://manybabies.github.io/MB2/">MB2: Theory of Mind in Infancy</a></h4>
+        <h4><a href="https://manybabies.github.io/MB2/">MB2: Theory of Mind</a></h4>
         <i>Do infants show anticipatory looking that reflects the false belief of another agent?</i><br>
         <b>Spin-offs:</b> <a href="{{site.baseurl}}/MB2P/">MB2P</a>, <a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams</a>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="https://manybabies.github.io/MB3/"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="https://manybabies.github.io/MB3/">MB3: Rule Learning</a></h4>
+        <i>Do infants learn and generalize identity-based rules from speech stimuli?</i><br>
+        <b>Spin-off:</b> <a href="{{site.baseurl}}/MB3N/">MB3N</a>
       </div>
     </div>
     <hr>
