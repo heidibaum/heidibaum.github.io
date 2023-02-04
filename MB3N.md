@@ -26,7 +26,7 @@ NIRS is a relatively new imaging technique. Variation across instruments, analys
 ***
 ### Status
 * Working on data processing pipeline
-* Preparing Stage 1 Registered Report zmanuscript
+* Preparing Stage 1 Registered Report manuscript
 
 ***
 ### Links
