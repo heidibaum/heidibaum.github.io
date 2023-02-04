@@ -114,5 +114,16 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       </div>
     </div>
     <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB-Demographics/"><img src="/assets/img/MBDemo_logo.png" alt="MB Demographics logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics: Unified Demographics for ManyBabies Projects</a></h4>
+        <i>Creating unified demographic forms for ManyBabies projects, with standardized constructs and templates</i><br>
+      </div>
+    </div>
+    <hr>
   </div>
-</div>
+</section>
