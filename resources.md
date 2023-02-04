@@ -18,13 +18,13 @@ title: Resources
         <img src="/assets/img/calendar.png" alt="calendar"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/calendar/"><b> Public Calendar</b></a>
+        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/youtube.png" alt="YouTube logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://www.youtube.com/@manybabies" target="_blank"><b> YouTube/@ManyBabies</b></a>
+        <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@ManyBabies</b></a>
       </div>
     </div>
     <br>
@@ -33,13 +33,13 @@ title: Resources
         <img src="/assets/img/pin.png" alt="globe with pins"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank"><b> Contributor Dashboard</b></a>
+        <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/validate.png" alt="checkmark"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://manybabies.shinyapps.io/validator/" target="_blank"><b> Data Validator</b></a>
+        <a href="https://manybabies.shinyapps.io/validator/" target="_blank"><b>Data Validator</b></a>
       </div>
     </div>
     <br>
@@ -48,13 +48,13 @@ title: Resources
         <img src="/assets/img/OSF.png" alt="OSF logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://osf.io/rpw6d/" target="_blank"><b> OSF Repository</b></a>
+        <a href="https://osf.io/rpw6d/" target="_blank"><b>OSF Repository</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/github.png" alt="Github logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://github.com/manybabies" target="_blank"><b> Github Repository</b></a>
+        <a href="https://github.com/manybabies" target="_blank"><b>Github Repository</b></a>
       </div>
     </div>
     <br>
@@ -63,13 +63,13 @@ title: Resources
         <img src="/assets/img/code.png" alt="code of conduct"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/codeofconduct/"><b> Code of Conduct</b></a>
+        <a href="{{site.baseurl}}/codeofconduct/"><b>Code of Conduct</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/ethics.png" alt="ethics"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b> Ethics Guidance</b></a>
+        <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b>Ethics Guidance</b></a>
       </div>
     </div>
     <br>
@@ -78,13 +78,13 @@ title: Resources
         <img src="/assets/img/collaboration.png" alt="collaboration agreement"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link" target="_blank"><b> Collaboration Agreement</b></a>
+        <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link" target="_blank"><b>Collaboration Agreement</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/credit-icon.png" alt="CRediT categories"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link" target="_blank"><b> CRediT Categories</b></a>
+        <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link" target="_blank"><b>CRediT Categories</b></a>
       </div>
     </div>
     <br>
@@ -93,22 +93,27 @@ title: Resources
         <img src="/assets/img/twitter.png" alt="twitter logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://twitter.com/Many_Babies" target="_blank"><b> @Many_Babies</b></a>
+        <a href="https://twitter.com/Many_Babies" target="_blank"><b>@Many_Babies</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/mastodon.png" alt="mastodon logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://nerdculture.de/@manybabies" target="_blank"><b> @manybabies</b></a>
+        <a href="https://nerdculture.de/@manybabies" target="_blank"><b>@manybabies</b></a>
       </div>
     </div>
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/publications.png" alt="publications"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/publications/" target="_blank"><b>Publications</b></a>
+      </div><div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/assets/img/avatar-icon-2022.png" target="_blank"><b> Logo</b></a>
+        <a href="{{site.baseurl}}/assets/img/avatar-icon-2022.png" target="_blank"><b>Logo</b></a>
       </div>
     </div>
     <div class="row" align="center">
