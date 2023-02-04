@@ -10,7 +10,7 @@ To-do:
 - Add Collaborators to map
 -->
 
-In this ongoing project, we extend [MB3]({{site.baseurl}}/MB3/) investigation on the ability to learn and to apply rules by adding a non-invasive brain imaging technique to the experimental design: near-infrared spectroscopy (NIRS). <img style="float: right;" src="/assets/img/nirs_1_300px.jpeg"> With this addition, we may be able to identify neural correlates that inform whether and to what extent rules' processing and learning are abstract, rule-based, and/or language specific. We may also be able to explore the time course of learning, thereby adjudicating between statistical mechanisms requiring extended time for sampling and faster symbolic mechanisms.
+<img style="float: right;" src="/assets/img/nirs_1_300px.jpeg">In this ongoing project, we extend [MB3]({{site.baseurl}}/MB3/) investigation on the ability to learn and to apply rules by adding a non-invasive brain imaging technique to the experimental design: near-infrared spectroscopy (NIRS). With this addition, we may be able to identify neural correlates that inform whether and to what extent rules' processing and learning are abstract, rule-based, and/or language specific. We may also be able to explore the time course of learning, thereby adjudicating between statistical mechanisms requiring extended time for sampling and faster symbolic mechanisms.
 
 NIRS is a relatively new imaging technique. Variation across instruments, analysis pipelines, and laboratories is wide and standardization is currently lacking. Using NIRS in this large-scale collaborative project will provide us with the unique opportunity to discuss and solve some of these issues in a global network of experts in developmental research and brain imaging.
 
