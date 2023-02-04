@@ -14,7 +14,7 @@ title: Publications & Manuscripts
       <div class="col-sm-2" align="center">
         <br>
         <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
-        <h5>MB1T</h5>
+        <h4>MB1T</h4>
       </div>
       <div class="col-sm-10" align="left">
         <p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2022, December 22). 
@@ -130,7 +130,7 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB4/" class="image"><img src="/assets/img/MB4_logo.png" alt="ManyBabies4 logo"></a><br>
       </div>
       <div class="col-sm-10">
-        <p style="padding-left: 25px; text-indent: -25px">Lucca, K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). 
+        <p style="padding-left: 25px; text-indent: -25px">Lucca,  K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). 
         <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. 
         <i>Developmental Science</i>. PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">doi:10.31234/osf.io/qhxkm</a> 
