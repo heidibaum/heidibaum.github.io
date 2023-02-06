@@ -9,8 +9,7 @@ title: Resources
 <section>
   <div class="container">
     <div class="row" align="center">
-      <div class="col-sm-6 col-xs-6" align="left">
-        .
+      <div class="col-sm-12">
       </div>
     </div>
     <div class="row" align="center">
