@@ -17,12 +17,9 @@ title: Workshops
 #### Slides available on [OSF](https://osf.io/5x8yk/)
 
 In this workshop, Nicolás and Krista introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science; all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
-
-
 <br>
 
 ***
-<br>
 ## Big Team Science for Studying Small People
 ### Cognitive Development Society 2022 Pre-Conference 
 #### April 21, 2022 in Madison, Wisconsin, United States
