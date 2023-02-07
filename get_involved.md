@@ -88,6 +88,22 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
       </div>
     </div>
     <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB2/"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h3><a href="{{site.baseurl}}/MB2/">MB2: Theory of Mind</a></h3>
+        <b>Status:</b> <i>Stage 1 In Principle Acceptance, Collecting data</i><br>
+        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
+        <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
+        <hr>
+        <h4><a href="{{site.baseurl}}/MB2P/">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></h4>
+        <b>Status:</b>Preparing analysis pipeline; collecting data<i></i><br>
+        <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a><br>
+      </div>
+    </div>
   </div>
 </section>
  
