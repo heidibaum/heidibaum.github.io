@@ -123,7 +123,9 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
       </div>
-      <hr>
+    </div>
+    <hr>
+    <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
         <a href="{{site.baseurl}}/MB3N/"><img src="/assets/img/MB3N_logo.png" alt="MB3N logo" width="75" height="75"></a>
