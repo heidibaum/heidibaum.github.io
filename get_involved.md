@@ -41,7 +41,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a>
+        <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="50" height="50"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h4>
