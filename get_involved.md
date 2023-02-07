@@ -54,7 +54,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
-        <h3><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h3>
+        <h4><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h4>
         <b>Status:</b> <i>Complete</i><br>
         <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <hr>
@@ -94,7 +94,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <a href="{{site.baseurl}}/MB2/"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
-        <h3><a href="{{site.baseurl}}/MB2/">MB2: Theory of Mind</a></h3>
+        <h4><a href="{{site.baseurl}}/MB2/">MB2: Theory of Mind</a></h4>
         <b>Status:</b> <i>Stage 1 In Principle Acceptance, Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
         <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
@@ -111,7 +111,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <a href="{{site.baseurl}}/MB3/"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
-        <h3><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a></h3>
+        <h4><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a></h4>
         <b>Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
@@ -131,7 +131,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <a href="{{site.baseurl}}/MB3N/"><img src="/assets/img/MB3N_logo.png" alt="MB3N logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
-        <h3><a href="{{site.baseurl}}/MB3N/">MB3N: Rule Learning using NIRS</a></h3>
+        <h4><a href="{{site.baseurl}}/MB3N/">MB3N: Rule Learning using NIRS</a></h4>
         <b>Status:</b> <i>Developing analysis pipeline; Preparing Stage 1 RR manuscript</i><br>
         <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a><br>
         <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs"><i>Subscribe</i></a><br>
@@ -144,7 +144,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <a href="{{site.baseurl}}/MB4/"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
-        <h3><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h3>
+        <h4><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h4>
         <b>Project Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
         <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
@@ -167,7 +167,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/MB5_logo.png" alt="MB5 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
-        <h3><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h3>
+        <h4><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h4>
         <b>Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review<</i><br>
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
@@ -175,6 +175,18 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
       </div>
     </div>
     <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB6/"><img src="/assets/img/MB6_logo.png" alt="MB6 logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href="{{site.baseurl}}/MB6/">MB6: Neonatal Imitation</a></h4>
+        <b>Status:</b> <i>Early planning; Team formation<</i><br>
+        <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>, <a href="mailto:m.nielsen@psy.uq.edu.au">Mark Nielsen</a>, <a href="mailto:recheleb@uw.edu">Rechele Brooks</a><br>
+        <b>MB6 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6"><i>Subscribe</i></a>
+      </div>
+    </div>
     <br>
   </div>
 </section>
