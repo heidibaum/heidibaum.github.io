@@ -26,6 +26,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
   <div class="container">
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
+        <br>
         <a href="{{site.baseurl}}/index/"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo"></a>
       </div>
       <div class="col-sm-10">
@@ -39,6 +40,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
     <hr>
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
+        <br>
         <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a>
       </div>
       <div class="col-sm-10">
