@@ -8,17 +8,14 @@ title: Get Involved!
 In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. <br>
 **All are welcome!**
 
-If you know which project you are interested in joining, **you can email one or more of the Project Leads directly**. You are also encouraged to **subscribe to project listservs** to receive project updates and communications (see links below). 
+<h3><a href="#projects">Contact Info by Project</a></h3>
+If you know which project you are interested in joining, **you can email one or more of the Project Leads directly**. You are also encouraged to **subscribe to project listservs** to receive project updates and communications
 
+<h3><a href="{{site.baseurl}}/calendar/">Come to Drop-In Hours</a></h3>
+You are welcome to join us at our **monthly "Drop-in Hours"** (currently held on the first Thursday of each month). Times and links to join via Zoom can be found in our [calendar]({{site.baseurl}}/news/).
+
+<h3><a href="#signupform">Interest Form</a></h3>
 If you're unsure of how you'd like to contribute or you'd like to talk with us about contribution opportunities, please **fill out the <a href="#signupform">Sign-Up Form</a>** and we'll be in touch with you as soon as possible. 
-
-You are also welcome to join us at our **monthly "Drop-in Hours"** (currently held on the first Thursday of each month). Times and links to join via Zoom can be found in our [calendar]({{site.baseurl}}/news/).
-
-* <a href="#projects">**Contact Info by Project**</a>: Contact info, listserv subscription links, etc.
-* <a href="#signupform">**MB Sign-up Form**</a>: Let us know you're interested!
-* [**Monthly "Drop-In Hours"**]({{site.baseurl}}/calendar/): All are welcome! Held on the first Thursday of the month, see [calendar]({{site.baseurl}}/calendar/) for info
-* <a href="#proposal">**New Project Proposal**</a>: Got an MB project idea? Let us know!
-* <a href="#MBActivity">**MB Activity Tracking**</a>: Report MB-related presentations, publications, etc. here
 
 <br>
 
