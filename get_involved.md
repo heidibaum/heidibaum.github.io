@@ -20,9 +20,13 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
 * <a href="#proposal">**New Project Proposal**</a>: Got an MB project idea? Let us know!
 * <a href="#MBActivity">**MB Activity Tracking**</a>: Report MB-related presentations, publications, etc. here
 
+
 ***
 ## Contact Info by Project
 <section>
+  <header class="major">
+		<h2>General Contact Info</h2>
+	</header>
   <div class="container">
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
@@ -37,7 +41,11 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
       </div>
     </div>
-    <hr>
+  </div>
+  <header class="major">
+	  <h2>Contact Info by Project</h2>
+  </header>
+  <div class="container">
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
