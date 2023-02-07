@@ -86,7 +86,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>Status:</b> <i>Submitted</i><br> 
         <b>Project Lead:</b> <a href="mailto:melanie.schreiner@psych.uni-goettingen.de">Melanie Schreiner</a>
         <hr>
-        <h4><a href="{{site.baseurl}}/MB1SA/">Secondary Analyses</a></h4>
+        <h4><a href="{{site.baseurl}}/MB1SA/">MB1 Secondary Analyses</a></h4>
         <h5>Comparison to meta-analytic data</h5>
         <b>Project Leads:</b> <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:fusaroli@cas.au.dk">Riccardo Fusaroli</a><br>
         <br>
