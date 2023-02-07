@@ -161,6 +161,20 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
       </div>
     </div>
     <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/MB5_logo.png" alt="MB5 logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h3><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h3>
+        <b>Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review<</i><br>
+        <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
+          <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
+        <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5"><i>Subscribe</i></a>
+      </div>
+    </div>
+    <hr>
     <br>
   </div>
 </section>
