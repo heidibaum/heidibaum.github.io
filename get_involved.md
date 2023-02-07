@@ -100,7 +100,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
         <hr>
         <h4><a href="{{site.baseurl}}/MB2P/">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></h4>
-        <b>Status:</b>Preparing analysis pipeline; collecting data<i></i><br>
+        <b>Status:</b> <i>Preparing analysis pipeline; collecting data</i><br>
         <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a><br>
       </div>
     </div>
