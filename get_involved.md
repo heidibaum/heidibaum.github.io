@@ -117,9 +117,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
         <hr>
-      </div>
-      <div class="col-sm-10">
-        <h3><a href="{{site.baseurl}}/MB3L/">MB3L: Longitudinal Follow-up</a></h3>
+        <h4><a href="{{site.baseurl}}/MB3L/">MB3L: Longitudinal Follow-up</a></h4>
         <b>Status:</b> <i>Planning</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:roberta.bettoni@unimib.it">Roberta Bettoni</a>, 
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
