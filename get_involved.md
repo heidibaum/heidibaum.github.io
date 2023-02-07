@@ -213,6 +213,19 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"><i>Subscribe</i></a>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>
+        <b>Status:</b> <i>Manuscript submitted</i><br>
+        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>, <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a><br>
+        <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2"><i>Subscribe</i></a>
+      </div>
+    </div>
     <br>
   </div>
 </section>
