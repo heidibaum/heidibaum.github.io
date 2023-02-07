@@ -168,7 +168,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h4>
-        <b>Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review<</i><br>
+        <b>Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review</i><br>
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
         <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5"><i>Subscribe</i></a>
@@ -182,9 +182,35 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB6/">MB6: Neonatal Imitation</a></h4>
-        <b>Status:</b> <i>Early planning; Team formation<</i><br>
+        <b>Status:</b> <i>Early planning; Team formation</i><br>
         <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>, <a href="mailto:m.nielsen@psy.uq.edu.au">Mark Nielsen</a>, <a href="mailto:recheleb@uw.edu">Rechele Brooks</a><br>
         <b>MB6 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6"><i>Subscribe</i></a>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB-AtHome/"><img src="/assets/img/MBAH_logo.png" alt="MB-AtHome logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href="{{site.baseurl}}/MB-AtHome/">MB-AtHome: Online Infant Data Collection</a></h4>
+        <b>Status:</b> <i>Translating materials; Collecting pilot data</i><br>
+        <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a><br>
+        <b>MB-AH listserv:</b> <a href="https://groups.google.com/forum/#!forum/infantlooksathome"><i>Subscribe</i></a>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB-Demographics/"><img src="/assets/img/MBDemo_logo.png" alt="MB-Demographics logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics: Unified Demographics for MB Projects</a></h4>
+        <b>Status:</b> <i>Manuscript submitted</i><br>
+        <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a><br>
+        <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"><i>Subscribe</i></a>
       </div>
     </div>
     <br>
