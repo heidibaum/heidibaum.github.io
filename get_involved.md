@@ -104,6 +104,27 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a><br>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB3/"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h3><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a></h3>
+        <b>Status:</b> <i>Stage 1 In Principle Acceptance, Collecting data</i><br>
+        <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
+          <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
+        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
+        <hr>
+        <h3><a href="{{site.baseurl}}/MB3N/">MB3N: Rule Learning using NIRS</a></h3>
+        <b>Status:</b> <i>Developing analysis pipeline; Preparing Stage 1 RR manuscript</i><br>
+        <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a><br>
+        <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs"><i>Subscribe</i></a><br>
+      </div>
+    </div>
+    <hr>
+    <br>
   </div>
 </section>
  
