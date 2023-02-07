@@ -146,6 +146,16 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>Project Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
         <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
+        <hr>
+        <h4><a href="{{site.baseurl}}/MB4E/">MB4E: Emotional Responses</a></h4>
+        <b>Status:</b> <i>Collecting data</i><br>
+        <b>Project Leads:</b> <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
+        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
+        <hr>
+        <h4><a href="{{site.baseurl}}/MB4I/">MB4I: Individual Differences</a></h4>
+        <b>Status:</b> <i>Collecting data</i><br>
+        <b>Project Leads:</b> <a href="mailto:yiyi_wang@pku.edu.cn">YiYi Wang</a>, <a href="mailto:mailto:senh@mef.edu.tr">Hilal Şen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
+        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
       </div>
     </div>
     <hr>
