@@ -31,7 +31,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/index/"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo"></a>
+        <a href="{{site.baseurl}}/index/"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/index/">ManyBabies </a></h4>
