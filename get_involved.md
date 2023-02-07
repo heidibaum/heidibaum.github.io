@@ -21,10 +21,25 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
 * <a href="#MBActivity">**MB Activity Tracking**</a>: Report MB-related presentations, publications, etc. here
 
 ***
-<h2 id="proposal">Contact Info by Project</h2>
-
-* Filler 1
-* Filler 2
+## Contact Info by Project
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="{{site.baseurl}}{% link index.md %}" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3><a href="{{site.baseurl}}{% link index.md %}">ManyBabies </a></h3>
+        <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
+          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)</i><br>
+        <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
+        <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
+        <hr>
+      </div>
+    </div>
+  </div>
+</div>
+ 
 
 ***
 
