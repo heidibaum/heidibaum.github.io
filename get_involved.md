@@ -4,7 +4,7 @@ title: Get Involved!
 ---
 
 
-## We're excited to have you join our team!
+## Join Us!
 In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. <br>
 **All are welcome!**
 
