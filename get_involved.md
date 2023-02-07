@@ -156,7 +156,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <hr>
         <h4><a href="{{site.baseurl}}/MB4I/">MB4I: Individual Differences</a></h4>
         <b>Status:</b> <i>Collecting data</i><br>
-        <b>Project Leads:</b> <a href="mailto:yiyi_wang@pku.edu.cn">YiYi Wang</a>, <a href="mailto:mailto:senh@mef.edu.tr">Hilal Şen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
+        <b>Project Leads:</b> <a href="mailto:yiyi_wang@pku.edu.cn">YiYi Wang</a>, <a href="mailto:senh@mef.edu.tr">Hilal Şen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
         <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
       </div>
     </div>
