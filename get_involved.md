@@ -59,7 +59,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <br>
         <h3><a href="{{site.baseurl}}/MB1A/">MB1A: Infant-Directed Speech Preference in African Infants</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i><br>
+        <b>Project Status:</b> <i>Stage 1 In Principle Acceptance, Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
           <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
@@ -83,7 +83,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>Project Leads:</b> <a href="mailto:natalia.kartushina@psykologi.uio.no">Natalia Kartushina</a>, <a href="mailto:virginie.durier@univ-rennes1.fr">Virginie Durier</a><br>
         <br>
         <h3><a href="{{site.baseurl}}/MB1T/">MB1T: Test-Retest Follow-up</a></h3>
-        <b>Project Status:</b> <i>Final manuscript prep</i><br> 
+        <b>Project Status:</b> <i>Submitted</i><br> 
         <b>Project Lead:</b> <a href="mailto:melanie.schreiner@psych.uni-goettingen.de">Melanie Schreiner</a>
         <hr>
       </div>
