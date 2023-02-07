@@ -26,7 +26,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
   <div class="container">
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
-        <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="100" height="100"></a>
+        <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo"></a>
       </div>
       <div class="col-sm-10">
         <h3><a href="{{site.baseurl}}/index/">ManyBabies </a></h3>
@@ -39,7 +39,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
     <hr>
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
-        <a href="{{site.baseurl}}/MB1/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
+        <a href="{{site.baseurl}}/MB1/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a>
       </div>
       <div class="col-sm-10">
         <h3><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h3>
