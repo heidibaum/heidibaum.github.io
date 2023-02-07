@@ -44,7 +44,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
     </div>
   </div>
   <header class="major">
-	  <h2>Contact Info by Project</h2>
+	  <h2 id="#projects">Contact Info by Project</h2>
   </header>
   <div class="container">
     <div class="row">
