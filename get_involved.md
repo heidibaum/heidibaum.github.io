@@ -233,21 +233,6 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2"><i>Subscribe</i></a>
       </div>
     </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB1SA/"><img src="/assets/img/analysis.png" alt="Analysis" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB1SA/">Secondary Analyses</a></h4>
-        <h5>Comparison to meta-analytic data</h5>
-        <b>Project Leads:</b> <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:fusaroli@cas.au.dk">Riccardo Fusaroli</a><br>
-        <br>
-        <h5>Analysis of supplemental demographic variables</h5>
-        <b>Project Lead:</b> <a href="mailto:mekline@mit.edu">Melissa Kline Struhl</a>
-      </div>
-    </div>
     <br>
   </div>
 </section>
