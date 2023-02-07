@@ -12,10 +12,13 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 If you know which project you are interested in joining, **you can email one or more of the Project Leads directly**. You are also encouraged to **subscribe to project listservs** to receive project updates and communications
 
 <h3><a href="{{site.baseurl}}/calendar/">Come to Drop-In Hours</a></h3>
-You are welcome to join us at our **monthly "Drop-in Hours"** (currently held on the first Thursday of each month). Times and links to join via Zoom can be found in our [calendar]({{site.baseurl}}/news/).
+You are welcome to join us at our **monthly "Drop-in Hours"** (currently held on the first Thursday of each month). Times and links to join via Zoom can be found in our [*calendar*]({{site.baseurl}}/news/).
 
 <h3><a href="#signupform">Interest Form</a></h3>
 If you're unsure of how you'd like to contribute or you'd like to talk with us about contribution opportunities, please **fill out the <a href="#signupform">Sign-Up Form</a>** and we'll be in touch with you as soon as possible. 
+
+<h3><a href="#proposal">Propose a Project</a></h3>
+Do you have an idea for a ManyBabies project? Let us know! You can email Project Leads (for spin-off projects) or the [Governing Board](mailto:manybabies-gb@mailman.stanford.edu) (for new projects), or fill out our <a href="#proposal">Project Proposal Form</a>.
 
 <br>
 
