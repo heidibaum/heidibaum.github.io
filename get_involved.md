@@ -22,7 +22,6 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
 
 
 ***
-<!-- CONTACT INFO -->
 
 <section>
   <header class="major">
