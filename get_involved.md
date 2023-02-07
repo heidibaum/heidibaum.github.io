@@ -22,7 +22,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
 
 
 ***
-## Contact Info by Project
+<!-- CONTACT INFO -->
 <section>
   <header class="major">
 		<h2>General Contact Info</h2>
