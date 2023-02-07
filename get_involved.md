@@ -25,10 +25,10 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
+      <div class="col-sm-2 col-xs-6" align="center">
         <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="100" height="100"></a>
       </div>
-      <div class="col-sm-9">
+      <div class="col-sm-10">
         <h3><a href="{{site.baseurl}}/index/">ManyBabies </a></h3>
         <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
           <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
@@ -38,10 +38,10 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
     </div>
     <hr>
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
+      <div class="col-sm-2 col-xs-6" align="center">
         <a href="{{site.baseurl}}/MB1/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
       </div>
-      <div class="col-sm-9">
+      <div class="col-sm-10">
         <h3><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h3>
         <b>Project Status:</b> <i>Complete</i><br>
         <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
