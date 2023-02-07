@@ -35,6 +35,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <a href="{{site.baseurl}}/index/"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="80" height="80"></a>
       </div>
       <div class="col-sm-10">
+        <br>
         <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
           <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
