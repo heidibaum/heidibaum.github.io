@@ -39,18 +39,6 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="100" height="100"></a>
-      </div>
-      <div class="col-sm-9">
-        <h3><a href="{{site.baseurl}}/index/">ManyBabies </a></h3>
-        <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
-          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
-        <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
-        <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
-      </div>
-    </div>
-        <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}/MB1/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
