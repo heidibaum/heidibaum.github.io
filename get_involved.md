@@ -39,10 +39,10 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
           <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
         <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
-        <br>
       </div>
     </div>
   </div>
+  <br>
   <header class="major">
 	  <h2 id="#projects">Contact Info by Project</h2>
   </header>
