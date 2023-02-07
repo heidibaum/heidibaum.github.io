@@ -57,7 +57,18 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a></h4>
         <i>Do infants learn and generalize identity-based rules from speech stimuli?</i><br>
-        <b>Spin-off:</b> <a href="{{site.baseurl}}/MB3N/">MB3N</a>
+        <b>Spin-offs:</b> <a href="{{site.baseurl}}/MB3L/">MB3L</a>, <a href="{{site.baseurl}}/MB3N/">MB3N</a>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB3N/"><img src="/assets/img/MB3N_logo.png" alt="MB3N logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="{{site.baseurl}}/MB3N/">MB3N: Rule Learning with NIRS</a></h4>
+        <i>What are the neural correlates that inform whether and to what extent rules’ processing and learning are abstract, rule-based, and/or language specific?</i><br>
       </div>
     </div>
     <hr>
