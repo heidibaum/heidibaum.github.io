@@ -131,10 +131,10 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
     </div>
     <hr>
     <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
+      <div class="col-sm-2 col-xs-6" align="center">
         <a href="{{site.baseurl}}/MB4/"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="75" height="75"></a>
       </div>
-      <div class="col-sm-9">
+      <div class="col-sm-10">
         <h3><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h3>
         <b>Project Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
