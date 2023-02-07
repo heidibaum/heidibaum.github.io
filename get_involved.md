@@ -38,7 +38,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
       </div>
     </div>
   </div>
-</div>
+</section>
  
 
 ***
