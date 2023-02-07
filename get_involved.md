@@ -59,7 +59,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <hr>
         <h4><a href="{{site.baseurl}}/MB1A/">MB1A: Infant-Directed Speech Preference in African Infants</a></h4>
-        <b>Status:</b> <i>Stage 1 In Principle Acceptance, Collecting data</i><br>
+        <b>Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
           <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
@@ -112,7 +112,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
       </div>
       <div class="col-sm-10">
         <h3><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a></h3>
-        <b>Status:</b> <i>Stage 1 In Principle Acceptance, Collecting data</i><br>
+        <b>Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
@@ -127,6 +127,18 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
         <b>Status:</b> <i>Developing analysis pipeline; Preparing Stage 1 RR manuscript</i><br>
         <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a><br>
         <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs"><i>Subscribe</i></a><br>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="{{site.baseurl}}/MB4/"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h3>
+        <b>Project Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br> 
+        <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
+        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
       </div>
     </div>
     <hr>
