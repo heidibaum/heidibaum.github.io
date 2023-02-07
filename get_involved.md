@@ -132,6 +132,7 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
     <hr>
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
+        <br>
         <a href="{{site.baseurl}}/MB4/"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
