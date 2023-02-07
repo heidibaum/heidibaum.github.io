@@ -26,17 +26,69 @@ You are also welcome to join us at our **monthly "Drop-in Hours"** (currently he
   <div class="container">
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link index.md %}" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="100" height="100"></a>
+        <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h3><a href="{{site.baseurl}}{% link index.md %}">ManyBabies </a></h3>
+        <h3><a href="{{site.baseurl}}/index/">ManyBabies </a></h3>
         <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
-          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)</i><br>
+          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
         <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3><a href="{{site.baseurl}}/index/">ManyBabies </a></h3>
+        <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
+          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
+        <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
+        <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
+      </div>
+    </div>
+        <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="{{site.baseurl}}/MB1/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h3>
+        <b>Project Status:</b> <i>Complete</i><br>
+        <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
+        <br>
+        <h3><a href="{{site.baseurl}}/MB1A/">MB1A: Infant-Directed Speech Preference in African Infants</a></h3>
+        <b>Project Status:</b> <i>Collecting data</i><br>
+        <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
+          <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
+          <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
+        <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa"><i>Subscribe</i></a><br>
+        <br>
+        <h3><a href="{{site.baseurl}}/MB1B/">MB1B: Infant-Directed Speech Preference in Bilingual Infants</a></h3>
+        <b>Project Status:</b> <i>Complete</i><br> 
+        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a><br>
+        <br>
+        <h3><a href="{{site.baseurl}}/MB1G/">MB1G: Gaze Following in Monolingual and Bilingual Infants</a></h3>
+        <b>Project Status:</b> <i>Complete</i><br> 
+        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a><br>
+        <br>
+        <h3><a href="{{site.baseurl}}/MB1L/">MB1L: Longitudinal Vocabulary Follow-up</a></h3>
+        <b>Project Status:</b> <i>Stage 2 manuscript prep</i><br> 
+        <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
+        <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up"><i>Subscribe</i></a><br>
+        <br>
+        <h3><a href="{{site.baseurl}}/MB1N/">MB1N: Native Languages Follow-up</a></h3>
+        <b>Project Status:</b> <i>Collecting data</i><br> 
+        <b>Project Leads:</b> <a href="mailto:natalia.kartushina@psykologi.uio.no">Natalia Kartushina</a>, <a href="mailto:virginie.durier@univ-rennes1.fr">Virginie Durier</a><br>
+        <br>
+        <h3><a href="{{site.baseurl}}/MB1T/">MB1T: Test-Retest Follow-up</a></h3>
+        <b>Project Status:</b> <i>Final manuscript prep</i><br> 
+        <b>Project Lead:</b> <a href="mailto:melanie.schreiner@psych.uni-goettingen.de">Melanie Schreiner</a>
         <hr>
       </div>
     </div>
+    <hr>
   </div>
 </section>
  
