@@ -9,7 +9,7 @@ title: Events
 ### Michael Frank, *Stanford University*
 #### March 21, 2023 9:00-10:30 PDT (San Francisco, US) on Zoom
 
-Details to come
+> Details to come
 
 <br>
 
@@ -18,8 +18,9 @@ Details to come
 
 ## Big Team Science Conference
 #### October 27-28, 2022 
+<br>
 
-> ManyBabies is a proud co-host of the: <br>
+> ManyBabies is a proud co-host of the: 
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28" /></a><br>
 [*Conference Website*](https://bigteamscienceconference.github.io)
@@ -39,6 +40,8 @@ Details to come
 #### Slides available on [OSF](https://osf.io/5x8yk/)
 
 In this workshop, Nicolás and Krista introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science; all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
+
+<br>
 <br>
 
 ***
