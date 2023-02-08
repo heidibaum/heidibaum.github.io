@@ -649,14 +649,14 @@ footer .footer-custom-content {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
+  margin-top: 2.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
 }
 nav.top-nav-short-permanent ~ header > .intro-header {
   margin-top: 5rem;
 }
 nav.top-nav-short-permanent ~ header > .intro-header.big-img {
-  margin-top: 3.1875rem;
+  margin-top: 2.1875rem;
 }
 .intro-header.big-img .big-img-transition {
   position: absolute;
