@@ -65,6 +65,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
           <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
         <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa"><i>Subscribe</i></a><br>
+        <b>MB1A Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb1africa-general</b> channel</i><br>
         <hr>
         <h4><a href="{{site.baseurl}}/MB1B/">MB1B: Infant-Directed Speech Preference in Bilingual Infants</a></h4>
         <b>Status:</b> <i>Complete</i><br> 
@@ -106,6 +107,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Status:</b> <i>Stage 1 In Principle Acceptance, Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
         <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
+        <b>MB2 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb2-general</b> channel</i><br>
         <hr>
         <h4><a href="{{site.baseurl}}/MB2P/">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></h4>
         <b>Status:</b> <i>Preparing analysis pipeline; collecting data</i><br>
@@ -130,6 +132,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:roberta.bettoni@unimib.it">Roberta Bettoni</a>, 
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
+        <b>MB3 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb3-general</b> channel</i><br>
       </div>
     </div>
     <hr>
@@ -143,6 +146,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Status:</b> <i>Developing analysis pipeline; Preparing Stage 1 RR manuscript</i><br>
         <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a><br>
         <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs"><i>Subscribe</i></a><br>
+        <b>MB3N Slack:</b> <i><a href="https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ">Join</a></i>
       </div>
     </div>
     <hr>
