@@ -156,7 +156,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Project Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
         <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
-        <b>MB4 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>,</i> then add <tt>#mb4-general</tt> <i>channel</i><br>
+        <b>MB4 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb4-general</b> channel</i><br>
         <hr>
         <h4><a href="{{site.baseurl}}/MB4E/">MB4E: Emotional Responses</a></h4>
         <b>Status:</b> <i>Collecting data</i><br>
