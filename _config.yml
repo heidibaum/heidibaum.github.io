@@ -24,6 +24,7 @@ navbar-links:
     - What is MB?: "about"
     - People: "people"
     - Events: "events"
+    - News & Updates: "news"
     - Code of Conduct: "codeofconduct"
   Projects: 
     - Overview: "projects"
