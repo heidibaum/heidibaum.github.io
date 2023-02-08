@@ -40,7 +40,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
           <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
-        <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
+        <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join workspace</i></a>
       </div>
     </div>
   </div>
@@ -126,13 +126,13 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
+        <b>MB3 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb3-general</b> channel</i><br>
         <hr>
         <h4><a href="{{site.baseurl}}/MB3L/">MB3L: Longitudinal Follow-up</a></h4>
         <b>Status:</b> <i>Planning</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:roberta.bettoni@unimib.it">Roberta Bettoni</a>, 
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
-        <b>MB3 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb3-general</b> channel</i><br>
       </div>
     </div>
     <hr>
