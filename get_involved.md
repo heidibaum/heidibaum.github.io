@@ -146,7 +146,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Status:</b> <i>Developing analysis pipeline; Preparing Stage 1 RR manuscript</i><br>
         <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a><br>
         <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs"><i>Subscribe</i></a><br>
-        <b>MB3N Slack:</b> <i><a href="https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ">Join</a></i>
+        <b>MB3N Slack:</b> <i><a href="https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ">Join workspace</a></i>
       </div>
     </div>
     <hr>
