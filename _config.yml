@@ -21,6 +21,7 @@ author: Heidi Baumgartner
 
 navbar-links:
   About: 
+    - Home: "index"
     - What is MB?: "about"
     - People: "people"
     - Events: "events"
