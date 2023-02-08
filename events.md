@@ -21,8 +21,10 @@ title: Events
 
 > ManyBabies is a proud co-host of the: 
 
-<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28" /></a><br>
-[*Conference Website*](https://bigteamscienceconference.github.io)
+<div class="container" align="center">
+  <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28" /></a><br>
+  <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
+</div>
 
 <br>
 
