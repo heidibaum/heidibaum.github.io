@@ -8,7 +8,6 @@ title: Get Involved!
 In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. <br>
 **All are welcome!**
 
-
 ### Ways to get involved: 
 * <h4><a href="#projects">Contact Info by Project</a></h4>
   * If you know which project you are interested in joining, **you can email one or more of the Project Leads directly**. You are also encouraged to **subscribe to project listservs** to receive project updates and communications
@@ -19,7 +18,6 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 * <h4><a href="#proposal">Propose a Project</a></h4>
   * Do you have an idea for a ManyBabies project? Let us know! You can email Project Leads (for spin-off projects) or the [Governing Board](mailto:manybabies-gb@mailman.stanford.edu) (for new projects), or fill out our <a href="#proposal">Project Proposal Form</a>.
 
-<br>
 
 ***
 
