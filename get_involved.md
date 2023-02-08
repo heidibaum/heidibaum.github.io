@@ -166,6 +166,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:yiyi_wang@pku.edu.cn">YiYi Wang</a>, <a href="mailto:senh@mef.edu.tr">Hilal Şen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
         <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
+        <b>MB4 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb4-general</b> channel</i>
       </div>
     </div>
     <hr>
@@ -180,6 +181,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
         <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5"><i>Subscribe</i></a>
+        <b>MB5 Slack:</b> <a href="https://join.slack.com/t/manybabies5/shared_invite/zt-1olgszxpd-1FKLTYOY3o~oBjyw2cLR2Q"><Join</i></a>
       </div>
     </div>
     <hr>
@@ -206,6 +208,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Status:</b> <i>Translating materials; Collecting pilot data</i><br>
         <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a><br>
         <b>MB-AH listserv:</b> <a href="https://groups.google.com/forum/#!forum/infantlooksathome"><i>Subscribe</i></a>
+        <b>MB-AH Slack:</b> <a href="https://join.slack.com/t/infantlooksathome/shared_invite/zt-1ow4drttf-O6fvUJFIyvvwpDdR3W2paw"><Join</i></a>
       </div>
     </div>
     <hr>
