@@ -8,6 +8,8 @@ title: Get Involved!
 In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. <br>
 **All are welcome!**
 
+
+### Ways to get involved: 
 * <h4><a href="#projects">Contact Info by Project</a></h4>
   * If you know which project you are interested in joining, **you can email one or more of the Project Leads directly**. You are also encouraged to **subscribe to project listservs** to receive project updates and communications
 * <h4><a href="{{site.baseurl}}/calendar/">Come to Drop-In Hours</a></h4>
