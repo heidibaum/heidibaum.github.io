@@ -12,6 +12,7 @@ title: Events
 Details to come
 
 <br>
+
 ***
 #### *Past*
 
