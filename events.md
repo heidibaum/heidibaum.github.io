@@ -7,7 +7,7 @@ title: Events
 
 ## Reproducible Writing Using R Markdown
 ### Michael Frank, *Stanford University*
-#### March 21, 2023 9:00-10:30 PDT (San Francisco, US) on Zoom
+#### March 21, 2023 9:00-10:30 PDT (San Francisco, US; UTC -7) on Zoom
 
 > Details to come
 
