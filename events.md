@@ -1,10 +1,27 @@
 ---
 layout: page
-title: Workshops
+title: Events
 ---
 
+#### *Upcoming*
+
+## Reproducible Writing Using R Markdown
+### Michael Frank, *Stanford University*
+#### March 21, 2023 9:00-10:30 PDT (San Francisco, US) on Zoom
+
+Details to come
+
+
+***
 #### *Past*
 
+### October 27-28, 2022 
+## Big Team Science Conference
+ManyBabies is a proud co-host of the: <br>
+<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28" /></a>
+[Conference Website](https://bigteamscienceconference.github.io)
+
+***
 <div class="container" align="center">
   <img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png" width="150" height="120">
 </div>
