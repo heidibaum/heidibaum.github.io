@@ -18,7 +18,6 @@ title: Events
 
 ## Big Team Science Conference
 #### October 27-28, 2022 
-<br>
 
 > ManyBabies is a proud co-host of the: 
 
@@ -41,7 +40,6 @@ title: Events
 
 In this workshop, Nicolás and Krista introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science; all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
 
-<br>
 <br>
 
 ***
