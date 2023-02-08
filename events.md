@@ -16,11 +16,15 @@ Details to come
 ***
 #### *Past*
 
-### October 27-28, 2022 
 ## Big Team Science Conference
-ManyBabies is a proud co-host of the: <br>
+#### October 27-28, 2022 
+
+>ManyBabies is a proud co-host of the: <br>
+
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28" /></a>
 [Conference Website](https://bigteamscienceconference.github.io)
+
+<br>
 
 ***
 <div class="container" align="center">
