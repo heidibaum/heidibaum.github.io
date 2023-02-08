@@ -181,7 +181,7 @@ ManyBabies project? Let us know! You can email Project Leads (for spin-off proje
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
         <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5"><i>Subscribe</i></a><br>
-        <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies5/shared_invite/zt-1olgszxpd-1FKLTYOY3o~oBjyw2cLR2Q"><Join</a></i>
+        <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies5/shared_invite/zt-1olgszxpd-1FKLTYOY3o~oBjyw2cLR2Q">Join</a></i>
       </div>
     </div>
     <hr>
