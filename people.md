@@ -55,9 +55,6 @@ cover-img: /assets/img/MB_map.jpg
         <i>Stanford University (Palo Alto, United States)</i>
       </div>
     </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
 	</div>
 <br>
 	<header class="major">
