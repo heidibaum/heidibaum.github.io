@@ -167,9 +167,6 @@ cover-img: /assets/img/MB_map.jpg
         <i>University of Manitoba (Winnipeg, Canada)</i> 
       </div>
     </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
   </div>
 <br>
 	<header class="major">
@@ -198,9 +195,6 @@ cover-img: /assets/img/MB_map.jpg
         <i>University of British Columbia (Vacouver, Canada)</i>
       </div>
     </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
   </div>
 <br>
   <header class="major">
@@ -216,9 +210,6 @@ cover-img: /assets/img/MB_map.jpg
   	    <h4>Grace Zhou <a href="mailto:grace.zhou@umanitoba.ca">[email]</a> [2021 - ]</h4>
         <i>University of Manitoba (Winnipeg, Canada)</i>  
       </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
     </div>
   </div>
 <br>
