@@ -37,8 +37,8 @@ navbar-links:
     - MB5: "MB5"
     - MB6: "MB6"
     - At Home: "MB-AtHome"
-    - Demographics: "MB-Demographics"
-    - ManyWebcams: "MB-ManyWebcams"
+    - Demo- graphics: "MB-Demographics"
+    - Many Webcams: "MB-ManyWebcams"
     - Spin-offs: "so_sa"
   Resources:
     - General Resources: "resources"
