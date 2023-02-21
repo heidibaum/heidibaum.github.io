@@ -218,9 +218,9 @@ cover-img: /assets/img/MB_map.jpg
 <br>
 
 ***
-## Contributor Dashboard Form
+<h2 id="dashboardform">Contributor Dashboard Form</h2>
 
-<h3 id="dashboardform">To be added to the dashboard <i>(or to update your information)</i>, please fill out this form:</h3>
+### To be added to the dashboard <i>(or to update your information)</i>, please fill out this form:
 
 > Please note that all responses to the Dashboard Form are moderated. Thanks for your patience! 
 
