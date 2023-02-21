@@ -209,7 +209,7 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
         <b>Status:</b> <i>Translating materials; Collecting pilot data</i><br>
         <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a><br>
         <b>MB-AH listserv:</b> <a href="https://groups.google.com/forum/#!forum/infantlooksathome"><i>Subscribe</i></a><br>
-        <b>MB-AH Slack:</b> <a href="https://join.slack.com/t/infantlooksathome/shared_invite/zt-1ow4drttf-O6fvUJFIyvvwpDdR3W2paw">Join workspace</i></a><br>
+        <b>MB-AH Slack:</b> <i><a href="https://join.slack.com/t/infantlooksathome/shared_invite/zt-1ow4drttf-O6fvUJFIyvvwpDdR3W2paw">Join workspace</a></i><br>
       </div>
     </div>
     <hr>
