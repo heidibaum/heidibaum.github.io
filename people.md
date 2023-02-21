@@ -19,6 +19,7 @@ cover-img: /assets/img/MB_map.jpg
 #### For Project Leads:
 * **To add multiple contributors at once**: [**email us**](mailto:manybabiesconsortium@gmail.com)
 
+<br>
 
 ***
 ## ManyBabies Leadership
@@ -214,6 +215,8 @@ cover-img: /assets/img/MB_map.jpg
   </div>
 <br>
 </section>
+
+<br>
 
 ***
 ## Contributor Dashboard Form
