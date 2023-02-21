@@ -51,10 +51,8 @@ cover-img: /assets/img/MB_map.jpg
         <img src="/assets/img/HeidiBaumgartner.png" alt="Heidi Baumgartner" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://www-csli.stanford.edu/people/baumgartner-heidi">Heidi Baumgartner</a> [2021 - ]</h4> 
+        <h4><a href="https://www-csli.stanford.edu/people/baumgartner-heidi">Heidi Baumgartner</a> <a href="mailto:heidib@stanford.edu">[email]</a> [2021 - ]</h4> 
         <i>Stanford University (Palo Alto, United States)</i>
-        <br>
-        <a href="mailto:heidib@stanford.edu">[email]</a>
       </div>
     </div>
     <div class="col-sm-12">
@@ -69,7 +67,6 @@ cover-img: /assets/img/MB_map.jpg
 	<div class="container">
 		<div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <br>
         <img src="/assets/img/ChristinaBergmann.png" alt="Christina Bergmann" width="100" height="100">
       </div>
       <div class="col-sm-9">
@@ -84,7 +81,6 @@ cover-img: /assets/img/MB_map.jpg
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <br>
         <img src="/assets/img/KristaByersHeinlein.png" alt="Krista Byers-Heinlein" width="100" height="100">
       </div>
       <div class="col-sm-9">
