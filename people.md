@@ -14,7 +14,6 @@ cover-img: /assets/img/MB_map.jpg
 * **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform"><b>form</b></a> below or [**email us**](mailto:manybabiesconsortium@gmail.com) with your updated information.
 * **Report MB-related activities**: Don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). Please use <a href="https://forms.gle/qaynWvpYLP1J4eYd6" target="_blank"><b>this form</b></a> to help us keep track of all the amazing work you are doing for ManyBabies! Your reported activities will be added to this <a href="https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing" target="_blank"><b>list of MB activities</b></a>.
 
-> Please note that all responses to the Dashboard Form are moderated. Thanks for your patience! 
 
 #### For Project Leads:
 * **To add multiple contributors at once**: [**email us**](mailto:manybabiesconsortium@gmail.com)
@@ -222,5 +221,7 @@ cover-img: /assets/img/MB_map.jpg
 ## Contributor Dashboard Form
 
 <h3 id="dashboardform">To be added to the dashboard <i>(or to update your information)</i>, please fill out this form:</h3>
+
+> Please note that all responses to the Dashboard Form are moderated. Thanks for your patience! 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
