@@ -15,26 +15,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
 
 <section>
   <header class="major">
-		<h2>General Contact Info</h2>
-	</header>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/index/"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo" width="80" height="80"></a>
-      </div>
-      <div class="col-sm-10">
-        <br>
-        <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
-          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
-        <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
-        <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join workspace</i></a>
-      </div>
-    </div>
-  </div>
-  <br>
-  <header class="major">
-	  <h2 id="projects">Contact Info by Project</h2>
+	  <h2 id="projects">Projects</h2>
   </header>
   <div class="container">
     <div class="row">
@@ -47,7 +28,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Complete</i><br>
         <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <hr>
-        <h4><a href="{{site.baseurl}}/MB1A/">MB1A: Infant-Directed Speech Preference in African Infants</a></h4>
+        <img src="/assets/img/spinoff_icon.png" alt="MB1 logo" width="20" height="20"><h4><a href="{{site.baseurl}}/MB1A/">MB1A: Infant-Directed Speech Preference in African Infants</a></h4>
         <b>Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
