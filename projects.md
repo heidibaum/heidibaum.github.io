@@ -28,7 +28,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Complete</i><br>
         <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="MB1 logo" width="20" height="20"><h4><a href="{{site.baseurl}}/MB1A/">MB1A: Infant-Directed Speech Preference in African Infants</a></h4>
+        <img src="/assets/img/spinoff_icon.png" alt="MB1 logo" width="20" height="20"><b><a href="{{site.baseurl}}/MB1A/">MB1A: Infant-Directed Speech Preference in African Infants</a></b>
         <b>Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
