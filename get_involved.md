@@ -10,9 +10,9 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 
 ### Ways to get involved: 
 * <h4>Subscribe to Listservs</h4>
-  * Most of our communications are done via email. **Subscribe** to our <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">general MB listserv</a> or <a href="{{site.baseurl}}/projects/">project-specific listservs</a> to receive announcements and updates.
-* <h4><a href="{{site.baseurl}}/projects/">Email Project Leads</a></h4>
-  * If you know which project you are interested in joining, **you can email one or more of the Project Leads directly** to ask how to get involved.
+  * Most of our communications are done via email. <b>Subscribe to our <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">general MB listserv</a> or <a href="{{site.baseurl}}/projects/">project-specific listservs</a></b> to receive announcements and updates.
+* <h4>Email Project Leads</h4>
+  * If you know which project you are interested in joining, **you can email one or more of the Project Leads directly** to ask how to get involved. Contact info is available <a href="{{site.baseurl}}/projects/"><b>here</b></a>
 * <h4><a href="{{site.baseurl}}/calendar/">Come to Drop-In Hours</a></h4>
   * You are welcome to join us at our **monthly "Drop-in Hours"** (currently held on the first Thursday of each month) to talk with us about contribution opportunities. Times and links to join via Zoom can be found in our [*calendar*]({{site.baseurl}}/calendar/).
 * <h4><a href="#signupform">Sign-Up Form</a></h4>
