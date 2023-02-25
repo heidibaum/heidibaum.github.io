@@ -57,11 +57,11 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Submitted</i><br> 
         <b>Project Lead:</b> <a href="mailto:melanie.schreiner@psych.uni-goettingen.de">Melanie Schreiner</a>
         <hr>
-        <b><a href="{{site.baseurl}}/MB1SA/">MB1 Secondary Analyses</a></b><br>
-        <h5>Comparison to meta-analytic data</h5>
+        <h4><a href="{{site.baseurl}}/MB1SA/">MB1 Secondary Analyses</a></h4><br>
+        <img src="/assets/img/analysis.png" alt="analysis icon" width="20" height="20">  <b>Comparison to meta-analytic data</b>
         <b>Project Leads:</b> <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:fusaroli@cas.au.dk">Riccardo Fusaroli</a><br>
         <br>
-        <b>Analysis of supplemental demographic variables</b><br>
+        <img src="/assets/img/analysis.png" alt="analysis icon" width="20" height="20">  <b>Analysis of supplemental demographic variables</b><br>
         <b>Project Lead:</b> <a href="mailto:mekline@mit.edu">Melissa Kline Struhl</a>
       </div>
     </div>
@@ -103,7 +103,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
                 <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b><br>
+        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b>
         <b>Status:</b> <i>Planning</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
