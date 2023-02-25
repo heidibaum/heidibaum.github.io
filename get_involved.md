@@ -4,25 +4,6 @@ title: Get Involved!
 ---
 
 
-## Join Us!
-In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. <br>
-**All are welcome!**
-
-### Ways to get involved: 
-* <h4>Subscribe to Listservs</h4>
-  * Most of our communications are done via email. <b>Subscribe to our <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">general MB listserv</a> or <a href="{{site.baseurl}}/projects/">project-specific listservs</a></b> to receive announcements and updates.
-* <h4>Email Project Leads</h4>
-  * If you know which project you are interested in joining, you can **email one or more of the Project Leads directly** to ask how to get involved. Contact info for all Project Leads is available [**here**]({{site.baseurl}}/projects/).
-* <h4>Come to Drop-In Hours</h4>
-  * You are welcome to join us at our **monthly "Drop-in Hours"** (currently held on the first Thursday of each month) to talk with us about contribution opportunities. Times and links to join via Zoom can be found in our [**calendar**]({{site.baseurl}}/calendar/).
-* <h4>Fill Out the Sign-Up Form</h4>
-  * If you're unsure of how you'd like to contribute, please **fill out our <a href="#signupform">Sign-Up Form</a>** and we'll be in touch with you as soon as possible. 
-* <h4><a href="#proposal">Propose a Project</a></h4>
-  * **Do you have an idea for a ManyBabies project?** Let us know! You can email Project Leads (for spin-off projects) or the [Governing Board](mailto:manybabies-gb@mailman.stanford.edu) (for new projects), or **fill out our <a href="#proposal">Project Proposal Form</a>**.
-
-
-***
-
 <section>
   <header class="major">
 		<h2>General Contact Info</h2>
@@ -49,16 +30,31 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 
 ***
 
-<h2 id="proposal">New Projects</h2>
-If you are interested in leading a new **ManyBabies** project (either a main project or a spin-off that would involve data collection across multiple labs), please fill out our [project Proposal Form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit) and/or contact the [**MB Governing Board**](mailto:manybabies-gb@mailman.stanford.edu).
+## Join Us!
+In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. <br>
+**All are welcome!**
+
+### Ways to get involved: 
+* <h4>Subscribe to Listservs</h4>
+  * Most of our communications are done via email. <b>Subscribe to our <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">general MB listserv</a> or <a href="{{site.baseurl}}/projects/">project-specific listservs</a></b> to receive announcements and updates.
+* <h4>Email Project Leads</h4>
+  * If you know which project you are interested in joining, you can **email one or more of the Project Leads directly** to ask how to get involved. Contact info for all Project Leads is available [**here**]({{site.baseurl}}/projects/).
+* <h4>Come to Drop-In Hours</h4>
+  * You are welcome to join us at our **monthly "Drop-in Hours"** (currently held on the first Thursday of each month) to talk with us about contribution opportunities. Times and links to join via Zoom can be found in our [**calendar**]({{site.baseurl}}/calendar/).
+* <h4>Fill Out the Sign-Up Form</h4>
+  * If you're unsure of how you'd like to contribute, please **fill out our <a href="#signupform">Sign-Up Form</a>** and we'll be in touch with you as soon as possible. 
+* <h4><a href="#proposal">Propose a Project</a></h4>
+  * **Do you have an idea for a ManyBabies project?** Let us know! You can email Project Leads (for spin-off projects) or the [Governing Board](mailto:manybabies-gb@mailman.stanford.edu) (for new projects), or **fill out our <a href="#proposal">Project Proposal Form</a>**.
 
 <br>
 
 ***
-<h2 id="MBActivity">Activity Tracking</h2>
-If you are a **ManyBabies** contributor, don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). In this [spreadsheet](https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing) you can check a more complete list of **MB** activities and initiatives. To add new activities and initiatives, please complete [this form](https://forms.gle/qaynWvpYLP1J4eYd6).
+
+<h2 id="proposal">New Projects</h2>
+If you are interested in leading a new **ManyBabies** project (either a main project or a spin-off that would involve data collection across multiple labs), please fill out our [**project Proposal Form**](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit) and/or contact the [**MB Governing Board**](mailto:manybabies-gb@mailman.stanford.edu).
 
 <br>
+
 
 ***
 
