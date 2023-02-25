@@ -57,11 +57,11 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Submitted</i><br> 
         <b>Project Lead:</b> <a href="mailto:melanie.schreiner@psych.uni-goettingen.de">Melanie Schreiner</a>
         <hr>
-        <h4><a href="{{site.baseurl}}/MB1SA/">MB1 Secondary Analyses</a></h4><br>
-        <img src="/assets/img/analysis.png" alt="analysis icon" width="20" height="20">  <b>Comparison to meta-analytic data</b>
+        <img src="/assets/img/analysis.png" alt="analysis icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1SA/">MB1 Secondary Analyses</a></b><br>
+        <h5>Comparison to meta-analytic data</h5>
         <b>Project Leads:</b> <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:fusaroli@cas.au.dk">Riccardo Fusaroli</a><br>
         <br>
-        <img src="/assets/img/analysis.png" alt="analysis icon" width="20" height="20">  <b>Analysis of supplemental demographic variables</b><br>
+        <h5>Analysis of supplemental demographic variables</h5>
         <b>Project Lead:</b> <a href="mailto:mekline@mit.edu">Melissa Kline Struhl</a>
       </div>
     </div>
