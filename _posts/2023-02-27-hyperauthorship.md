@@ -1,6 +1,6 @@
 ---
 layout: post
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/hyperauthorship.png
 tags: [MB, newsletter]
 ---
 
