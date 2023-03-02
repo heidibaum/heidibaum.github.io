@@ -19,7 +19,7 @@ If you are interested in helping to translate or adpate template forms for your 
 
 ***
 ### Status
-* Manuscript has been submitted to *Developmental Psychology*
+* Manuscript is under review at *Developmental Psychology*
 * Translating/adapting templates (contact Project Leads for more information or to help!)
 
 
