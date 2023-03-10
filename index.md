@@ -78,8 +78,8 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
         <a href="{{site.baseurl}}/MB4/"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}/MB4/">MB4: Rule Learning</a></h4>
-        <i>Do infants learn and generalize identity-based rules from speech stimuli?</i><br>
+        <h4><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h4>
+        <i>Do infants prefer agents who are seen to help over those who are seen to hinder?</i><br>
         <b>Spin-offs:</b> MB4E (link to come), MB4I (link to come)
       </div>
     </div>
