@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projects Overview
 ---
 
 The broader goals of **ManyBabies** come together through collaborative projects. They can be:

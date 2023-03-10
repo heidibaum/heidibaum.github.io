@@ -39,7 +39,7 @@ cover-img: /assets/img/MB_map.jpg
         <img src="/assets/img/networking.png" alt="project leaders" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. The <b>Project Leads</b> are listed on each <a href="{{site.baseurl}}/projects/">Project Page</a> and <a href="{{site.baseurl}}/get_involved/">here</a>.
+        Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. <b>Project Leads</b> are listed on the <b><a href="{{site.baseurl}}/projects/">Projects Overview Page</a></b>.
       </div>
     </div>
     <div class="col-sm-12">
