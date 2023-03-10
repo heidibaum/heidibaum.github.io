@@ -8,7 +8,7 @@ cover-img: /assets/img/MB_map.jpg
 
 **ManyBabies** is all about our amazing network of researchers from around the world. The [**MB Contributor Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of our contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
 
-<h3 align="center">--> <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">VIEW THE DASHBOARD</a> <--</h3>
+<h3 align="center"> >>> <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">VIEW THE DASHBOARD</a> <<< </h3>
 
 #### For Contributors:
 * **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form</b></a> below.
