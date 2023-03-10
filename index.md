@@ -55,7 +55,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
         <a href="{{site.baseurl}}/MB3/"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a> & <a href="{{site.baseurl}}/MB3N/">MB3N: Rule Learning with NIRS</a></h4>
+        <h4><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a></h4>
         <i>Do infants learn and generalize identity-based rules from speech stimuli?</i><br>
         <b>Spin-offs:</b> <a href="{{site.baseurl}}/MB3L/">MB3L</a>, <a href="{{site.baseurl}}/MB3T/">MB3T</a>
       </div>
