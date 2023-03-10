@@ -10,6 +10,9 @@ cover-img: /assets/img/MB_map.jpg
 
 <h3 align="center"> >>> <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">VIEW THE DASHBOARD</a> <<< </h3>
 
+#### To join ManyBabies:
+* **Check out ways to [get involved]({{site.baseurl}}/get_involved/)!**
+
 #### For Contributors:
 * **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form</b></a> below.
 * **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform"><b>form</b></a> below or [**email us**](mailto:contact@manybabies.org) with your updated information.
