@@ -102,7 +102,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}/MB6/">MB6: Neonatal Imitation</a></h4>
-        <i>What is the nature of neonatal infants' imitation of facial gestures?</i><br>
+        <i>What is the nature of neonatal infants' imitation of gestures?</i><br>
       </div>
     </div>
   </div>
