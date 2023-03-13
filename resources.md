@@ -154,6 +154,7 @@ title: Resources
 * [Open Science Framework (OSF)](https://osf.io/): A free, open platform to support your research and enable collaboration.
   * [OSF - Metascience Collection](https://osf.io/collections/metascience/discover)
   * [OSF - Open Psychological Datasets](https://osf.io/th8ew/)
+* [BITSS Resource Library](https://www.bitss.org/resource-library/)
 * [StudySwap](https://osf.io/meetings/StudySwap/): A platform for interlab replication, collaboration, and research resource exchange.
 
 
