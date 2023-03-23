@@ -10,5 +10,5 @@ ManyBabies members Michael Frank and Heidi Baumgartner joined Big Team Science (
 You can read the article via Nature Human Behaviour [here](https://doi.org/10.1038/s41562-023-01572-2) or read the preprint [here](https://doi.org/10.31234/osf.io/cnw32).
 <br>
 
-<a href="https://www.nature.com/articles/d41586-023-00575-3"><img src="/assets/img/BTS_authorship.png"></a>
+<a href="https://doi.org/10.1038/s41562-023-01572-2"><img src="/assets/img/BTS_authorship.png"></a>
 
