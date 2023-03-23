@@ -15,8 +15,8 @@ title: Events
 ### Michael Frank, *Stanford University*
 #### March 21, 2023 9:00-10:30 PDT (San Francisco, US; UTC -7) on Zoom
 
-### [VIEW THE WEBINAR RECORDING](https://www.youtube.com/watch?v=h1BYMDvGUng)
-#### Slides available [here](https://docs.google.com/presentation/d/1lAzPF558FNvFuTWgitYZrNKSo9SuIxvW-rn7IjTmlhs/edit?usp=sharing)
+<h3><a href="https://www.youtube.com/watch?v=h1BYMDvGUng" target="_blank">VIEW THE WEBINAR RECORDING</a></h3>
+<h4>Slides available <a href="https://docs.google.com/presentation/d/1lAzPF558FNvFuTWgitYZrNKSo9SuIxvW-rn7IjTmlhs/edit?usp=sharing" target="_blank">here</a></h4>
 
 In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) led participants through the benefits of using RMarkdown to create reproducible research reports. Follow along with the exercises to see how simple it is to integrate writing and analyses in your workflow.
 
