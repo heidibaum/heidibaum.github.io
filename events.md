@@ -5,11 +5,15 @@ title: Events
 
 #### *Upcoming*
 
+<br>
+
 > TBD (Stay tuned!)
 
 
 ***
 #### *Past*
+
+<br>
 
 ## Creating reproducible research reports Using RMarkdown
 ### Michael Frank, *Stanford University*
