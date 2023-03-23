@@ -14,7 +14,17 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4>Main Projects</h4>
-        <p>Test a question about infant development of key theoretical or methodological interest. Numbered sequentially (e.g., MB1, MB2)</p>
+        <i>Test a question about infant development of key theoretical or methodological interest. Numbered sequentially (e.g., MB1, MB2)</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/spinoff_icon.png" alt="MB2 logo" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Spin-off Projects</h4>
+        <i>Build on the methods or data from the main projects; e.g., extending the study to a different population of infants (e.g., bilinguals) or follow-up data collection (e.g., longitudinal correlation with CDIs). Identified with a letter following the main project abbreviation (e.g., MB1B, for bilinguals; MB1L, for longitudinal)</i>
       </div>
     </div>
   </div>
