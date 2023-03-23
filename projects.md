@@ -10,10 +10,10 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="75" height="75">
+        <img src="/assets/img/mainprojects.png" alt="MB1, MB2, MB3 logos" width="75" height="75">
       </div>
       <div class="col-sm-10">
-        <h4>Main Projects</h4>
+        <img src="/assets/img/mainprojects.png" alt="MB1, MB2, MB3 logos" width="75" height="75"><h4>Main Projects</h4>
         <i>Test a question about infant development of key theoretical or methodological interest. Numbered sequentially (e.g., MB1, MB2)</i>
       </div>
     </div>
@@ -34,7 +34,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4>Secondary Analyses</h4>
-        <i>Conducted on publicly-available **MB** data. In some cases, may include additional data not collected as part of **MB** (e.g., if an individual lab investigates relationships between their lab’s **MB** data and other data collected by their lab)</i>
+        <i>Conducted on publicly-available <b>MB</b> data. In some cases, may include additional data not collected as part of <b>MB</b> (e.g., if an individual lab investigates relationships between their lab’s <b>MB</b> data and other data collected by their lab)</i>
       </div>
     </div>
   </div>
