@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About MB
 ---
 
 ## What is ManyBabies?

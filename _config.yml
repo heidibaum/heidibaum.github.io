@@ -22,11 +22,10 @@ author: Heidi Baumgartner
 navbar-links:
   About: 
     - Home: "index"
-    - What is MB?: "about"
+    - About MB: "about"
     - People: "people"
     - Events: "events"
     - News & Updates: "news"
-    - Code of Conduct: "codeofconduct"
   Projects: 
     - Projects Overview: "projects"
     - MB1: "MB1"
@@ -46,6 +45,7 @@ navbar-links:
     - Publications: "publications"
     - Contributor Dashboard: "https://manybabies.shinyapps.io/shiny_mb_map/"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
+    - Code of Conduct: "codeofconduct"
   Get Involved: "get_involved"
 
 ################
