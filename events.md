@@ -5,10 +5,10 @@ title: Events
 
 #### *Upcoming*
 
-<br>
 
 > TBD (Stay tuned!)
 
+<br>
 
 ***
 #### *Past*
