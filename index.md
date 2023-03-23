@@ -11,7 +11,8 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 * **[About ManyBabies]({{site.baseurl}}/about/)** *(Principles, Roles & Responsibilities, etc.)*
 * **[People]({{site.baseurl}}/people/)** & **[Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)**
 * **[Resources]({{site.baseurl}}/resources/)** *(calendar, publications, data validator, OSF, github, etc.)*
-* **[News and Events]({{site.baseurl}}/news/)**
+* **[Events]({{site.baseurl}}/events/)** *(workshops, webinars, etc.)*
+* **[News and Updates]({{site.baseurl}}/news/)** *(newletters, publication news, etc.)*
 <br>
 <br>
 
