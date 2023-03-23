@@ -9,7 +9,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
   <div class="container">
     <div class="row">
       <div class="col-sm-10">
-        <img src="/assets/img/mainprojects.png" alt="MB1, MB2, MB3 logos" width="100" height="100"><b>Main Projects</b>
+        <img src="/assets/img/mainprojects.png" alt="MB1, MB2, MB3 logos" width="100" height="100"><b>Main Projects</b><br>
         <i>Test a question about infant development of key theoretical or methodological interest. Numbered sequentially (e.g., MB1, MB2)</i>
         <br>
       </div>
