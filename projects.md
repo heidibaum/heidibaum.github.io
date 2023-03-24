@@ -135,7 +135,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
                 <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b>
+        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b><br>
         <b>Status:</b> <i>Planning</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
