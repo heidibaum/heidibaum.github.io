@@ -21,7 +21,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <img src="/assets/img/spinoff_icon.png" alt="spin-off pinwheel icon" width="75" height="75">
+        <img src="/assets/img/spinoff_icon.png" alt="spin-off pinwheel icon" width="100" height="100">
       </div>
       <div class="col-sm-10">
         <h4>Spin-off Projects</h4>
@@ -31,7 +31,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <img src="/assets/img/analysis.png" alt="analysis" width="75" height="75">
+        <img src="/assets/img/analysis.png" alt="analysis" width="100" height="100">
       </div>
       <div class="col-sm-10">
         <h4>Secondary Analyses</h4>
