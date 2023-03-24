@@ -230,7 +230,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics: Unified Demographics for MB Projects</a></h4>
-        <b>Status:</b> <i>Manuscript submitted</i><br>
+        <b>Status:</b> <i>Manuscript under revision</i><br>
         <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a><br>
         <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"><i>Subscribe</i></a>
       </div>
