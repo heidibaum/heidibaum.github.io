@@ -41,6 +41,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
   </div>
 </section>
 
+<br>
 
 ***
 <!-- LIST OF PROJECTS WITH PROJECT LEAD CONTACT INFO, LISTSERV SUBSCRIPTION LINKS, ETC. (was previously on "Get Involved" page-->
