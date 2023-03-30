@@ -258,6 +258,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
   </div>
 </section>
 
+<br>
 
 ***
 
