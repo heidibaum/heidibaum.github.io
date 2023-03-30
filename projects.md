@@ -211,6 +211,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB6 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb6-general</b> channel</i><br>
       </div>
     </div>
+    <br>
     <div class="row">
       <h3>Methodological projects</h3>
     </div>
