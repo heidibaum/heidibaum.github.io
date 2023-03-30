@@ -13,7 +13,7 @@ title: Publications & Manuscripts
     <div class="row" align="center">
       <div class="col-sm-1" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
+        <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11" align="left">
         <p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2022, December 22). 
@@ -23,42 +23,42 @@ title: Publications & Manuscripts
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/MB5_logo.png" alt="ManyBabies5 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Kosie, J. E.*, Zettersten, M.*, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., Dal Ben, R., Dautriche, I., DeBolt, M., Exner, A., Fisher-Thompson, D., Frank, M. C., Gönül, G., Gonzalez-Gomez, N., Grosse Wiesmann, C., Hamlin, J. K., Havron, N., Hochmann, J. R., Hoehl, S., Houston-Price, C., Kachergis, G., Kaldy, Z., Kingo, O. S., Ko, E. S., Kong, S. P., Krøjgaard, P., Liu, S., Lu, H. S., Maganti, M., Mather, E., Mayor, J., McMillan, B. T. M., Molnar, M. T., Moreau, D., Moriguchi, Y., Moulson, M. C., Mueller, J. L., Oakes, L. M., Peperkamp, S., Peykarjou, S., Pires, M. T., Raz, G., Requena, P. E., Rocha-Hidalgo, J., Saffran, J. R., Schaetz, C., Schuwerk, T., Shinskey, J. L., Simpson, E. A., Singh, L., Smolak, E., Soderstrom, M., Sonne, T., Ssemata, A. S., Visser, I., Von Holzen, K., Waxman, S. R., Westermann, G., White, K. S., Woodruff Carr, K. L., Zahner-Ritter, K., Zeidler, H., Zimmer, L., Zupan, Z., & Lew-Williams, C. (2023, January 10). 
         <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. <i>(*co-first authors)</i> 
         PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">doi:10.31234/osf.io/ck3vd</a> 
-        <a href="{{site.baseurl}}/MB5/">[MB5]</a></p> 
+        <a href="{{site.baseurl}}/MB5/"></b>[MB5]</b></a></p> 
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/MB-demographics/"><img src="/assets/img/MBDemo_logo.png" alt="ManyBabies Demographics logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., Reinelt, T., Schuwerk, T., Soderstrom, M., Tsui, A. S. M., & Frank, M. C. (2022, December 22). 
         <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. 
         PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">doi:10.31234/osf.io/agt3d</a> 
-        <a href="{{site.baseurl}}/MB-demographics/">[MB-Demographics]</a></p> 
+        <a href="{{site.baseurl}}/MB-demographics/"><b>[MB-Demographics]</b></a></p> 
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/MBMW_logo.png" alt="ManyBabies-ManyWebcams logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Steffan, A.*, Zimmer, L.*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, January 23). 
         <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
         PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">doi:10.31234/osf.io/7924h</a> 
-        <a href="{{site.baseurl}}/MB-ManyWebcams/">[MB-ManyWebcams]</a></p> 
+        <a href="{{site.baseurl}}/MB-ManyWebcams/"><b>[MB-ManyWebcams]</b></a></p> 
       </div>
     </div>
   </div>
@@ -71,17 +71,16 @@ title: Publications & Manuscripts
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
-        <h5>MB1A</h5>
+        <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., & Frank, M. C. (Stage 1 RR In Principle Acceptance). 
         <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. 
         <i>Developmental Science</i>. 
         <a href="https://osf.io/fqp4b" target="_blank">[OSF Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1A/">[MB1A]</a></p>  
+        <a href="{{site.baseurl}}/MB1A/"><b>[MB1A]</b></a></p>  
       </div>
     </div>
     <div class="row">
