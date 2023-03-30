@@ -16,7 +16,7 @@ title: Get Involved!
       </div>
       <div class="col-sm-10">
         <br>
-        <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
+        <b>Contact info:</b> <a href="mailto:govboard@manybabies.org">Governing Board</a>, 
           <a href="mailto:contact@manybabies.org">Executive Director</a> <i><br>
           (more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
