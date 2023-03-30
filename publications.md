@@ -14,13 +14,12 @@ title: Publications & Manuscripts
       <div class="col-sm-1" align="center">
         <br>
         <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
-        <b>MB1T</b>
       </div>
       <div class="col-sm-11" align="left">
         <p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2022, December 22). 
         <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">doi:10.31234/osf.io/uwche</a> 
-        <a href="{{site.baseurl}}/MB1T/">[MB1T]</a></p>
+        <a href="{{site.baseurl}}/MB1T/"><b>[MB1T]</b></a></p>
       </div>
     </div>
     <div class="row">
