@@ -251,7 +251,7 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB1/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px">Kline, M. (2018, June 8). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Kline, M.</i> (2018, June 8). 
         <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. 
         <a href="https://osf.io/puxbg/" target="_blank">[OSF Preregistration]</a> 
         <a href="{{site.baseurl}}/MB1SA/"><b>[MB1SA]</b></a></p> 
