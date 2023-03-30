@@ -182,54 +182,53 @@ title: Publications & Manuscripts
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). 
         <b>Building a collaborative Psychological Science: Lessons from ManyBabies 1</b>. 
         <i>Canadian Psychology</i>. 
         <a href="https://doi.org/10.1037/cap0000216" target="_blank">doi:10.1037/cap0000216</a> 
         <a href="https://doi.org/10.31234/osf.io/dmhk2" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1/">[MB1]</a></p>  
+        <a href="{{site.baseurl}}/MB1/"><b>[MB1]</b></a></p>  
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB1G/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a><br>
-        <h5>MB1G</h5>
+        <a href="{{site.baseurl}}/MB1G/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., Brown, A., Colomer, M., Durrant, S., Gampe, A., Gonzalez-Gomez, N., Hay, J. F., Hernik, M., Jartó, M., Kovács, A. M., Laoun-Rubenstein, A., Lew-Williams, C., Liszkowski, U., Liu, L., Noble, C., Potter, C. E., Rocha-Hidalgo, J., Sebastian-Galles, N., Soderstrom, M., Visser, I., Waddell, C., Wermelinger, S., & Singh, L. (2020). 
         <b>The development of gaze following in monolingual and bilingual infants: A multi-lab study</b>. 
         <i>Infancy</i>. 
         <a href="https://doi.org/10.1111/infa.12360" target="_blank">doi:10.1111/infa.12360</a> 
         <a href="https://doi.org/10.31234/osf.io/sgfhv" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1G/">[MB1G]</a></p>   
+        <a href="{{site.baseurl}}/MB1G/"><b>[MB1G]</b></a></p>   
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/MB1/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium (2020). 
         <b>Quantifying sources of variability in infancy research using the infant-directed speech preference</b>. 
         <i>Advances in Methods and Practices in Psychological Science</i>. 
         <a href="https://doi.org/10.1177/2515245919900809" target="_blank">doi:10.1177/2515245919900809</a> 
         <a href="https://doi.org/10.31234/osf.io/s98ab" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1/">[MB1]</a></p>   
+        <a href="{{site.baseurl}}/MB1/"><b>[MB1]</b></a></p>   
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D. (2017). 
         <b>A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building</b>. 
         <i>Infancy</i>. 
@@ -246,15 +245,15 @@ title: Publications & Manuscripts
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/MB1/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Kline, M. (2018, June 8). 
         <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. 
         <a href="https://osf.io/puxbg/" target="_blank">[OSF Preregistration]</a> 
-        <a href="{{site.baseurl}}/MB1SA/">[MB1SA]</a></p> 
+        <a href="{{site.baseurl}}/MB1SA/"><b>[MB1SA]</b></a></p> 
       </div>
     </div>
   </div>
