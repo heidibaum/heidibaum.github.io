@@ -36,7 +36,7 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 
 ### Ways to get involved: 
 * <h4>Subscribe to Listservs</h4>
-  * Most of our communications are done via email. <b>Subscribe to our <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">general MB listserv</a> or <a href="{{site.baseurl}}/projects/">project-specific listservs</a></b> to receive announcements and updates.
+  * Most of our communications are done via email. <b>Subscribe to our <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">general MB listserv</a> and/or <a href="{{site.baseurl}}/projects/">project-specific listservs</a></b> to receive announcements and updates.
 * <h4>Email Project Leads</h4>
   * If you know which project you are interested in joining, you can **email one or more of the Project Leads directly** to ask how to get involved. Contact info for all Project Leads is available [**here**]({{site.baseurl}}/projects/).
 * <h4>Come to Drop-In Hours</h4>
@@ -44,7 +44,7 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 * <h4>Fill Out the Sign-Up Form</h4>
   * If you're unsure of how you'd like to contribute, please **fill out our <a href="#signupform">Sign-Up Form</a>** and we'll be in touch with you as soon as possible. 
 * <h4>Propose a Project</h4>
-  * **Do you have an idea for a ManyBabies project?** Let us know! You can email Project Leads (for spin-off projects) or the [Governing Board](mailto:manybabies-gb@mailman.stanford.edu) (for new projects), or **fill out our <a href="#proposal">Project Proposal Form</a>**.
+  * **Do you have an idea for a ManyBabies project?** Let us know! You can email Project Leads (for spin-off projects) or the [Governing Board](mailto:govboard@manybabies.org) (for new projects), or **fill out our <a href="#proposal">Project Proposal Form</a>**.
 
 <br>
 
