@@ -84,55 +84,54 @@ title: Publications & Manuscripts
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB1L/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
-        <h5>MB1L</h5>
+        <a href="{{site.baseurl}}/MB1L/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Soderstrom, M., Werker, J. F., Tsui, A. S. M., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., & Anderson, L. (Stage 1 RR In Principle Acceptance). 
         <b>Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study</b>. <i>Journal of Child Language</i>. 
         <a href="https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing" target="_blank">[Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1L/">[MB1L]</a></p>  
+        <a href="{{site.baseurl}}/MB1L/"><b>[MB1L]</b></a></p>  
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/MB2/" class="image"><img src="/assets/img/MB2_logo.png" alt="ManyBabies2 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Schuwerk, T.*, Kampis, D.*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., Kovács, A. M., Krämer, A., Kulke, L., Lee, C., Lew-Williams, C., Liszkowski, U., Mahowald, K., Mascaro, O., Meyer, M., Moreau, D., PernerJ., Poulin-Dubois, D., Powell, L., Prein, J. C., Priewasser, B., Proft, M., Raz, G., Reschke, P. J., Ross, J., Rothmaler, K., Saxe, R., Schneider, D., Southgate, V., Surian, L., Tebbe, A., Träuble, B., Tsui, A. S. M., Wertz, A., Woodward, A., Yuen, F., Yuile, A. R., Zellner, L., Zimmer, L., Frank, M. C., & Rakoczy, H. (Stage 1 RR In Principle Acceptance). 
         <b>Action anticipation based on an agent's epistemic state in toddlers and adults</b>. 
         <i>Child Development</i>. <i>(*co-first authors)</i> PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">doi:10.31234/osf.io/x4jbm</a> 
-        <a href="{{site.baseurl}}/MB2/">[MB2]</a></p>
+        <a href="{{site.baseurl}}/MB2/"><b>[MB2]</b></a></p>
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/MB3_logo.png" alt="ManyBabies3 logo"></a><br>
+        <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/MB3_logo.png" alt="ManyBabies3 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). 
         <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. 
         <i>Developmental Science</i>. PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">doi:10.31234/osf.io/aex7v</a> 
-        <a href="{{site.baseurl}}/MB3/">[MB3]</a></p>  
+        <a href="{{site.baseurl}}/MB3/"><b>[MB3]</b></a></p>  
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB4/" class="image"><img src="/assets/img/MB4_logo.png" alt="ManyBabies4 logo"></a><br>
+        <a href="{{site.baseurl}}/MB4/" class="image"><img src="/assets/img/MB4_logo.png" alt="ManyBabies4 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Lucca,  K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). 
         <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. 
         <i>Developmental Science</i>. PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">doi:10.31234/osf.io/qhxkm</a> 
-        <a href="{{site.baseurl}}/MB4/">[MB4]</a></p>  
+        <a href="{{site.baseurl}}/MB4/"><b>[MB4]</b></a></p>  
       </div>
     </div>
   </div>
@@ -144,11 +143,11 @@ title: Publications & Manuscripts
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., Simpson, E. A., Singh, L., Soderstrom, M., Sullivan, J., van den Heuvel, M. I., Westermann, G., Yamada, Y., Zaadnoordijk, L., & Zettersten, M. (2022). 
         <b>Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)</b>. 
         <i>Behavioral and Brain Sciences</i>. 
@@ -157,30 +156,29 @@ title: Publications & Manuscripts
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
         <a href="{{site.baseurl}}/MB-AtHome/" class="image"><img src="/assets/img/MBAH_logo.png" alt="MB-AtHome logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). 
         <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. 
         <i>Frontiers in Psychology</i>. 
         <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">doi:10.3389/fpsyg.2021.703234</a> 
-        <a href="{{site.baseurl}}/MB1B/">[MB-AtHome]</a></p>   
+        <a href="{{site.baseurl}}/MB1B/"><b>[MB-AtHome]</b></a></p>   
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-2" align=center>
+      <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB1B/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a><br>
-        <h5>MB1B</h5>
+        <a href="{{site.baseurl}}/MB1B/" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal,  M. J., Durrant, S., Fennell, C. T., Fiévet, A.,  Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., Kosie, J. E., Kovács, A. M., Lew-Williams, C., Liu, L., Mani, N., Marino, C., Mastroberardino, M., Mateu, V., Noble, C., Orena, A. J., Polka, L., Potter, C. E., Schreiner, M. S., Singh, L., Soderstrom, M., Sundara, M., Waddell, C., Werker, J. F., & Wermelinger, S. (2021). 
         <b>A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech</b>. 
         <i>Advances in Methods and Practices in Psychological Science</i>. 
         <a href="https://doi.org/10.1177/2515245920974622" target="_blank">doi:10.1177/2515245920974622</a> 
-        <a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">[PsyArXiv Preprint]</a> <a href="{{site.baseurl}}/MB1B/">[MB1B]</a></p>  
+        <a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">[PsyArXiv Preprint]</a> <a href="{{site.baseurl}}/MB1B/"><b>[MB1B]</b></a></p>  
       </div>
     </div>
     <div class="row">
