@@ -14,7 +14,7 @@ title: Publications & Manuscripts
       <div class="col-sm-1" align="center">
         <br>
         <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
-        <h4>MB1T</h4>
+        <b>MB1T</b>
       </div>
       <div class="col-sm-11" align="left">
         <p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2022, December 22). 
