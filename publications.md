@@ -3,7 +3,7 @@ layout: page
 title: Publications & Manuscripts
 ---
 
-> View our [Google Scholar profile](https://scholar.google.com/citations?user=JOfosbYAAAAJ&hl=en)
+> View our [Google Scholar profile](https://scholar.google.com/citations?user=JOfosbYAAAAJ&hl=en)<br>
 > Note: italics indicate corresponding author(s)
 
 ***
