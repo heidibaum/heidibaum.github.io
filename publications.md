@@ -32,7 +32,7 @@ title: Publications & Manuscripts
         <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. <i>(*co-first authors)</i> 
         PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">doi:10.31234/osf.io/ck3vd</a> 
-        <a href="{{site.baseurl}}/MB5/"></b>[MB5]</b></a></p> 
+        <a href="{{site.baseurl}}/MB5/"><b>[MB5]</b></a></p> 
       </div>
     </div>
     <div class="row">
