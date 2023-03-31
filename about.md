@@ -31,7 +31,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
       </div>
       <div class="col-sm-10">
         <h4>Transparency</h4>
-        <i>All decisions in a **MB** project, from design to publication, are as transparent as possible</i>
+        <i>All decisions in a <b>MB</b> project, from design to publication, are as transparent as possible</i>
         <br>
       </div>
     </div>
@@ -52,7 +52,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
       </div>
       <div class="col-sm-10">
         <h4>Inclusivity & Diversity</h4>
-        <i>**MB** explicitly encourages efforts to increase inclusivity and diversity, in regards to both our contributors and the populations we study</i>
+        <i><b>MB</b> explicitly encourages efforts to increase inclusivity and diversity, in regards to both our contributors and the populations we study</i>
       </div>
     </div>
     <div class="row">
@@ -62,7 +62,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
       </div>
       <div class="col-sm-10">
         <h4>Ethical Research</h4>
-        <i>**MB** projects are committed to best practices and high ethical standards</i>
+        <i><b>MB</b> projects are committed to best practices and high ethical standards</i>
       </div>
     </div>
     <div class="row">
@@ -80,11 +80,6 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
 
 <br>
 
-* <b><i>Transparency</i></b>: All decisions in a **MB** project, from design to publication, are as transparent as possible
-* <b><i>Collective governance</i></b>: When possible and feasible, decisions are made jointly and transparently
-* <b><i>Inclusivity and diversity</i></b>: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops
-* <b><i>Ethical research</i></b>: **MB** projects are committed to best practices and high ethical standards
-* <b><i>Respect</i></b>: Everyone agrees to a general code of conduct which ensures respectful interactions
 
 ***
 ## Aims
