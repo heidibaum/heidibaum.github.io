@@ -54,7 +54,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
       </div>
       <div class="col-sm-10">
         <h4>Inclusivity & Diversity</h4>
-        <i>MB explicitly encourages efforts to increase inclusivity and diversity, in regards to both our contributors and the populations we study</i>
+        <i>MB explicitly encourages efforts to increase inclusivity and diversity in regards our contributors, populations we study, and research questions</i>
       </div>
     </div>
     <div class="row">
@@ -89,7 +89,6 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 * <b><i>Validity</i></b>: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies
 * <b><i>Theory</i></b>: Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)
 * <b><i>Methods</i></b>: Quantify sources of variability across labs and establish best practices
-* <b><i>Diversity</i></b>: Increase diversity of participants, researchers, & research questions
 
 > Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
 
@@ -105,7 +104,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 * <b><i>Project Contributors</i></b>: Create stimuli, protocols, analysis code, and any other relevant tasks
 * <b><i>Committee Members</i></b>: Help develop policies, initiatives, etc.
 
-> Learn how to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or [update your information]({{site.baseurl}}/people/#dashboardform"/).
+> Learn how to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or [update your information]({{site.baseurl}}/people.md#dashboardform/).
 
 <br>
 
