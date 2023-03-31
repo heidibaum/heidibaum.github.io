@@ -175,4 +175,4 @@ title: Resources
 
 
 ***
->icons created by amonrat rungreangfangsai, Freepik, DinoSoft Labs - <a href="https://www.flaticon.com title="Flaticon icons">Flaticon</a>
+>icons created by amonrat rungreangfangsai, Freepik, DinoSoft Labs - <a href="https://www.flaticon.com" title="Flaticon icons">Flaticon</a>
