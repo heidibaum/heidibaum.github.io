@@ -129,13 +129,13 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 ## Roles
 ### ManyBabies contributors come from 40+ nations on 6 continents (View the <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">MB Contributor Dashboard</a>) 
 ### Contributors can serve as:
-* <b><i>Governing Board Members</i></b>: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [**here**]({{site.baseurl}}/people/))
-* <b><i>Project Leads</i></b>: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/codeofconduct/) (see current Project Leads [**here**]({{site.baseurl}}/projects/))
-* <b><i>Project Contributors</i></b>: Create stimuli, protocols, analysis code, and any other relevant tasks
-* <b><i>Data Contributors</i></b>: Collect data following an experimental protocol 
-* <b><i>Committee Members</i></b>: Help develop policies, initiatives, etc.
+* <b>Governing Board Members:</b> <i>Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [**here**]({{site.baseurl}}/people/))</i>
+* <b>Project Leads:</b> <i>Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/codeofconduct/) (see current Project Leads [**here**]({{site.baseurl}}/projects/))</i>
+* <b>Project Contributors:</b> <i>Create stimuli, protocols, analysis code, and any other relevant tasks</i>
+* <b>Data Contributors:</b> <i>Collect data following an experimental protocol</i>
+* <b>Committee Members:</b> <i>Help develop policies, initiatives, etc.</i>
 
-> Learn how to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or [update your information]({{site.baseurl}}/people/#dashboardform).
+> Learn how to join or update info on the [MB Contributor Dashboard]({{site.baseurl}}/people/).
 
 <br>
 
@@ -151,6 +151,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 
 ***
 ## Awards
+<br>
 * The [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org) has recognized the contribution of **ManyBabies 1** towards improving research practices and honored the project with a Mission Award at their 2019 annual conference in Rotterdam, The Netherlands.
 * The [Einstein Foundatation](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded [MB5]({{site.baseurl}}/MB5/) Project Leads Jessica Kosie and Martin Zettersten with the [2021 Early Career Award](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
 
