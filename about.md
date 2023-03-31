@@ -152,7 +152,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 ***
 ## Awards
 
-* The [**Society for the Improvement of Psychological Science (SIPS)***](https://improvingpsych.org) has recognized the contribution of MB1 towards improving research practices and honored the project with a **Mission Award** at their 2019 annual conference in Rotterdam, The Netherlands.
+* The [***Society for the Improvement of Psychological Science (SIPS)***](https://improvingpsych.org) has recognized the contribution of MB1 towards improving research practices and honored the project with a [**Mission Award**](https://improvingpsych.org/mission/awards/) at their 2019 annual conference in Rotterdam, The Netherlands.
 * The [***Einstein Foundatation***](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded MB5 Project Leads Jessica Kosie and Martin Zettersten with the [**2021 Early Career Award**](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
 
 <br>
