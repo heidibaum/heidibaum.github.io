@@ -107,6 +107,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 
 > Learn how to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or [update your information]({{site.baseurl}}/people/#dashboardform"/).
 
+<br>
 
 ***
 
