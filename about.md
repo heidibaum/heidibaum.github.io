@@ -85,7 +85,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 
 ***
 ## Aims
-### ManyBabies projects aim to test hypotheses about:
+### ManyBabies [projects]({{site.baseurl}}/projects/) aim to test hypotheses about:
 
 <section>
   <div class="container">
@@ -122,9 +122,6 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
     </div>
   </div>
 </section>
-<br>
-
-> Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
 
 <br>
 
