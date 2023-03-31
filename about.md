@@ -5,7 +5,7 @@ title: About MB
 
 ## What is ManyBabies?
 
-The **ManyBabies** consortium was born in 2015 committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. You can read a blog post about the origins of MB [here](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html).<br>
+The **ManyBabies** consortium was born in 2015 committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. You can read the blog post that led to the formation of **ManyBabies** [here](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html).<br>
 
 **MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach. <br>
 
@@ -13,22 +13,81 @@ We strive for an environment of trust and equality that can engage researchers f
 
 
 ***
-
 ## Code of Conduct
 All **MB** contributors are expected to abide by our [**Code of Conduct**]({{site.baseurl}}/code_conduct/). Please read the Code of Conduct for a full description of our pledge, standards, responsibilities, and scope.
 
-***
 
-## Definitions and Roles
+***
+## Guiding Principles
 
 ### **ManyBabies** activities are guided by the principles of:
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/transparency_freepik.png" alt="transparency icon (magnifying glass)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Transparency</h4>
+        <i>All decisions in a **MB** project, from design to publication, are as transparent as possible</i>
+        <br>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/collaboration_freepik.png" alt="collaboration icon (three people with a lightbulb above their heads)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Collective Governance</h4>
+        <i>When possible and feasible, decisions are made jointly and transparently</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/diversity_freepik.png" alt="diversity icon (six people with varying skintones arranged in a circle)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Inclusivity & Diversity</h4>
+        <i>**MB** explicitly encourages efforts to increase inclusivity and diversity, in regards to both our contributors and the populations we study</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Ethical Research</h4>
+        <i>**MB** projects are committed to best practices and high ethical standards</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/respect_dinosoft.png" alt="respect icon (two grapsed hands)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Respect</h4>
+        <i>Everyone agrees to a general code of conduct which ensures respectful interactions</i>
+      </div>
+    </div>
+  </div>
+</section>
+
+<br>
+
 * <b><i>Transparency</i></b>: All decisions in a **MB** project, from design to publication, are as transparent as possible
 * <b><i>Collective governance</i></b>: When possible and feasible, decisions are made jointly and transparently
 * <b><i>Inclusivity and diversity</i></b>: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops
 * <b><i>Ethical research</i></b>: **MB** projects are committed to best practices and high ethical standards
 * <b><i>Respect</i></b>: Everyone agrees to a general code of conduct which ensures respectful interactions
 
-
+***
+## Aims
 ### **ManyBabies** projects aim to test hypotheses about:
 * <b><i>Validity</i></b>: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies
 * <b><i>Theory</i></b>: Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)
@@ -37,7 +96,8 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
 
 > Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
 
-
+***
+## Roles
 ### **ManyBabies** contributors come from 40+ nations on 6 continents [(View the Contributor Dashboard)](https://manybabies.shinyapps.io/shiny_mb_map/). Contributors can serve as:
 * <b><i>Governing Board Members</i></b>: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [**here**]({{site.baseurl}}/people/))
 * <b><i>Project Leads</i></b>: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/code_conduct/) (see current Project Leads [**here**]({{site.baseurl}}/get_involved/))
