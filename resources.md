@@ -10,6 +10,7 @@ title: Resources
   <div class="container">
     <div class="row" align="center">
       <div class="col-sm-12">
+        <p> </p>
       </div>
     </div>
     <div class="row" align="center">
