@@ -143,24 +143,24 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 
 ## Funding
 **ManyBabies** gratefully acknowledges funding from:
-* The [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/), through a [Partnership Development Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx). You can find our application materials [here](https://osf.io/xavnd/).
-* The [Association for Psychological Science](https://www.psychologicalscience.org), through a grant from the [Laura and John Arnold Foundation](http://www.laaf.org/ljaf).
-* A grant from the [Jacobs Foundation](https://jacobsfoundation.org).
+* The [***Social Sciences and Humanities Research Council of Canada***](https://www.sshrc-crsh.gc.ca/), through a [Partnership Development Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx). You can find our application materials [here](https://osf.io/xavnd/).
+* The [***Association for Psychological Science***](https://www.psychologicalscience.org), through a grant from the [Laura and John Arnold Foundation](http://www.laaf.org/ljaf).
+* A grant from the [***Jacobs Foundation***](https://jacobsfoundation.org).
 
 <br>
 
 ***
 ## Awards
 
-* The [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org) has recognized the contribution of **ManyBabies 1** towards improving research practices and honored the project with a Mission Award at their 2019 annual conference in Rotterdam, The Netherlands.
-* The [Einstein Foundatation](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded [MB5]({{site.baseurl}}/MB5/) Project Leads Jessica Kosie and Martin Zettersten with the [2021 Early Career Award](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
+* The [**Society for the Improvement of Psychological Science (SIPS)***](https://improvingpsych.org) has recognized the contribution of MB1 towards improving research practices and honored the project with a **Mission Award** at their 2019 annual conference in Rotterdam, The Netherlands.
+* The [***Einstein Foundatation***](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded MB5 Project Leads Jessica Kosie and Martin Zettersten with the [**2021 Early Career Award**](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
 
 <br>
 
 ***
 
 ## Get involved
-We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite for contributing to an **MB** project.
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite for contributing to an MB project.
 
 All collaborators are encouraged to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or update your information.
  
