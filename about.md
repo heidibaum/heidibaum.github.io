@@ -123,8 +123,6 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
   </div>
 </section>
 
-<br>
-
 > Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
 
 <br>
