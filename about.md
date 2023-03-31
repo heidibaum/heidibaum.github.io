@@ -113,7 +113,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <img src="/assets/img/tool-box_freepik.png" alt="toolbox icon (toolbox with hammer and screwdrivers)" width="75" height="75">
+        <img src="/assets/img/tool-box_freepik.png" alt="toolbox icon (toolbox with hammer and screwdrivers)" width="70" height="70">
       </div>
       <div class="col-sm-10">
         <h4>Methods</h4>
