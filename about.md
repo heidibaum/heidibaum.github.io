@@ -86,9 +86,44 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 ***
 ## Aims
 ### ManyBabies projects aim to test hypotheses about:
-* <b><i>Validity</i></b>: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies
-* <b><i>Theory</i></b>: Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)
-* <b><i>Methods</i></b>: Quantify sources of variability across labs and establish best practices
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/target_EdiPrast.png" alt="validity icon (target with arrow hitting bullseye)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Validity</h4>
+        <i>Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies</i>
+        <br>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/theory_uniconlabs.png" alt="theory icon (multicolor theory icon)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Theory</h4>
+        <i>Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/tool-box_freepik.png" alt="toolbox icon (toolbox with hammer and screwdrivers)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Methods</h4>
+        <i>Quantify sources of variability across labs and establish best practices</i>
+      </div>
+    </div>
+  </div>
+</section>
+
+<br>
 
 > Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
 
@@ -96,12 +131,12 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 
 ***
 ## Roles
-### ManyBabies contributors come from 40+ nations on 6 continents (View the <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">Contributor Dashboard</a>) 
+### ManyBabies contributors come from 40+ nations on 6 continents (View the <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">MB Contributor Dashboard</a>) 
 ### Contributors can serve as:
 * <b><i>Governing Board Members</i></b>: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [**here**]({{site.baseurl}}/people/))
 * <b><i>Project Leads</i></b>: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/codeofconduct/) (see current Project Leads [**here**]({{site.baseurl}}/projects/))
-* <b><i>Data Contributors</i></b>: Collect data following an experimental protocol 
 * <b><i>Project Contributors</i></b>: Create stimuli, protocols, analysis code, and any other relevant tasks
+* <b><i>Data Contributors</i></b>: Collect data following an experimental protocol 
 * <b><i>Committee Members</i></b>: Help develop policies, initiatives, etc.
 
 > Learn how to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or [update your information]({{site.baseurl}}/people/#dashboardform).
