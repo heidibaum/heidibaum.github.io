@@ -5,17 +5,19 @@ title: About MB
 
 ## What is ManyBabies?
 
-The **ManyBabies** consortium was born in 2015 committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. You can read the blog post that led to the formation of **ManyBabies** [here](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html).<br>
+The **ManyBabies** consortium was born in 2015 committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. You can read the blog post that led to the formation of ManyBabies [**here**](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html).<br>
 
-**MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach. <br>
+MB's collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach. <br>
 
-We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [*Frank et al. (2017)*](https://psyarxiv.com/27b43/) and [*Byers-Heinlein et al. (2020)*](https://psyarxiv.com/dmhk2/).
+We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about MB's vision for the role of large-scale collaborations, see [*Frank et al. (2017)*](https://psyarxiv.com/27b43/) and [*Byers-Heinlein et al. (2020)*](https://psyarxiv.com/dmhk2/).
 
+<br>
 
 ***
 ## Code of Conduct
-All **MB** contributors are expected to abide by our [**Code of Conduct**]({{site.baseurl}}/code_conduct/). Please read the Code of Conduct for a full description of our pledge, standards, responsibilities, and scope.
+All MB contributors are expected to abide by our [**Code of Conduct**]({{site.baseurl}}/codeofconduct/). Please read the Code of Conduct for a full description of our pledge, standards, responsibilities, and scope.
 
+<br>
 
 ***
 ## Guiding Principles
@@ -31,7 +33,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
       </div>
       <div class="col-sm-10">
         <h4>Transparency</h4>
-        <i>All decisions in a <b>MB</b> project, from design to publication, are as transparent as possible</i>
+        <i>All decisions in a MB project, from design to publication, are as transparent as possible</i>
         <br>
       </div>
     </div>
@@ -52,7 +54,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
       </div>
       <div class="col-sm-10">
         <h4>Inclusivity & Diversity</h4>
-        <i><b>MB</b> explicitly encourages efforts to increase inclusivity and diversity, in regards to both our contributors and the populations we study</i>
+        <i>MB explicitly encourages efforts to increase inclusivity and diversity, in regards to both our contributors and the populations we study</i>
       </div>
     </div>
     <div class="row">
@@ -62,7 +64,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
       </div>
       <div class="col-sm-10">
         <h4>Ethical Research</h4>
-        <i><b>MB</b> projects are committed to best practices and high ethical standards</i>
+        <i>MB projects are committed to best practices and high ethical standards</i>
       </div>
     </div>
     <div class="row">
@@ -72,7 +74,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
       </div>
       <div class="col-sm-10">
         <h4>Respect</h4>
-        <i>Everyone agrees to a general code of conduct which ensures respectful interactions</i>
+        <i>MB contributors agree to a general <a href="{{site.baseurl}}/codeofconduct/">Code of Conduct</a> which ensures respectful interactions</i>
       </div>
     </div>
   </div>
@@ -83,7 +85,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
 
 ***
 ## Aims
-### **ManyBabies** projects aim to test hypotheses about:
+### ManyBabies projects aim to test hypotheses about:
 * <b><i>Validity</i></b>: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies
 * <b><i>Theory</i></b>: Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)
 * <b><i>Methods</i></b>: Quantify sources of variability across labs and establish best practices
@@ -93,7 +95,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
 
 ***
 ## Roles
-### **ManyBabies** contributors come from 40+ nations on 6 continents [(View the Contributor Dashboard)](https://manybabies.shinyapps.io/shiny_mb_map/). Contributors can serve as:
+### ManyBabies contributors come from 40+ nations on 6 continents [(View the Contributor Dashboard)](https://manybabies.shinyapps.io/shiny_mb_map/). Contributors can serve as:
 * <b><i>Governing Board Members</i></b>: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [**here**]({{site.baseurl}}/people/))
 * <b><i>Project Leads</i></b>: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/code_conduct/) (see current Project Leads [**here**]({{site.baseurl}}/get_involved/))
 * <b><i>Data Contributors</i></b>: Collect data following an experimental protocol 
