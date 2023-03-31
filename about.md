@@ -135,4 +135,4 @@ All collaborators are encouraged to join the [MB Contributor Dashboard]({{site.b
  
 <br>
 <br>
-><a href="https://www.flaticon.com/free-icons/transparency" title="icons">Icons created by Freepik - Flaticon</a> 
+><a href="https://www.flaticon.com/free-icons/transparency" title="icons">Icons created by Freepik & DinoSoft - Flaticon</a> 
