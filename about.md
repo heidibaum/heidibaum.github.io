@@ -92,7 +92,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <img src="/assets/img/target_EdiPrast.png" alt="validity icon (target with arrow hitting bullseye)" width="75" height="75">
+        <img src="/assets/img/target_EdiPrast.png" alt="validity icon (target with arrow hitting bullseye)" width="80" height="80">
       </div>
       <div class="col-sm-10">
         <h4>Validity</h4>
@@ -118,8 +118,8 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
       <div class="col-sm-10">
         <h4>Methods</h4>
         <i>Quantify sources of variability across labs and establish best practices</i>
-        <br>
       </div>
+      <br>
     </div>
   </div>
 </section>
