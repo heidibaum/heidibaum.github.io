@@ -104,7 +104,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 * <b><i>Project Contributors</i></b>: Create stimuli, protocols, analysis code, and any other relevant tasks
 * <b><i>Committee Members</i></b>: Help develop policies, initiatives, etc.
 
-> Learn how to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or [update your information]({{site.baseurl}}/people.md#dashboardform/).
+> Learn how to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or [update your information]({{site.baseurl}}/people/#dashboardform/).
 
 <br>
 
