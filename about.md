@@ -120,6 +120,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
         <i>Quantify sources of variability across labs and establish best practices</i>
       </div>
       <br>
+      <br>
     </div>
   </div>
 </section>
