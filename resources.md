@@ -174,7 +174,6 @@ title: Resources
 
 
 
-***
 <br>
 <br>
 >icons created by amonrat rungreangfangsai, Freepik, DinoSoft Labs - <a href="https://www.flaticon.com" title="Flaticon icons">Flaticon</a>
