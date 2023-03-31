@@ -65,7 +65,7 @@ title: Resources
         <a href="{{site.baseurl}}/codeofconduct/"><b>Code of Conduct</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/ethics.png" alt="ethics"> 
+        <img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b>Ethics Guidance</b></a>
