@@ -130,7 +130,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 ### ManyBabies contributors come from 40+ nations on 6 continents (View the <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">MB Contributor Dashboard</a>) 
 ### Contributors can serve as:
 * <b>Governing Board Members:</b> <i>Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [**here**]({{site.baseurl}}/people/))</i>
-* <b>Project Leads:</b> <i>Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/codeofconduct/) (see current Project Leads [**here**]({{site.baseurl}}/projects/))</i>
+* <b>Project Leads:</b> <i>Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/codeofconduct/) (see Project Leads [**here**]({{site.baseurl}}/projects/))</i>
 * <b>Project Contributors:</b> <i>Create stimuli, protocols, analysis code, and any other relevant tasks</i>
 * <b>Data Contributors:</b> <i>Collect data following an experimental protocol</i>
 * <b>Committee Members:</b> <i>Help develop policies, initiatives, etc.</i>
