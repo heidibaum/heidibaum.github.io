@@ -140,6 +140,7 @@ title: Resources
 * [**Web CDI**](https://webcdi.stanford.edu/): An online project of the MacArthur-Bates Communicative Development Inventory Advisory Board
 * [**Wordbank**](http://wordbank.stanford.edu/): An open database of children's vocabulary development
 
+<br>
 
 ***
 
@@ -148,6 +149,8 @@ title: Resources
 * [**Open Sesame**](https://osdoc.cogsci.nl/): Create experiments for psychology, neuroscience, and experimental economics.
 * [**Psychopy**](https://www.psychopy.org/) & [**PyHab**](https://github.com/jfkominsky/PyHab/): Create experiments in behavioral sciences (neuroscience, psychology, psychophysics, linguistics...). PyHab is especially developed to measure looking time and manage stimulus presentation for infant research.
 * [**R**](https://www.r-project.org/) & [**RStudio**](https://rstudio.com/): A free software environment for statistical computing and graphics.
+
+<br>
 
 ***
 
@@ -158,6 +161,7 @@ title: Resources
 * [**BITSS Resource Library**](https://www.bitss.org/resource-library/)
 * [**StudySwap**](https://osf.io/meetings/StudySwap/): A platform for interlab replication, collaboration, and research resource exchange.
 
+<br>
 
 ***
 
