@@ -75,7 +75,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/collaboration.png" alt="collaboration agreement"> 
+        <img src="/assets/img/teamwork_freepik.png" alt="collaboration agreement"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link" target="_blank"><b>Collaboration Agreement</b></a>
@@ -113,7 +113,7 @@ title: Resources
         <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/assets/img/avatar-icon-2022.png" target="_blank"><b>Logo</b></a>
+        <a href="https://drive.google.com/drive/folders/1RpcEVJw46S9sQ5QLl5vqExkAhvPg8rbp?usp=sharing" target="_blank"><b>MB Logos</b></a>
       </div>
     </div>
     <div class="row" align="center">
