@@ -91,6 +91,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
   <div class="container">
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
+        <br>
         <img src="/assets/img/target_EdiPrast.png" alt="validity icon (target with arrow hitting bullseye)" width="75" height="75">
       </div>
       <div class="col-sm-10">
@@ -101,6 +102,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
     </div>
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
+        <br>
         <img src="/assets/img/theory_uniconlabs.png" alt="theory icon (multicolor theory icon)" width="75" height="75">
       </div>
       <div class="col-sm-10">
@@ -110,7 +112,8 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
     </div>
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
-        <img src="/assets/img/tool-box_freepik.png" alt="toolbox icon (toolbox with hammer and screwdrivers)" width="50" height="50">
+        <br>
+        <img src="/assets/img/tool-box_freepik.png" alt="toolbox icon (toolbox with hammer and screwdrivers)" width="60" height="60">
       </div>
       <div class="col-sm-10">
         <h4>Methods</h4>
