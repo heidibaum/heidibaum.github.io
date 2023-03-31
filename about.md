@@ -123,3 +123,7 @@ All **MB** contributors are expected to abide by our [**Code of Conduct**]({{sit
 We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite for contributing to an **MB** project.
 
 All collaborators are encouraged to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or update your information.
+ 
+<br>
+<br>
+><a href="https://www.flaticon.com/free-icons/transparency" title="icons">Icons created by Freepik - Flaticon</a> 
