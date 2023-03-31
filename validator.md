@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Validator
+title: Data Validator
 ---
 
 <a href="https://manybabies.shinyapps.io/validator/" target="_blank"><b>Link to ManyBabies Data Validator</b></a>
