@@ -108,7 +108,7 @@ title: Resources
         <img src="/assets/img/publications.png" alt="publications"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/publications/" target="_blank"><b>Publications</b></a>
+        <a href="{{site.baseurl}}/publications/"><b>Publications</b></a>
       </div><div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"> 
       </div>
@@ -175,4 +175,6 @@ title: Resources
 
 
 ***
+<br>
+<br>
 >icons created by amonrat rungreangfangsai, Freepik, DinoSoft Labs - <a href="https://www.flaticon.com" title="Flaticon icons">Flaticon</a>
