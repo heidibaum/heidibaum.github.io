@@ -119,11 +119,10 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
         <h4>Methods</h4>
         <i>Quantify sources of variability across labs and establish best practices</i>
       </div>
-      <br>
-      <br>
     </div>
   </div>
 </section>
+<br>
 
 > Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
 
@@ -169,4 +168,4 @@ All collaborators are encouraged to join the [MB Contributor Dashboard]({{site.b
  
 <br>
 <br>
-><a href="https://www.flaticon.com/free-icons/transparency" title="icons">Icons created by Freepik & DinoSoft - Flaticon</a> 
+>Icons created by Freepik, DinoSoft, Unicon labs, Edi Prast - <a href="https://www.flaticon.com" title="icons">Flaticon</a> 
