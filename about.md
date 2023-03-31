@@ -105,10 +105,6 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 * <b><i>Project Contributors</i></b>: Create stimuli, protocols, analysis code, and any other relevant tasks
 * <b><i>Committee Members</i></b>: Help develop policies, initiatives, etc.
 
-<!-- NOTE: link to general manual here, instead of these docs?
-> See more detailed descriptions of [roles and responsibilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), policies on [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/) in **ManyBabies** projects.
--->
-
 > Learn how to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or [update your information]({{site.baseurl}}/people/#dashboardform"/).
 
 
