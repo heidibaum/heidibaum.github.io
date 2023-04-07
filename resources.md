@@ -97,24 +97,73 @@ title: Resources
     <br>
     <div class="row" align="left">
       <div class="col-sm-12">
-        <h3>MB Repositories</h3>
+        <h3>MB Communications</h3>
         <br>
       </div>
     </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/OSF.png" alt="OSF logo"> 
+        <img src="/assets/img/twitter.png" alt="Twitter logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://osf.io/rpw6d/" target="_blank"><b>OSF Repository</b></a>
+        <a href="https://twitter.com/Many_Babies" target="_blank"><b>@Many_Babies</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/github.png" alt="Github logo"> 
+        <img src="/assets/img/mastodon.png" alt="Mastodon logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://github.com/manybabies" target="_blank"><b>Github Repository</b></a>
+        <a href="https://nerdculture.de/@manybabies" target="_blank"><b>@manybabies</b></a>
       </div>
     </div>
+    <br>
+    <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://drive.google.com/drive/folders/1RpcEVJw46S9sQ5QLl5vqExkAhvPg8rbp?usp=sharing" target="_blank"><b>MB Logos</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+      </div>
+    </div>
+    <div class="row" align="left">
+      <div class="col-sm-12">
+        <h3>MB Tools</h3>
+        <br>
+      </div>
+    </div>
+    <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/manual.png" alt="manual" height="50" width="50"> <br>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>MB General Manual</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/calendar.png" alt="calendar"> <br>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
+      </div>
+    </div>
+    <br>
+    <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/pin.png" alt="globe with pins"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>Contributor Dashboard</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/validate.png" alt="checkmark"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/validator/" target="_blank"><b>Data Validator</b></a>
+      </div>
+    </div>
+    <br>
   </div>
 </section>
 
