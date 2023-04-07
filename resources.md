@@ -9,8 +9,41 @@ title: Resources
 <section>
   <div class="container">
     <div class="row" align="left">
-      <div class="col-sm-12">
+      <div class="col-sm-6">
         <h3>MB Tools</h3>
+      </div>
+      <div class="col-sm-6">
+        <h3>MB Library</h3>
+      </div>
+    </div>
+    <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/calendar.png" alt="calendar"> <br>
+        <img src="/assets/img/pin.png" alt="globe with pins">
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a> <br>
+        <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank"><b>Contributor Dashboard</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/publications.png" alt="publications"> <br>
+        <img src="/assets/img/youtube.png" alt="YouTube logo">
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/publications/"><b>Publications</b></a><br>
+        <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@ManyBabies</b></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section>
+  <div class="container">
+    <div class="row" align="left">
+      <div class="col-sm-12">
+        <p> </p>
       </div>
     </div>
     <div class="row" align="center">
