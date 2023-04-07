@@ -6,8 +6,6 @@ title: Resources
 
 ## ManyBabies Resources
 
-
-
 <section>
   <div class="container">
     <div class="row" align="left">
@@ -150,6 +148,21 @@ title: Resources
         <br>
       </div>
     </div>
+    <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/email.png" alt="email icon" width="50"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies" target="_blank"><b>MB listserv</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/slack.jpeg" alt="Slack logo" width="50"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank"><b>MB Slack</b></a>
+      </div>
+    </div>
+    <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/twitter.png" alt="Twitter logo" width="50"> 
