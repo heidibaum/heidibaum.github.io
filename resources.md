@@ -64,7 +64,15 @@ title: Resources
         <a href="https://github.com/manybabies" target="_blank"><b>Github Repository</b></a>
       </div>
     </div>
-    <br>
+  </div>
+</section>
+
+
+<section>
+  <div class="container">
+    <div class="row" align="left">
+      <p> </p>
+    </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/code.png" alt="code of conduct"> 
@@ -116,7 +124,8 @@ title: Resources
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/publications/"><b>Publications</b></a>
-      </div><div class="col-sm-1 col-xs-6" align="center">
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
