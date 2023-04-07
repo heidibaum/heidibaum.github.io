@@ -112,7 +112,7 @@ title: Resources
         <img src="/assets/img/github.png" alt="github logo" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://github.com/manybabies"><b>Github</b></a>
+        <a href="https://github.com/manybabies" target="_blank"><b>Github</b></a>
       </div>
     </div>
     <br>
@@ -121,7 +121,7 @@ title: Resources
         <img src="/assets/img/databrary.png" alt="databrary logo" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://nyu.databrary.org/search?q=manybabies&offset=0&volume"><b>Databrary</b></a>
+        <a href="https://nyu.databrary.org/search?q=manybabies&offset=0&volume" target="_blank"><b>Databrary</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
       </div>
