@@ -55,7 +55,7 @@ title: Resources
         <img src="/assets/img/youtube.png" alt="YouTube logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@ManyBabies</b></a>
+        <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@manybabies</b></a>
       </div>
     </div>
     <br>
