@@ -14,8 +14,9 @@ title: Resources
       </div>
     </div>
     <div class="row" align="center">
+      <h4>MB Tools</h4>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/calendar.png" alt="calendar"> 
+        <img src="/assets/img/calendar.png" alt="calendar"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
