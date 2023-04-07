@@ -66,6 +66,7 @@ title: Resources
         <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b>Ethics Guidance</b></a>
       </div>
     </div>
+    <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/letter.png" alt="authorship"> 
@@ -80,6 +81,7 @@ title: Resources
         <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link" target="_blank"><b>Collaboration Agreement</b></a>
       </div>
     </div>
+    <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/credit-icon.png" alt="CRediT categories"> 
