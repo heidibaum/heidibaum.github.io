@@ -18,13 +18,13 @@ title: Resources
     </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/manual.png" alt="manual" height="50" width="50"> <br>
+        <img src="/assets/img/manual.png" alt="manual" height="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>MB General Manual</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/calendar.png" alt="calendar" height="50" width="50"> <br>
+        <img src="/assets/img/calendar.png" alt="calendar" height="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
