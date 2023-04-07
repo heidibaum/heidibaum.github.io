@@ -24,7 +24,7 @@ title: Resources
         <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>MB General Manual</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/calendar.png" alt="calendar"> <br>
+        <img src="/assets/img/calendar.png" alt="calendar" height="50" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
@@ -33,13 +33,13 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/pin.png" alt="globe with pins"> 
+        <img src="/assets/img/pin.png" alt="globe with pins" height="50" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/validate.png" alt="checkmark"> 
+        <img src="/assets/img/validate.png" alt="checkmark" height="50" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/validator/" target="_blank"><b>Data Validator</b></a>
@@ -54,13 +54,13 @@ title: Resources
     </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/code.png" alt="code of conduct"> 
+        <img src="/assets/img/code.png" alt="code of conduct" height="50" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/codeofconduct/"><b>Code of Conduct</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)">
+        <img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" height="50" width="50">
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b>Ethics Guidance</b></a>
@@ -69,13 +69,13 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/letter.png" alt="authorship"> 
+        <img src="/assets/img/letter.png" alt="authorship" height="50" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/authorship/"><b>Authorship</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/teamwork_freepik.png" alt="collaboration agreement">
+        <img src="/assets/img/teamwork_freepik.png" alt="collaboration agreement" height="50" width="50">
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link" target="_blank"><b>Collaboration Agreement</b></a>
@@ -84,7 +84,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/credit-icon.png" alt="CRediT categories"> 
+        <img src="/assets/img/credit-icon.png" alt="CRediT categories" height="50" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link" target="_blank"><b>CRediT Categories</b></a>
@@ -97,19 +97,55 @@ title: Resources
     <br>
     <div class="row" align="left">
       <div class="col-sm-12">
+        <h3>MB Repositories</h3>
+        <br>
+      </div>
+    </div>
+    <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/OSF.png" alt="OSF logo" height="50" width="50"> <br>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://osf.io/rpw6d/" target="_blank"><b>OSF</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/github.png" alt="github logo" height="50" width="50"> <br>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://github.com/manybabies"><b>Github</b></a>
+      </div>
+    </div>
+    <br>
+    <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/pin.png" alt="globe with pins" height="50" width="50"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>Contributor Dashboard</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/validate.png" alt="checkmark" height="50" width="50"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/validator/" target="_blank"><b>Data Validator</b></a>
+      </div>
+    </div>
+    <br>
+    <div class="row" align="left">
+      <div class="col-sm-12">
         <h3>MB Communications</h3>
         <br>
       </div>
     </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/twitter.png" alt="Twitter logo"> 
+        <img src="/assets/img/twitter.png" alt="Twitter logo" height="50" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://twitter.com/Many_Babies" target="_blank"><b>@Many_Babies</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/mastodon.png" alt="Mastodon logo"> 
+        <img src="/assets/img/mastodon.png" alt="Mastodon logo" height="50" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://nerdculture.de/@manybabies" target="_blank"><b>@manybabies</b></a>
@@ -118,7 +154,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"> 
+        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo" height="50" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/drive/folders/1RpcEVJw46S9sQ5QLl5vqExkAhvPg8rbp?usp=sharing" target="_blank"><b>MB Logos</b></a>
@@ -128,42 +164,6 @@ title: Resources
       <div class="col-sm-5 col-xs-6" align="left">
       </div>
     </div>
-    <div class="row" align="left">
-      <div class="col-sm-12">
-        <h3>MB Tools</h3>
-        <br>
-      </div>
-    </div>
-    <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/manual.png" alt="manual" height="50" width="50"> <br>
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>MB General Manual</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/calendar.png" alt="calendar"> <br>
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
-      </div>
-    </div>
-    <br>
-    <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/pin.png" alt="globe with pins"> 
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>Contributor Dashboard</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/validate.png" alt="checkmark"> 
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/validator/" target="_blank"><b>Data Validator</b></a>
-      </div>
-    </div>
-    <br>
   </div>
 </section>
 
