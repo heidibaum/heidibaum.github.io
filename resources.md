@@ -168,13 +168,13 @@ title: Resources
         <img src="/assets/img/twitter.png" alt="Twitter logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://twitter.com/Many_Babies" target="_blank"><b>@Many_Babies</b></a>
+        <a href="https://twitter.com/Many_Babies" target="_blank"><b>Twitter/@Many_Babies</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/mastodon.png" alt="Mastodon logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://nerdculture.de/@manybabies" target="_blank"><b>@manybabies</b></a>
+        <a href="https://nerdculture.de/@manybabies" target="_blank"><b>Mastodon/@manybabies</b></a>
       </div>
     </div>
     <br>
