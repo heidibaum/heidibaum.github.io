@@ -47,7 +47,7 @@ title: Resources
     <br>
     <div class="row" align="left">
       <div class="col-sm-12">
-        <h3>MB Repositories<h3>
+        <h3>MB Repositories</h3>
       </div>
     </div>
     <div class="row" align="center">
