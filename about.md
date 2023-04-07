@@ -5,7 +5,7 @@ title: About MB
 
 ## What is ManyBabies?
 
-The **ManyBabies** consortium was born in 2015 committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. You can read the blog post that led to the formation of ManyBabies [**here**](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html).<br>
+The **ManyBabies Consortium** was born in 2015 committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. You can read the blog post that led to the formation of ManyBabies [**here**](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html).<br>
 
 MB's collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach. <br>
 
