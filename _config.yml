@@ -44,7 +44,7 @@ navbar-links:
     - Calendar: "calendar"
     - Publications: "publications"
     - Contributor Dashboard: "https://manybabies.shinyapps.io/shiny_mb_map/"
-    - Data Validator: "https://manybabies.shinyapps.io/validator/"
+    - Data Validator: "validator"
     - Code of Conduct: "codeofconduct"
   Get Involved: "get_involved"
 
