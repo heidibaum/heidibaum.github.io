@@ -202,6 +202,7 @@ title: Resources
   * [**OSF - Metascience Collection**](https://osf.io/collections/metascience/discover)
   * [**OSF - Open Psychological Datasets**](https://osf.io/th8ew/)
 * [**BITSS Resource Library**](https://www.bitss.org/resource-library/)
+* [**Contributor Roles Taxonomy (CRediT)**](https://credit.niso.org/)
 * [**StudySwap**](https://osf.io/meetings/StudySwap/): A platform for interlab replication, collaboration, and research resource exchange.
 
 <br>
