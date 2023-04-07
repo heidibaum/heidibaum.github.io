@@ -8,9 +8,9 @@ title: Resources
 
 <section>
   <div class="container">
-    <div class="row" align="center">
+    <div class="row" align="left">
       <div class="col-sm-12">
-        <h4>MB Tools</h4>
+        <h3>MB Tools</h3>
       </div>
     </div>
     <div class="row" align="center">
