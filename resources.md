@@ -6,58 +6,27 @@ title: Resources
 
 ## ManyBabies Resources
 
-<section>
-  <div class="container">
-    <div class="row" align="left">
-      <div class="col-sm-6">
-        <h3>MB Tools</h3>
-      </div>
-      <div class="col-sm-6">
-        <h3>MB Library</h3>
-      </div>
-    </div>
-    <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/calendar.png" alt="calendar"> <br>
-        <img src="/assets/img/pin.png" alt="globe with pins">
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a> <br>
-        <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank"><b>Contributor Dashboard</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/publications.png" alt="publications"> <br>
-        <img src="/assets/img/youtube.png" alt="YouTube logo">
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/publications/"><b>Publications</b></a><br>
-        <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@ManyBabies</b></a>
-      </div>
-    </div>
-  </div>
-</section>
-
 
 
 <section>
   <div class="container">
     <div class="row" align="left">
       <div class="col-sm-12">
-        <p> </p>
+        <h3>MB Tools<h3>
       </div>
     </div>
     <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/manual.png" alt="manual"> <br>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub"><b>MB General Manual</b></a>
+      </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/calendar.png" alt="calendar"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/youtube.png" alt="YouTube logo"> 
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@ManyBabies</b></a>
       </div>
     </div>
     <br>
@@ -66,7 +35,7 @@ title: Resources
         <img src="/assets/img/pin.png" alt="globe with pins"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank"><b>Contributor Dashboard</b></a>
+        <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/validate.png" alt="checkmark"> 
@@ -76,6 +45,11 @@ title: Resources
       </div>
     </div>
     <br>
+    <div class="row" align="left">
+      <div class="col-sm-12">
+        <h3>MB Repositories<h3>
+      </div>
+    </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/OSF.png" alt="OSF logo"> 
