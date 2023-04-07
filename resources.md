@@ -10,11 +10,10 @@ title: Resources
   <div class="container">
     <div class="row" align="center">
       <div class="col-sm-12">
-        <p> </p>
+        <h4>MB Tools</h4>
       </div>
     </div>
     <div class="row" align="center">
-      <h4>MB Tools</h4>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/calendar.png" alt="calendar"> <br>
       </div>
