@@ -118,16 +118,14 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/pin.png" alt="globe with pins" width="50"> 
+        <img src="/assets/img/databrary.png" alt="databrary logo" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>Contributor Dashboard</b></a>
+        <a href="https://nyu.databrary.org/search?q=manybabies&offset=0&volume"><b>Databrary</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/validate.png" alt="checkmark" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/validator/" target="_blank"><b>Data Validator</b></a>
       </div>
     </div>
     <br>
