@@ -33,13 +33,13 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/pin.png" alt="globe with pins" height="50" width="50"> 
+        <img src="/assets/img/pin.png" alt="globe with pins" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/validate.png" alt="checkmark" height="50" width="50"> 
+        <img src="/assets/img/validate.png" alt="checkmark" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/validator/" target="_blank"><b>Data Validator</b></a>
@@ -54,7 +54,7 @@ title: Resources
     </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/code.png" alt="code of conduct" height="50" width="50"> 
+        <img src="/assets/img/code.png" alt="code of conduct" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/codeofconduct/"><b>Code of Conduct</b></a>
@@ -69,7 +69,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/letter.png" alt="authorship" height="50" width="50"> 
+        <img src="/assets/img/letter.png" alt="authorship" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/authorship/"><b>Authorship</b></a>
@@ -84,7 +84,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/credit-icon.png" alt="CRediT categories" height="50" width="50"> 
+        <img src="/assets/img/credit-icon.png" alt="CRediT categories" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link" target="_blank"><b>CRediT Categories</b></a>
@@ -103,13 +103,13 @@ title: Resources
     </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/OSF.png" alt="OSF logo" height="50" width="50"> <br>
+        <img src="/assets/img/OSF.png" alt="OSF logo" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://osf.io/rpw6d/" target="_blank"><b>OSF</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/github.png" alt="github logo" height="50" width="50"> <br>
+        <img src="/assets/img/github.png" alt="github logo" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://github.com/manybabies"><b>Github</b></a>
@@ -118,13 +118,13 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/pin.png" alt="globe with pins" height="50" width="50"> 
+        <img src="/assets/img/pin.png" alt="globe with pins" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/validate.png" alt="checkmark" height="50" width="50"> 
+        <img src="/assets/img/validate.png" alt="checkmark" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/validator/" target="_blank"><b>Data Validator</b></a>
@@ -139,13 +139,13 @@ title: Resources
     </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/twitter.png" alt="Twitter logo" height="50" width="50"> 
+        <img src="/assets/img/twitter.png" alt="Twitter logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://twitter.com/Many_Babies" target="_blank"><b>@Many_Babies</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/mastodon.png" alt="Mastodon logo" height="50" width="50"> 
+        <img src="/assets/img/mastodon.png" alt="Mastodon logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://nerdculture.de/@manybabies" target="_blank"><b>@manybabies</b></a>
@@ -154,7 +154,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo" height="50" width="50"> 
+        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/drive/folders/1RpcEVJw46S9sQ5QLl5vqExkAhvPg8rbp?usp=sharing" target="_blank"><b>MB Logos</b></a>
