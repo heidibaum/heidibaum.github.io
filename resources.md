@@ -12,7 +12,7 @@ title: Resources
   <div class="container">
     <div class="row" align="left">
       <div class="col-sm-12">
-        <h3>MB Tools</h3>
+        <h3>MB Tools & Libraries</h3>
         <br>
       </div>
     </div>
@@ -43,6 +43,21 @@ title: Resources
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/validator/" target="_blank"><b>Data Validator</b></a>
+      </div>
+    </div>
+    <br>
+    <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/publications.png" alt="stack of papers" width="50"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/publications/" target="_blank"><b>Publications</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/youtube.png" alt="YouTube logo" width="50"> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@ManyBabies</b></a>
       </div>
     </div>
     <br>
