@@ -13,6 +13,7 @@ title: Resources
     <div class="row" align="left">
       <div class="col-sm-12">
         <h3>MB Tools</h3>
+        <br>
       </div>
     </div>
     <div class="row" align="center">
@@ -67,6 +68,7 @@ title: Resources
   </div>
 </section>
 
+<br>
 
 ***
 
