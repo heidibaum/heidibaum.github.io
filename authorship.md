@@ -4,7 +4,7 @@ title: Authorship
 ---
 
 
->Please refer to the <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>ManyBabies General Manual</b></a> for detailed information on our policies on authorship and derived projects/presentations. 
+>Please refer to the <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>ManyBabies General Manual</b></a> for detailed information on our policies on authorship and derived projects/presentations (section 6.3). 
 
 <!-- from MB1 authorship policy & Lessons learned -->
 **ManyBabies** aims for an inclusive authorship policy, both to recognize contributions of many different types and to incentivize researchers (especially early career researchers and students) to participate. Our philosophy underlying this model is that of recognizing any participating researchers who take intellectual ownership of the project within their own labs in addition to those who have made contributions to the project as a whole. **MB** strongly encourages careful tracking and documentation of each contribution, thus allowing its' smooth classification under transparent taxonomies (e.g., [CRediT](https://credit.niso.org/); [Brand et al., 2015](https://doi.org/10.1087/20150211)). Each project's lead team defines, adhering to **MB** [core principles]({{site.baseurl}}/about/), specific authorship guidelines for the project. For instance, [MB1](https://docs.google.com/document/d/1UDY75Iuin2I-Koe26lmK4p7wtx3S4rx8vkGtfkb8v7s/edit) defined that an author would be someone who made a substantive contribution in one of the following ways:
