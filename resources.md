@@ -49,7 +49,7 @@ title: Resources
         <img src="/assets/img/publications.png" alt="stack of papers" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/publications/" target="_blank"><b>Publications</b></a>
+        <a href="{{site.baseurl}}/publications/"><b>Publications</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/youtube.png" alt="YouTube logo" width="50"> 
