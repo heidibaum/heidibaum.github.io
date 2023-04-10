@@ -15,32 +15,17 @@ title: Resources
       </div>
     </div>
     <div class="row" align="center">
-      <div class="col-sm-1" align="center">
-        <img src="/assets/img/manual.png" alt="manual" width="50"> <br>
-      </div>
-      <div class="col-sm-5" align="left">
-        <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>MB General Manual</b></a>
-      </div>
-      <div class="col-sm-1" align="center">
-        <img src="/assets/img/calendar.png" alt="calendar" width="50"> <br>
-      </div>
-      <div class="col-sm-5" align="left">
-        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
-      </div>
-    </div>
-    <br>
-    <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/pin.png" alt="globe with pins" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>Contributor Dashboard</b></a>
+        <a href="{{site.baseurl}}/dashboard/"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/validate.png" alt="checkmark" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/validator/" target="_blank"><b>Data Validator</b></a>
+        <a href="{{site.baseurl}}/validator/"><b>Data Validator</b></a>
       </div>
     </div>
     <br>
@@ -59,6 +44,19 @@ title: Resources
       </div>
     </div>
     <br>
+    <div class="row" align="center">
+      <div class="col-sm-1" align="center">
+        <img src="/assets/img/calendar.png" alt="calendar" width="50"> <br>
+      </div>
+      <div class="col-sm-5" align="left">
+        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
+      </div>
+      <div class="col-sm-1" align="center">
+      </div>
+      <div class="col-sm-5" align="left">
+      </div>
+    </div>
+    <br>
     <div class="row" align="left">
       <div class="col-sm-12">
         <h3>MB Policies & Guidelines</h3>
@@ -67,16 +65,16 @@ title: Resources
     </div>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/manual.png" alt="manual" width="50"> <br>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>MB General Manual</b></a>
+      </div>
+            <div class="col-sm-1 col-xs-6" align="center">
         <img src="/assets/img/code.png" alt="code of conduct" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/codeofconduct/"><b>Code of Conduct</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="center">
-        <img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" width="50">
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b>Ethics Guidance</b></a>
       </div>
     </div>
     <br>
@@ -103,8 +101,10 @@ title: Resources
         <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link" target="_blank"><b>CRediT Categories</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="center">
+        <img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" width="50">
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b>Ethics Guidance</b></a>
       </div>
     </div>
     <br>
