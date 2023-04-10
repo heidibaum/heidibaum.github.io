@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Authorship
-cover-img: /assets/img/home-office-4994104.jpg
 ---
 
 <!-- from MB1 authorship policy & Lessons learned -->
