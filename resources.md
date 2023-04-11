@@ -15,13 +15,13 @@ title: Resources
       </div>
     </div>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/pin.png" alt="globe with pins" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/dashboard/"><b>Contributor Dashboard</b></a>
       </div>
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/validate.png" alt="checkmark" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
@@ -30,13 +30,13 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/publications.png" alt="stack of papers" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/publications/"><b>Publications</b></a>
       </div>
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/youtube.png" alt="YouTube logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
