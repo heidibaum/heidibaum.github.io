@@ -23,8 +23,8 @@ subtitle: Spin-offs & Secondary Analyses
 * [**MB3T: Test-Retest Follow-up**]({{site.baseurl}}/MB3T/)
 
 ### MB4: Social Evaluation
-* MB4E: Emotional Expressions [page in development, contact [Kelsey Lucca](mailto:klucca@asu.edu) for details]
-* MB4I: Individual Differences [page in development, contact [Kelsey Lucca](mailto:klucca@asu.edu) for details]
+* [**MB4E: Emotional responses**]({{site.baseurl}}/MB4E/)
+* [**MB4I: Individual differences in infants’ social evaluations across cultures**]({{site.baseurl}}/MB4I/)
 
 
 ***
