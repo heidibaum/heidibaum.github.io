@@ -45,13 +45,13 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
-      <div class="col-sm-1" align="center">
+      <div class="col-sm-1" align="left">
         <img src="/assets/img/calendar.png" alt="calendar" width="50"> <br>
       </div>
       <div class="col-sm-5" align="left">
         <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
       </div>
-      <div class="col-sm-1" align="center">
+      <div class="col-sm-1" align="left">
       </div>
       <div class="col-sm-5" align="left">
       </div>
@@ -64,13 +64,13 @@ title: Resources
       </div>
     </div>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/manual.png" alt="manual" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>MB General Manual</b></a>
       </div>
-            <div class="col-sm-1 col-xs-6" align="center">
+            <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/code.png" alt="code of conduct" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
@@ -79,13 +79,13 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/letter.png" alt="authorship" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/authorship/"><b>Authorship</b></a>
       </div>
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/teamwork_freepik.png" alt="collaboration agreement" width="50">
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
@@ -94,13 +94,13 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/credit-icon.png" alt="CRediT categories" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link" target="_blank"><b>CRediT Categories</b></a>
       </div>
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" width="50">
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
@@ -115,13 +115,13 @@ title: Resources
       </div>
     </div>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/OSF.png" alt="OSF logo" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://osf.io/rpw6d/" target="_blank"><b>OSF</b></a>
       </div>
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/github.png" alt="github logo" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
@@ -130,13 +130,13 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/databrary.png" alt="databrary logo" width="50"> <br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://nyu.databrary.org/search?q=manybabies&offset=0&volume" target="_blank"><b>Databrary</b></a>
       </div>
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
       </div>
@@ -149,13 +149,13 @@ title: Resources
       </div>
     </div>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/email.png" alt="email icon" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies" target="_blank"><b>MB listserv</b></a>
       </div>
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/slack.jpeg" alt="Slack logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
@@ -164,13 +164,13 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/twitter.png" alt="Twitter logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://twitter.com/Many_Babies" target="_blank"><b>Twitter/@Many_Babies</b></a>
       </div>
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/mastodon.png" alt="Mastodon logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
@@ -179,13 +179,13 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
         <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/drive/folders/1RpcEVJw46S9sQ5QLl5vqExkAhvPg8rbp?usp=sharing" target="_blank"><b>MB Logos</b></a>
       </div>
-      <div class="col-sm-1 col-xs-6" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
       </div>
