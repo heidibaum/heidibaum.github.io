@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: ManyBabiesDev
+title: Heidi Baumgartner, PhD
 
 # Your name to show in the footer
-author: ManyBabies
+author: Heidi Baumgartner
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,31 +22,8 @@ author: ManyBabies
 navbar-links:
   About: 
     - Home: "index"
-    - About MB: "about"
-    - People: "people"
-    - Events: "events"
-    - News & Updates: "news"
-  Projects: 
-    - Projects Overview: "projects"
-    - MB1: "MB1"
-    - MB2: "MB2"
-    - MB3: "MB3"
-    - MB3-NIRS: "MB3N"
-    - MB4: "MB4"
-    - MB5: "MB5"
-    - MB6: "MB6"
-    - At Home: "MB-AtHome"
-    - Demo- graphics: "MB-Demographics"
-    - Many Webcams: "MB-ManyWebcams"
-    - Spin-offs: "so_sa"
-  Resources:
-    - General Resources: "resources"
-    - Calendar: "calendar"
-    - Publications: "publications"
-    - Contributor Dashboard: "dashboard"
-    - Data Validator: "validator"
-    - Code of Conduct: "codeofconduct"
-  Get Involved: "get_involved"
+    - Publications: "https://scholar.google.com/citations?user=xmsJkhQAAAAJ&hl=en"
+    - Stanford Profile: "https://profiles.stanford.edu/heidi-baumgartner?releaseVersion=10.5.2"
 
 ################
 # --- Logo --- #
@@ -54,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon-2022.png"
+avatar: "/assets/img/HeidiBaumgartner.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -71,12 +48,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "manybabiesconsortium@gmail.com"
-  github: manybabies
-  twitter: many_babies
-  mastodon: nerdculture.de/@manybabies
-  youtube: channel/UCxhS9WkVPEb1oF5BTOlbkeg
-  google-scholar: citations?user=JOfosbYAAAAJ&hl=en
+  email: "heidib@stanford.edu"
+  twitter: hbaum
+  mastodon: nerdculture.de/@hbaum
+  google-scholar: citations?user=xmsJkhQAAAAJ&hl=en
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
 #  facebook: deanattali
