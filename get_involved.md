@@ -4,6 +4,7 @@ title: Get Involved!
 ---
 
 
+[Description of how ManyBabies projects are structured and operate...]
 
 ## Getting Involved in MB Projects
 
@@ -22,6 +23,7 @@ title: Get Involved!
     <p>Unsure Content TBD</p>
   </div>
 </div>
+<br>
 
 ### Do you want to propose a new project?
 
@@ -35,6 +37,7 @@ title: Get Involved!
     <p>Content TBD</p>
   </div>
 </div>
+<br>
 
 ***
 
@@ -50,6 +53,9 @@ title: Get Involved!
     <p>Content TBD</p>
   </div>
 </div>
+
+
+
 
 
 <script>
