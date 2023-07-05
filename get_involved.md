@@ -17,15 +17,36 @@ title: Get Involved!
   <div class="collapsible-content">
     <p>Sure Content TBD</p>
   </div>
-  <div class="collapsible-header collapsed">Filler header</div>
-  <div class="collapsible-content">
-    <p>Filler Content TBD</p>
-  </div>
-</div>
-<div class="collapsible">
   <div class="collapsible-header collapsed">No, I'm not sure which project I'd like to join</div>
   <div class="collapsible-content">
     <p>Unsure Content TBD</p>
+  </div>
+</div>
+
+#### Do you want to propose a new project?
+
+<div class="collapsible">
+  <div class="collapsible-header collapsed">Yes, I'd like to propose a new Main Project</div>
+  <div class="collapsible-content">
+    <p>Content TBD</p>
+  </div>
+  <div class="collapsible-header collapsed">Yes, I'd like to propose a Spin-Off Project</div>
+  <div class="collapsible-content">
+    <p>Content TBD</p>
+  </div>
+</div>
+
+
+# Getting Involved at the Organizational Level
+
+<div class="collapsible">
+  <div class="collapsible-header collapsed">Via Committee</div>
+  <div class="collapsible-content">
+    <p>Content TBD</p>
+  </div>
+  <div class="collapsible-header collapsed">Via the Governing Board</div>
+  <div class="collapsible-content">
+    <p>Content TBD</p>
   </div>
 </div>
 
