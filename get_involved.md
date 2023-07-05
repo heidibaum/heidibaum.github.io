@@ -16,7 +16,7 @@ title: Get Involved!
     <p>Sure Content TBD</p>
   </div>
 </div>
-
+<br>
 <div class="collapsible">
   <div class="collapsible-header collapsed">No, I'm not sure which project I'd like to join</div>
   <div class="collapsible-content">
