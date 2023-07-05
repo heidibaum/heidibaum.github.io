@@ -11,6 +11,7 @@ title: Get Involved!
 ### First Steps
 * Subscribe to project listserv to be notified about project updates, contribution opportunities, meeting invites, etc
 
+
 ### Do you know which project(s) you'd like to join?
 
 <div class="collapsible">
@@ -23,7 +24,7 @@ title: Get Involved!
     <p>Unsure Content TBD</p>
   </div>
 </div>
-<br>
+
 
 ### Do you want to propose a new project?
 
@@ -37,7 +38,7 @@ title: Get Involved!
     <p>Content TBD</p>
   </div>
 </div>
-<br>
+
 
 ***
 
