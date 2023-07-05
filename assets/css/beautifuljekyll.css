@@ -1158,9 +1158,9 @@ pre {
 }
 
 .collapsed .collapsible-button i::before {
-  content: "\f078";
+  content: " + ";
 }
 
 .expanded .collapsible-button i::before {
-  content: "\f077";
+  content: " - ";
 }
