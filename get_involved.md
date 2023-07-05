@@ -5,8 +5,8 @@ title: Get Involved!
 
 
 <div class="collapsible">
-  <button class="collapsible-button">Open Collapsible</button>
-  <div class="collapsible-content">
+  <button class="collapsible-button">Header 1</button>
+  <div class="collapsible-content" style="display: none;">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin tincidunt sapien ac dapibus. Fusce lacinia mi sed erat placerat, vitae dignissim erat egestas.</p>
   </div>
 </div>
