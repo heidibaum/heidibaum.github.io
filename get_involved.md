@@ -5,7 +5,7 @@ title: Get Involved!
 
 
 <div class="wrap-collapsible"> 
-  <input id="collapsible" class="toggle" type="checkbox"> 
+  <input id="collapsible1" class="toggle" type="checkbox"> 
   <label for="collapsible" class="lbl-toggle">HEADER 1</label>
   <div class="collapsible-content">
     <div class="content-inner">
@@ -15,7 +15,7 @@ title: Get Involved!
 </div>
 
 <div class="wrap-collapsible"> 
-  <input id="collapsible" class="toggle" type="checkbox"> 
+  <input id="collapsible2" class="toggle" type="checkbox"> 
   <label for="collapsible" class="lbl-toggle">HEADER 2</label>
   <div class="collapsible-content">
     <div class="content-inner">
@@ -25,7 +25,7 @@ title: Get Involved!
 </div>
 
 <div class="wrap-collapsible"> 
-  <input id="collapsible" class="toggle" type="checkbox"> 
+  <input id="collapsible3" class="toggle" type="checkbox"> 
   <label for="collapsible" class="lbl-toggle">HEADER 3</label>
   <div class="collapsible-content">
     <div class="content-inner">
