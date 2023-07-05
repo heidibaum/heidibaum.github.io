@@ -13,7 +13,7 @@ title: Get Involved!
 #### Do you know which project(s) you'd like to join?
 
 <div class="collapsible">
-  <div class="collapsible-header collapsed">Yes, I know what project(s) I'd like to join</div>
+  <div class="collapsible-header collapsed">Yes, I know which project(s) I'd like to join</div>
   <div class="collapsible-content">
     <p>Sure Content TBD</p>
   </div>
