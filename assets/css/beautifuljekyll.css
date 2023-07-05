@@ -1148,9 +1148,11 @@ pre {
 
 .content {
   padding: 0 18px;
+  width: 100%;
   display: none;
   overflow: hidden;
   color: white; 
+  outline: none;
   background-color: #036C9A;
 }
 
