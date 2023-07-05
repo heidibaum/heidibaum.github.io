@@ -2,7 +2,7 @@
 layout: page
 title: Get Involved!
 ---
-
+<!--
 <head>
   <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
 </head>
@@ -32,7 +32,7 @@ title: Get Involved!
     }
   });
 </script>
-
+-->
 
 
 
