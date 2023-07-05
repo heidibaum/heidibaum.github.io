@@ -1129,8 +1129,8 @@ pre {
 
 /* Collapsibles */
 .collapsible {
-  background-color: #777;
-  color: white;
+  background-color: #EAEAEA;
+  color: red;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -1141,12 +1141,12 @@ pre {
 }
 
 .collapsible:hover {
-  background-color: #555;
+  background-color: #036C9A;
 }
 
 .content {
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: #EAEAEA;
 }
