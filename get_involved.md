@@ -5,12 +5,12 @@ title: Get Involved!
 
 
 
-# Getting Involved in MB Projects
+## Getting Involved in MB Projects
 
-#### First Steps
+### First Steps
 * Subscribe to project listserv to be notified about project updates, contribution opportunities, meeting invites, etc
 
-#### Do you know which project(s) you'd like to join?
+### Do you know which project(s) you'd like to join?
 
 <div class="collapsible">
   <div class="collapsible-header collapsed">Yes, I know which project(s) I'd like to join</div>
@@ -23,7 +23,7 @@ title: Get Involved!
   </div>
 </div>
 
-#### Do you want to propose a new project?
+### Do you want to propose a new project?
 
 <div class="collapsible">
   <div class="collapsible-header collapsed">Yes, I'd like to propose a new Main Project</div>
@@ -37,7 +37,7 @@ title: Get Involved!
 </div>
 
 
-# Getting Involved at the Organizational Level
+## Getting Involved at the Organizational Level
 
 <div class="collapsible">
   <div class="collapsible-header collapsed">Via Committee</div>
