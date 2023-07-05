@@ -5,7 +5,9 @@ title: Get Involved!
 
 
 
-## Getting Involved in MB Projects
+# Getting Involved in MB Projects
+
+#### First Steps
 * Subscribe to project listserv to be notified about project updates, contribution opportunities, meeting invites, etc
 
 #### Do you know which project(s) you'd like to join?
