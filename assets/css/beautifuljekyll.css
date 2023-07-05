@@ -1163,7 +1163,7 @@ pre {
 
   .collapsible-content {
     display: none;
-    padding: 2px 20;
+    padding: 20px 2;
   }
 
   .expanded .collapsible-content {
