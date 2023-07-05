@@ -4,32 +4,57 @@ title: Get Involved!
 ---
 
 
-<div class="wrap-collapsible"> 
-  <input id="collapsible1" class="toggle" type="checkbox"> 
-  <label for="collapsible" class="lbl-toggle">HEADER 1</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>Example content for under collapsible header1</p>
-    </div>
-  </div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+<button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin tincidunt sapien ac dapibus. Fusce lacinia mi sed erat placerat, vitae dignissim erat egestas.</p>
 </div>
 
-<div class="wrap-collapsible"> 
-  <input id="collapsible2" class="toggle" type="checkbox"> 
-  <label for="collapsible" class="lbl-toggle">HEADER 2</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>Example content for under collapsible header2</p>
-    </div>
-  </div>
-</div>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
 
-<div class="wrap-collapsible"> 
-  <input id="collapsible3" class="toggle" type="checkbox"> 
-  <label for="collapsible" class="lbl-toggle">HEADER 3</label>
-  <div class="collapsible-content">
-    <div class="content-inner">
-      <p>Example content for under collapsible header3</p>
-    </div>
-  </div>
-</div>
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
