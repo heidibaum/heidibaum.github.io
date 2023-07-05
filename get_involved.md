@@ -38,7 +38,7 @@ title: Get Involved!
 
 
 <div class="collapsible">
-  <div class="collapsible-header collapsed">Header 2</div>
+  <div class="collapsible-header collapsed">Header 1</div>
   <div class="collapsible-content">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin tincidunt sapien ac dapibus. Fusce lacinia mi sed erat placerat, vitae dignissim erat egestas.</p>
   </div>
