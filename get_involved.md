@@ -3,6 +3,9 @@ layout: page
 title: Get Involved!
 ---
 
+<head>
+  <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+</head>
 
 <div class="collapsible">
   <button class="collapsible-button collapsed"><i class="fas">Header 1</button>
