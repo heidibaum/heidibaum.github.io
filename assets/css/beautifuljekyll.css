@@ -1167,3 +1167,42 @@ pre {
 .expanded .collapsible-button i::before {
   content: " - ";
 }
+
+
+
+
+
+.collapsible-header {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+
+  .collapsible-header:hover {
+    background-color: #555;
+  }
+
+  .collapsed::before {
+    content: '+';
+    margin-right: 5px;
+  }
+
+  .expanded::before {
+    content: '-';
+    margin-right: 5px;
+  }
+
+  .collapsible-content {
+    display: none;
+    padding: 10px;
+  }
+
+  .expanded .collapsible-content {
+    display: block;
+  }
