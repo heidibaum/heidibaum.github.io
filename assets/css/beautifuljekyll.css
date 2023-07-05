@@ -1132,6 +1132,8 @@ pre {
 /* Collapsibles */
 
 .collapsible-header {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 800;
     background-color: #777;
     color: white;
     cursor: pointer;
@@ -1140,7 +1142,8 @@ pre {
     border: none;
     text-align: left;
     outline: none;
-    font-size: 16px;
+    font-size: 1.125rem;
+    
   }
 
   .collapsible-header:hover {
