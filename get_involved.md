@@ -12,3 +12,19 @@ title: Get Involved!
     </div>
   </div>
 </div>
+<div class="wrap-collapsible"> 
+  <input id="collapsible" class="toggle" type="checkbox"> <label for="collapsible" class="lbl-toggle">HEADER 2</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p> Example content for under collapsible header</p>
+    </div>
+  </div>
+</div>
+<div class="wrap-collapsible"> 
+  <input id="collapsible" class="toggle" type="checkbox"> <label for="collapsible" class="lbl-toggle">HEADER 3</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p> Example content for under collapsible header</p>
+    </div>
+  </div>
+</div>
