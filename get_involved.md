@@ -28,11 +28,11 @@ title: Get Involved!
 ### Do you want to propose a new project?
 
 <div class="collapsible">
-  <div class="collapsible-header collapsed">Yes, I'd like to propose a new Main Project</div>
+  <div class="collapsible-header collapsed">Proposing a new Main Project</div>
   <div class="collapsible-content">
     <p>Content TBD</p>
   </div>
-  <div class="collapsible-header collapsed">Yes, I'd like to propose a Spin-Off Project</div>
+  <div class="collapsible-header collapsed">Proposing a Spin-Off Project</div>
   <div class="collapsible-content">
     <p>Content TBD</p>
   </div>
