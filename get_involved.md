@@ -4,7 +4,7 @@ title: Get Involved!
 ---
 
 
-[Description of how ManyBabies projects are structured and operate...]
+[Description of how ManyBabies projects are structured and operate, different ways to contribute, etc...]
 
 ## Getting Involved in MB Projects
 
