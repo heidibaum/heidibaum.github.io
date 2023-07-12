@@ -1,7 +1,3 @@
----
-layout: null
----
-
 document.addEventListener('DOMContentLoaded', function() {
   const feedContainer = document.getElementById('rss-feed');
   const feedUrl = 'https://us5.campaign-archive.com/feed?u=bd7eb0aaff403a504de65091d&amp;id=80eb1f8f4b';
