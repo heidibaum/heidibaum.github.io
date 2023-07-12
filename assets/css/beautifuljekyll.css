@@ -2,10 +2,6 @@
 layout: null
 ---
 
-@import url("pygment_highlights.css");
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
-
-
 /* --- General --- */
 
 html {
@@ -282,7 +278,7 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
-    text-align: center;
+    text-align: left;
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
