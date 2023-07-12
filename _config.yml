@@ -20,10 +20,12 @@ author: Heidi Baumgartner
 ###############################################
 
 navbar-links:
-  About: 
-    - Home: "index"
+  Home: "index"
+  Links:
     - Publications: "https://scholar.google.com/citations?user=xmsJkhQAAAAJ&hl=en"
-    - Stanford Profile: "https://profiles.stanford.edu/heidi-baumgartner?releaseVersion=10.5.2"
+    - Stanford: "https://profiles.stanford.edu/heidi-baumgartner?releaseVersion=10.5.2"
+    - Twitter: "https://twitter.com/hbaum"
+    - Mastodon: "https://nerdculture.de/@hbaum"
 
 ################
 # --- Logo --- #
