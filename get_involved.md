@@ -56,7 +56,7 @@ title: Get Involved!
 </div>
 
 
-
+<div id="rss-feed"></div>
 
 
 <script>
@@ -77,3 +77,8 @@ title: Get Involved!
     }
   });
 </script>
+
+
+
+<script src="https://unpkg.com/rss-parser/dist/rss-parser.min.js"></script>
+<script src="{{ '/assets/js/feed.js' | relative_url }}"></script>
