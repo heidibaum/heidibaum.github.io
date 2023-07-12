@@ -17,7 +17,7 @@ title: Get Involved!
 <div class="collapsible">
   <div class="collapsible-header collapsed">Yes, I know which project(s) I'd like to join</div>
   <div class="collapsible-content">
-    <p>Sure Content TBD</p>
+    <iframe class="airtable-embed" src="https://airtable.com/embed/shrnHSviQxfnS7ZGc?backgroundColor=greenDusty" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
   </div>
   <div class="collapsible-header collapsed">No, I'm not sure which project I'd like to join</div>
   <div class="collapsible-content">
