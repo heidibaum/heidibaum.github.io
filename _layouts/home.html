@@ -2,6 +2,9 @@
 layout: page
 ---
 
+<script src="https://unpkg.com/rss-parser/dist/rss-parser.min.js"></script>
+<script src="{{ '/assets/js/feed.js' | relative_url }}"></script>
+
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
