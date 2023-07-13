@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Heidi Baumgartner, PhD
+title: Heidi A. Baumgartner, PhD
 
 # Your name to show in the footer
 author: Heidi Baumgartner
@@ -131,11 +131,11 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#00B0F0"
-hover-col: "#A34A7D"
-footer-col: "#8497B0"
-footer-text-col: "#7F7F7F"
-footer-link-col: "#036C9A"
-footer-hover-col: "#FFFFFF"
+hover-col: "#333F50"
+footer-col: "#EAEAEA"
+footer-text-col: "#8497B0"
+footer-link-col: "#8497B0"
+footer-hover-col: "#333F50"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
