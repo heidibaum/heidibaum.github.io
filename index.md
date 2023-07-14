@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="container" align="center">
-  <img border="0" src="assets/img/Baumgartner_headshot.png" width="400">
+  <img border="0" src="assets/img/Baumgartner_headshot.jpg" width="400">
 </div>
 
 Heidi Baumgartner is a Research Scholar at Stanford University and the Executive Director of [***ManyBabies***](https://manybabies.org), a collaborative project for replication and best practices in developmental psychology research. 
