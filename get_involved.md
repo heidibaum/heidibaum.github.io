@@ -4,8 +4,9 @@ title: Get Involved!
 ---
 
 
-<p>ManyBabies is a consortium of researchers who are interested in developing a <b>more robust</b> and <b>inclusive</b> developmental science through collaboration. This spirit of collaboration is at the center of every ManyBabies Project and is fundamental to how the consortium is governed.</p>
-<p>Each project is led by Project Leads who are responsible for coordinating the development, implementation, and dissemination of their project across the research teams and individuals who have signed up to contribute. Each research project is supported by the ManyBabies Executive Director and Governing Board [who help XX??]. Through this structure, ManyBabies offers a variety of opportunities for people to become involved in a community of scientists that emphasizes open science practices and fosters collaboration among researchers from different institutions and countries, enabling rigorous and large-scale studies on early development.</p>
+<p>ManyBabies is a consortium of researchers who are interested in developing a <b>more robust</b> and <b>inclusive</b> developmental science through collaboration. This spirit of collaboration is at the center of every ManyBabies project and is fundamental to how the consortium is governed.</p>
+<p>Each project is led by <b>Project Leads</b> who are responsible for coordinating the development, implementation, and dissemination of their project across the research teams and individuals who have signed up to contribute. Each research project is supported by the ManyBabies Executive Director and Governing Board [who help XX??].</p> 
+ <p>Through this structure, ManyBabies offers a variety of opportunities for people to become involved in a community of scientists that emphasizes open science practices and fosters collaboration among researchers from different institutions and countries, enabling rigorous and large-scale studies on early development.</p>
 <p>Below we outline several ways that you can become involved in a ManyBabies Project.</p>
 
 
