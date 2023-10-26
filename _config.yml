@@ -52,8 +52,9 @@ round-avatar: true
 social-network-links:
   email: "heidib@stanford.edu"
   twitter: hbaum
-  mastodon: nerdculture.de/@hbaum
+  bluesky: hbaum.bsky.social
   google-scholar: citations?user=xmsJkhQAAAAJ&hl=en
+  ORCID: 0000-0001-5032-5995
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
 #  facebook: deanattali
@@ -71,7 +72,6 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  ORCID: your ORCID ID
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
